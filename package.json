@@ -15,8 +15,5 @@
       "dotenv": "^16.4.5",
       "express": "^4.19.2",
       "libsodium-wrappers": "^0.7.14"
-   },
-   "engines": {
-      "node": "18.x"
    }
 }
