@@ -18,6 +18,6 @@
    },
    "scripts": {
       "start": "node main.js",
-      "postinstall": "npm uninstall opusscript node-opus @discordjs/opus && npm install @discordjs/opus"
+      "postinstall": "npm uninstall opusscript node-opus"
    }
 }
