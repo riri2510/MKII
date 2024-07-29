@@ -17,7 +17,7 @@
       "sodium-native": "^4.1.1"
    },
    "scripts": {
-      "start": "node main.js",
-      "postinstall": "npm uninstall opusscript node-opus"
+      "postinstall": "npm uninstall opusscript node-opus",
+      "start": "node main.js"
    }
 }
