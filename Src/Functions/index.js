@@ -1,1 +1,443 @@
-const _0x5144b7=_0x12b8;(function(_0x36fc14,_0x52b997){const _0x3f4972=_0x12b8,_0x43e456=_0x36fc14();while(!![]){try{const _0x35fa22=-parseInt(_0x3f4972(0xfd))/(0x1d47+-0x24e3+0x79d)+-parseInt(_0x3f4972(0x112))/(0xe73*-0x1+-0x1*-0x21b5+-0x1340)+parseInt(_0x3f4972(0x16b))/(0x135*0xc+0x1637+-0x24b0)*(parseInt(_0x3f4972(0x12f))/(0x52*0x3b+-0xeaa*-0x2+-0x16*0x231))+-parseInt(_0x3f4972(0x10a))/(-0x1*-0x1067+-0x2*-0x698+-0x1d92)+-parseInt(_0x3f4972(0xdd))/(-0x187c*-0x1+-0x1*-0x48a+-0x1d00)+parseInt(_0x3f4972(0x14d))/(0x70f*0x4+0x9e5+-0x261a)+parseInt(_0x3f4972(0x113))/(0x1ad*-0x14+0x2444+0xae*-0x4)*(parseInt(_0x3f4972(0x15d))/(0x1*-0x282+0x26f6+0x246b*-0x1));if(_0x35fa22===_0x52b997)break;else _0x43e456['push'](_0x43e456['shift']());}catch(_0x2e3290){_0x43e456['push'](_0x43e456['shift']());}}}(_0xf427,0x5064b+-0xce3cc*-0x2+-0xfa910));const {ActionRowBuilder,ButtonBuilder,EmbedBuilder,ModalBuilder,TextInputBuilder}=require(_0x5144b7(0x131)),{Playlist}=require(_0x5144b7(0x10b));module['exports']={'isAdmin':isAdmin,'isOwner':isOwner,'strict':strict,'auth':auth,'reject':reject,'handleCommand':handleCommand,'handleModalSubmit':handleModalSubmit,'updateDescription':updateDescription,'autoJoin':autoJoin,'unDeaf':unDeaf,'getAddSongEmbed':getAddSongEmbed,'getAddListEmbed':getAddListEmbed,'playMusic':playMusic,'description':description,'getSeconds':getSeconds,'deleteMessage':deleteMessage,'capFirstChar':capFirstChar,'formatTime':formatTime,'updateEmbed':updateEmbed,'updateButtons':updateButtons,'isFit':isFit,'biModeLoop':biModeLoop,'triModeLoop':triModeLoop,'generateQueuePage':generateQueuePage,'queueActionRow':queueActionRow,'showModal':showModal,'sendErrorEmbed':sendErrorEmbed,'printData':printData};function isAdmin(_0x2814ac){const _0x9fa6d6=_0x5144b7;return _0x2814ac[_0x9fa6d6(0xc2)]['id']===_0x2814ac[_0x9fa6d6(0x176)][_0x9fa6d6(0xf8)]['admin']['id'];}function isOwner(_0x570012){const _0x4529a0=_0x5144b7,_0x3084d2={'LYgIi':function(_0x8e235,_0x2ad3cd){return _0x8e235===_0x2ad3cd;}};return _0x3084d2['LYgIi'](_0x570012['user']['id'],_0x570012['client'][_0x4529a0(0xf8)]['owner']['id']);}function _0xf427(){const _0x1fe50c=['length','BiVjd','❌\x20\x20\x20✦\x20🍕\x20Co','reply','setSelfDea','\x20Error\x0a','api/v9/gui','name','channelId','Im\x20Sleepin','channel','join','n/json','get','MdBjJ','all','match','source','deferReply','commandNam','guild','playerMess','leave\x20or\x20d','I\x27m\x20sleepi','play','❌\x20\x20\x20✦\x20🍉\x20Au','6127144TmclGW','stringify','discord.js','voiceChann','dzSPs','YsbzM','Live','Previous\x20P','yznvs','setVolume','some','XJhdd','>,\x20Call\x20<@','textChanne','EtZTM','queueNext','color','pZWqy','meInput','rvEyC','playerAddI','embed','\x20songs・Req','VEODq','ay\x20Error\x0a','elete\x20the\x20','ver','Short','DIcUs','add','772982uLcfHs','✦\x20No\x20music','setTimesta','log','lIWKN','addPlaylis','❌\x20\x20\x20✦\x20🍕\x20Ge','Next\x20Page','addCompone','Join\x20Voice','Created\x20se','fetch','.\x20[','Close','setAuthor','catch','1155537TxHgrY','━━━━━━━━━━','playerEmbe','setRepeatM','leave','ode','ng\x20<@','toJoin\x20Err','🥪\x20•\x20Page\x20','utValue','cache','charAt','setPlaceho','lds','3mSFHjS','forEach','youtube','setDescrip','playerSeek','HEAD','volume','delete','getTextInp','ng.\x20Please','descriptio','client','create\x20ser','iconURL','fFwZq','songs','setThumbna','pJagZ','g\x20went\x20wro','zgOKw','member','user','tion','gClEG','✦\x20Meowing','Failed\x20to\x20','ilXNV','LfmOC','split','TLmHP','playlist?l','https://di','mzTKj','ist=','ownerId','EAsqj','\x20/\x20','queue','\x20\x20\x20\x20\x20\x20|\x20Na','time\x20forma','setColor','getQueue','Modal','filters','t\x20found','mmand\x20Load','repeatMode','data','3632928hjkCDQ','.\x20ID:\x20','roles','edit','showModal','Bot\x20','>\x0a✦\x20From\x20','includes','thumbnail','queueFirst','or\x0a','player','addSong','nts','BLzvP','First\x20Page','✦\x20Please\x20j','owner','voice','HFFbc','meModal','een\x201\x20and\x20','playing','Mix','g\x20:3','umber\x20betw','nightcore','config','>\x20Please\x20❤️‍🔥','https://ww','setDisable','・Stereo\x0a','382871DoobvY','\x20|\x20Name:\x20','\x20><','send',')\x20with\x20','url','\x20playing','random','author','fields','✦\x20Seeked\x20t','POST','necting\x20me','6325470TKacCy','distube','from','editReply','ocBqW','users','✦\x20Invalid\x20','gtbqQ','1414732gtobyU','144QoZnWy','age'];_0xf427=function(){return _0x1fe50c;};return _0xf427();}function isMainGuild(_0x328de4){const _0x1cd1a4=_0x5144b7,_0x5d228b={'XplQb':function(_0x2a7b4d,_0x25d390){return _0x2a7b4d===_0x25d390;}};return _0x5d228b['XplQb'](_0x328de4['guild']['id'],_0x328de4[_0x1cd1a4(0x176)]['config'][_0x1cd1a4(0x129)]['id']);}function hasRole(_0x180d94){const _0x47a507=_0x5144b7;return _0x180d94['client']['config'][_0x47a507(0x10f)]['roles'][_0x47a507(0x139)](_0x2a09d3=>_0x180d94['member'][_0x47a507(0xdf)]['cache']['has'](_0x2a09d3));}async function strict(_0x342ce2){const _0x4d550e=_0x5144b7,_0x1cbea0={'NKqux':function(_0x415564,_0x2e2397,_0x116bf6){return _0x415564(_0x2e2397,_0x116bf6);},'yznvs':_0x4d550e(0x11e)+_0x4d550e(0xf5)};return _0x1cbea0['NKqux'](deleteMessage,await _0x342ce2[_0x4d550e(0x118)]({'content':_0x1cbea0[_0x4d550e(0x137)]}),-0x3227+-0x21*-0x3f+0x5118);}function auth(_0x392949){const _0x16b074=_0x5144b7,_0x295bca={'EAsqj':function(_0x3693d6,_0x4a3fbb){return _0x3693d6(_0x4a3fbb);},'HFFbc':function(_0x53a9e3,_0x1e0a38){return _0x53a9e3(_0x1e0a38);}};if(isMainGuild(_0x392949)&&(isOwner(_0x392949)||_0x295bca[_0x16b074(0xd0)](isAdmin,_0x392949)||hasRole(_0x392949)))return!![];else return!_0x295bca[_0x16b074(0xf0)](isMainGuild,_0x392949)?!![]:![];}async function reject(_0x157874,_0x362aeb){const _0xc901c0=_0x5144b7,_0x3f855e={'IKBsi':function(_0x480127,_0xcb9dbb){return _0x480127===_0xcb9dbb;}};try{const _0x2180c0=_0xc901c0(0x12c)+_0xc901c0(0x163)+_0x157874['user']['id']+_0xc901c0(0x13b)+_0x157874[_0xc901c0(0x176)][_0xc901c0(0xf8)][_0xc901c0(0xee)]['id']+_0xc901c0(0xf9);if(_0x3f855e['IKBsi'](_0x362aeb,-0x1*0xd51+0x1a05+0x1*-0xcb3))await _0x157874[_0xc901c0(0x11f)][_0xc901c0(0x100)](_0x2180c0);else await _0x157874[_0xc901c0(0x118)]({'content':_0x2180c0});}catch(_0x63bb18){console['log']('❌\x20\x20\x20✦\x20🍕\x20Re'+'ject\x20Error'+'\x0a',_0x63bb18);}}async function handleCommand(_0x436a7f){const _0xdfe05c=_0x5144b7,_0x2b9beb={'mzTKj':_0xdfe05c(0x156)+'\x20Channel','gClEG':_0xdfe05c(0x117)+_0xdfe05c(0xda)+'\x20Error\x0a'};try{if(!_0x436a7f['isCommand']())return;const _0x1936ea=_0x436a7f['client']['commands']['get'](_0x436a7f[_0xdfe05c(0x128)+'e']);if(!_0x1936ea)return await _0x436a7f['reply']({'content':'Command\x20no'+_0xdfe05c(0xd9),'ephemeral':!![]});if(!auth(_0x436a7f))return reject(_0x436a7f,0x1ba*-0x1+0x23e4+-0x222a);if(_0x1936ea[_0xdfe05c(0x132)+'el']&&!_0x436a7f['member'][_0xdfe05c(0xef)][_0xdfe05c(0x11d)])return deleteMessage(await _0x436a7f['reply']({'content':_0x2b9beb[_0xdfe05c(0xcd)]}),0x4645+-0x62a*-0x8+0x3*-0x1ad7);await _0x1936ea['run'](_0x436a7f);}catch(_0x5b534c){console['log'](_0x2b9beb[_0xdfe05c(0xc4)],_0x5b534c),await _0x436a7f[_0xdfe05c(0x118)]({'content':_0xdfe05c(0xc6)+'load\x20comma'+'nd','ephemeral':!![]});}}async function handleModalSubmit(_0x2e2174){const _0x3eb6b2=_0x5144b7,_0x4b95a2={'SNWte':_0x3eb6b2(0x16f)+_0x3eb6b2(0xd7)};await _0x2e2174[_0x3eb6b2(0x127)]();const _0xc6f6ca=_0x2e2174['client']['player']['getQueue'](_0x2e2174['guild']['id']),_0x41dfde=new EmbedBuilder()[_0x3eb6b2(0xd5)](_0x2e2174['client']['config'][_0x3eb6b2(0x144)][_0x3eb6b2(0x13f)]);switch(_0x2e2174['customId']){case'playerAddM'+'odal':await addModal(_0x2e2174,_0x41dfde);break;case _0x4b95a2['SNWte']:await seekModal(_0x2e2174,_0xc6f6ca,_0x41dfde);break;case'playerVolu'+_0x3eb6b2(0xf1):await volumeModal(_0x2e2174,_0xc6f6ca,_0x41dfde);break;}}async function addModal(_0x38e644,_0xe68235){const _0x21eda6=_0x5144b7,_0x395c5b={'lGmmm':function(_0x41f4b0,_0x2071b0,_0xc485d6){return _0x41f4b0(_0x2071b0,_0xc485d6);},'XJhdd':_0x21eda6(0xed)+'oin\x20voice\x20'+'channel','VEODq':_0x21eda6(0xc5)},_0x1eebee=_0x38e644[_0x21eda6(0x106)][_0x21eda6(0x173)+_0x21eda6(0x166)](_0x21eda6(0x143)+'nput')['split']('--');if(!_0x38e644[_0x21eda6(0xc1)][_0x21eda6(0xef)]['channel'])_0x395c5b['lGmmm'](deleteMessage,await _0x38e644[_0x21eda6(0x10d)]({'embeds':[_0xe68235['setDescrip'+'tion'](_0x395c5b[_0x21eda6(0x13a)])]}),-0x20e7*0x1+0x2012+0x145d);else{const _0xaadae4=await _0x38e644[_0x21eda6(0x10d)]({'embeds':[_0xe68235[_0x21eda6(0x16e)+'tion'](_0x395c5b[_0x21eda6(0x146)])]});await playMusic(_0x38e644,_0x1eebee[0x146*0xd+-0x5f5*-0x6+0x1a26*-0x2],_0x1eebee[0x183d+0x22a5+-0x3ae1]),deleteMessage(_0xaadae4,0x139e+0xcd3+-0x14b9);}}async function seekModal(_0x1ea328,_0x6a6c03,_0x3810d1){const _0x5f1d94=_0x5144b7,_0x54c814={'zgOKw':'✦\x20No\x20music'+_0x5f1d94(0x103)},_0x546b42=_0x1ea328['fields'][_0x5f1d94(0x173)+_0x5f1d94(0x166)]('playerSeek'+'Input'),_0x92827b=getSeconds(_0x546b42);if(!_0x6a6c03||!_0x6a6c03[_0x5f1d94(0xf3)])_0x3810d1[_0x5f1d94(0x16e)+'tion'](_0x54c814[_0x5f1d94(0x17e)]);else isNaN(_0x92827b)?_0x3810d1['setDescrip'+_0x5f1d94(0xc3)](_0x5f1d94(0x110)+_0x5f1d94(0xd4)+'t.\x20Use:\x202h'+'\x203m\x204s'):(await _0x6a6c03['seek'](_0x92827b),_0x3810d1['setDescrip'+'tion'](_0x5f1d94(0x107)+'o\x20'+_0x546b42));deleteMessage(await _0x1ea328[_0x5f1d94(0x10d)]({'embeds':[_0x3810d1]}),0x1*0x1fa5+-0x2*0x1082+0x14e7);}async function volumeModal(_0x432615,_0x438439,_0x1472f1){const _0xc6693e=_0x5144b7,_0x4815c0=_0x432615['client']['config']['player']['maxVol'],_0x178ce7=parseInt(_0x432615['fields'][_0xc6693e(0x173)+'utValue']('playerVolu'+_0xc6693e(0x141)));if(!_0x438439||!_0x438439['playing'])_0x1472f1['setDescrip'+_0xc6693e(0xc3)](_0xc6693e(0x14e)+'\x20playing');else{if(_0x438439[_0xc6693e(0x171)]===_0x178ce7)_0x1472f1['setDescrip'+_0xc6693e(0xc3)]('✦\x20Volume\x20i'+'s\x20already\x20'+'set\x20to\x20'+_0x178ce7);else!_0x178ce7||_0x178ce7<0x24fe+0x1e17+-0x4314||_0x178ce7>_0x4815c0?_0x1472f1[_0xc6693e(0x16e)+_0xc6693e(0xc3)]('✦\x20Type\x20a\x20n'+_0xc6693e(0xf6)+_0xc6693e(0xf2)+_0x4815c0):(await _0x438439[_0xc6693e(0x138)](_0x178ce7),_0x1472f1[_0xc6693e(0x16e)+'tion']('✦\x20Set\x20the\x20'+'volume\x20to\x20'+_0x178ce7));}deleteMessage(await _0x432615['editReply']({'embeds':[_0x1472f1]}),-0x310d+-0x29bd+0x40ed*0x2);}async function updateDescription(_0x20fee5,_0x449075,_0x14f37d){const _0x58b527=_0x5144b7,_0x5f048a={'euuVm':function(_0x58e3a4,_0x3c16b6){return _0x58e3a4===_0x3c16b6;},'EtZTM':function(_0x5017eb,_0x14f6e0){return _0x5017eb(_0x14f6e0);}};if(_0x5f048a['euuVm'](_0x14f37d['id'],_0x20fee5[_0x58b527(0xc2)]['id'])){const _0x4cbcbc=_0x20fee5[_0x58b527(0xe8)]['getQueue'](_0x449075['guild']['id']),_0x523160=_0x20fee5[_0x58b527(0xe8)][_0x58b527(0xd6)](_0x14f37d[_0x58b527(0x129)]['id']);_0x4cbcbc&&_0x523160&&_0x4cbcbc[_0x58b527(0x13c)+'l']===_0x523160[_0x58b527(0x13c)+'l']&&(_0x523160[_0x58b527(0x15f)+'d']&&_0x523160['playerEmbe'+'d']['setDescrip'+'tion'](_0x523160[_0x58b527(0x15f)+'d'][_0x58b527(0xdc)][_0x58b527(0x175)+'n']['replace'](/<#\d+>/,'<#'+_0x14f37d[_0x58b527(0x11d)]+'>')),_0x5f048a[_0x58b527(0x13d)](updateEmbed,_0x523160));}}async function autoJoin(_0x5b4bed,_0xeb6fcc,_0xd3c0df){const _0x5df3ed=_0x5144b7,_0x225da1={'pZWqy':function(_0x56e1c9,_0x47f197){return _0x56e1c9!==_0x47f197;}};try{if(_0x225da1[_0x5df3ed(0x140)](_0xd3c0df[_0x5df3ed(0xc1)]['id'],_0x5b4bed[_0x5df3ed(0xf8)]['owner']['id']))return;_0xd3c0df[_0x5df3ed(0x11d)]&&_0xd3c0df[_0x5df3ed(0x11d)]!==_0xeb6fcc['channelId']&&await _0x5b4bed[_0x5df3ed(0xe8)]['voices']['join'](_0xd3c0df[_0x5df3ed(0x11f)])[_0x5df3ed(0x15c)](()=>{});}catch(_0x1ff710){console['error'](_0x5df3ed(0x12e)+_0x5df3ed(0x164)+_0x5df3ed(0xe7),_0x1ff710);}}async function unDeaf(_0x311cd8){const _0x813ed0=_0x5144b7;if(_0x311cd8&&_0x311cd8[_0x813ed0(0xef)]['selfDeaf'])await _0x311cd8['voice'][_0x813ed0(0x119)+'f'](![]);}function getAddSongEmbed(_0x26904d,_0x29a9e6){const _0x5ebc5d=_0x5144b7;return new EmbedBuilder()[_0x5ebc5d(0xd5)](_0x26904d['config'][_0x5ebc5d(0x144)][_0x5ebc5d(0x13f)])['setThumbna'+'il'](_0x29a9e6[_0x5ebc5d(0xe5)])[_0x5ebc5d(0x16e)+'tion']('✦\x20Added\x20['+_0x29a9e6['name']+']('+_0x29a9e6[_0x5ebc5d(0x102)]+(')・Requeste'+'d\x20by\x20<@')+_0x29a9e6['user']['id']+_0x5ebc5d(0xe3)+_0x29a9e6[_0x5ebc5d(0x126)]);}function getAddListEmbed(_0x2b6790,_0x10949c){const _0x30eab1=_0x5144b7;return new EmbedBuilder()[_0x30eab1(0xd5)](_0x2b6790[_0x30eab1(0xf8)]['embed'][_0x30eab1(0x13f)])[_0x30eab1(0x17b)+'il'](_0x10949c[_0x30eab1(0xe5)])[_0x30eab1(0x16e)+_0x30eab1(0xc3)]('✦\x20Added\x20['+_0x10949c[_0x30eab1(0x11c)]+']('+_0x10949c['url']+_0x30eab1(0x101)+_0x10949c[_0x30eab1(0x17a)]['length']+(_0x30eab1(0x145)+'uested\x20by\x20'+'<@')+_0x10949c[_0x30eab1(0xc2)]['id']+_0x30eab1(0xe3)+_0x10949c['source']);}async function playMusic(_0xa658d8,_0x410837,_0x2df5d3){const _0x357022=_0x5144b7,_0x4f48b9={'gvJPQ':'&list=RD','oFZDc':_0x357022(0xcb)+_0x357022(0xce),'rvEyC':_0x357022(0xf4),'gtbqQ':function(_0x2c2459,_0x1c3a00,_0x571849,_0x5d0d4f){return _0x2c2459(_0x1c3a00,_0x571849,_0x5d0d4f);}},_0x4e6f95=_0x410837[_0x357022(0xe4)](_0x4f48b9['gvJPQ']),_0x347453=_0x410837[_0x357022(0xe4)](_0x4f48b9['oFZDc']),_0x7d6bea=_0x4e6f95?_0x4f48b9[_0x357022(0x142)]:_0x347453?'Playlist':'Song',_0x9d41e5=_0xa658d8['client']['cache'][_0x357022(0x122)+_0x7d6bea](_0x410837);if(_0x9d41e5)await playSong(_0xa658d8,_0x9d41e5,_0x2df5d3);else{if(_0x4e6f95){const _0x4b9bc9=await getMix(_0x410837,_0xa658d8['client'][_0x357022(0xe8)]['handler']);await playSong(_0xa658d8,_0x4b9bc9,_0x2df5d3),_0xa658d8['client'][_0x357022(0x167)]['addMix'](_0x410837,_0x4b9bc9);}else _0x347453?(await playSong(_0xa658d8,_0x410837,_0x2df5d3),_0xa658d8[_0x357022(0x176)][_0x357022(0x167)][_0x357022(0x152)+'t'](_0x410837)):(await _0x4f48b9[_0x357022(0x111)](playSong,_0xa658d8,_0x410837,_0x2df5d3),_0xa658d8['client']['cache'][_0x357022(0xe9)](_0x410837));}}async function playSong(_0x223606,_0x25f2b5,_0x3e27b7){const _0xb6f1a1=_0x5144b7,_0x288576={'vGKrd':'❌\x20\x20\x20✦\x20🍕\x20Pl'+_0xb6f1a1(0x147)};await _0x223606[_0xb6f1a1(0x176)]['player'][_0xb6f1a1(0x12d)](_0x223606['member'][_0xb6f1a1(0xef)]['channel'],_0x25f2b5,{'position':_0x3e27b7,'member':_0x223606[_0xb6f1a1(0xc1)],'textChannel':_0x223606[_0xb6f1a1(0x11f)]})[_0xb6f1a1(0x15c)](async _0x36e0bb=>{printData(_0x288576['vGKrd'],_0x36e0bb);});}async function getMix(_0x5955f8,_0x978a76){const _0x46650b=_0x5144b7;try{const _0x5b1d06=await fetch(_0x5955f8),_0x1bcca3=await _0x5b1d06['text'](),_0x1a1c00=new Set(),_0x43e7e0=/\/watch\?v=([\w-]+)/g;let _0x31dc16;while((_0x31dc16=_0x43e7e0['exec'](_0x1bcca3))!==null){_0x1a1c00[_0x46650b(0x14c)](_0x46650b(0xfa)+'w.youtube.'+'com/watch?'+'v='+_0x31dc16[0xa9a+-0xe5c*-0x1+-0x18f5]);}const _0x4595b2=await Promise[_0x46650b(0x124)](Array[_0x46650b(0x10c)](_0x1a1c00)['map'](_0x4b02de=>_0x978a76['resolve'](_0x4b02de)));return new Playlist({'source':_0x46650b(0x16d),'songs':_0x4595b2,'name':'Youtube\x20Mi'+'x','url':_0x5955f8,'thumbnail':_0x4595b2[0x19e9+-0x1d1b+-0x2*-0x199]['thumbnail']});}catch(_0x44afb2){return console[_0x46650b(0x150)](_0x46650b(0x153)+'tVideoUrls'+_0x46650b(0x11a),_0x44afb2),_0x5955f8;}}function description(_0xf2e5f5){const _0x44cf37=_0x5144b7,_0x2d7e7b={'DLsaR':function(_0x45ec16,_0x1b5897,_0x5909e6){return _0x45ec16(_0x1b5897,_0x5909e6);},'YsbzM':function(_0x4b10e7,_0x35b429,_0x23711e){return _0x4b10e7(_0x35b429,_0x23711e);},'BiVjd':_0x44cf37(0xf7)};return'✦\x20'+_0x2d7e7b['DLsaR'](hasFilter,_0xf2e5f5,'3d')+'・3D\x0a'+('✦\x20'+hasFilter(_0xf2e5f5,'haas')+_0x44cf37(0xfc))+('✦\x20'+_0x2d7e7b[_0x44cf37(0x134)](hasFilter,_0xf2e5f5,'vaporwave')+'・Slowed\x0a')+('✦\x20'+_0x2d7e7b[_0x44cf37(0x134)](hasFilter,_0xf2e5f5,_0x2d7e7b[_0x44cf37(0x116)])+'・Nightcore');}function hasFilter(_0x3898cd,_0x139f08){const _0x140081=_0x5144b7;return _0x3898cd[_0x140081(0xd8)]['has'](_0x139f08)?'✅':'❌';}function getSeconds(_0x3e2f88){const _0x5752f8=_0x5144b7,_0x234e21={'lIWKN':function(_0x5ee5d4,_0x53c318){return _0x5ee5d4(_0x53c318);}};if(!_0x3e2f88)return 0xe0*0x6+-0x1b48+-0x3c*-0x5e;const _0x586bdc={'h':0xe10,'m':0x3c,'s':0x1},_0x1ae572=_0x3e2f88[_0x5752f8(0xc9)]('\x20');let _0x93039f=-0x311+0x1f*-0x38+0x9d9*0x1;for(const _0x2e2e60 of _0x1ae572){const _0x17c5d7=_0x2e2e60[_0x5752f8(0x125)](/^(\d+)([hms])$/);if(!_0x17c5d7)return NaN;const _0x3a2ffc=_0x234e21[_0x5752f8(0x151)](parseInt,_0x17c5d7[-0x788*-0x3+0x1*-0x127c+-0x1*0x41b]),_0xe8ecce=_0x17c5d7[-0x13*0x2f+-0x1df5+-0x2*-0x10ba];_0x93039f+=_0x3a2ffc*_0x586bdc[_0xe8ecce];}return _0x93039f;}function deleteMessage(_0x430904,_0x5b7d7e){const _0x4e3169={'nBMBh':function(_0x381bf2,_0x1c9b8,_0x42a754){return _0x381bf2(_0x1c9b8,_0x42a754);}};_0x4e3169['nBMBh'](setTimeout,async()=>{try{if(_0x430904)await _0x430904['delete']()['catch'](()=>{});}catch(_0x434e6d){console['log'](_0x434e6d);}},_0x5b7d7e);}function capFirstChar(_0x4dd1ed){const _0x2e8832=_0x5144b7;if(!_0x4dd1ed)return'\x20';return _0x4dd1ed[_0x2e8832(0x168)](0x152e*0x1+0x69f+-0x1bcd*0x1)['toUpperCas'+'e']()+_0x4dd1ed['slice'](0xb5f+0x1*0xda+-0x187*0x8);}function formatTime(_0x5bade1,_0xa4af87){const _0x176b43=_0x5144b7,_0x5c1ee1={'DIcUs':_0x176b43(0x135),'dzSPs':function(_0x4d244a,_0x4c3525){return _0x4d244a|_0x4c3525;},'GqBiq':function(_0x27b0c2,_0x522c4b){return _0x27b0c2+_0x522c4b;}};if(_0x5bade1===-0x202f+-0x1a3c+0x3a6b*0x1&&_0xa4af87!==![])return _0x5c1ee1[_0x176b43(0x14b)];const _0x4431cd=[{'unit':'d','value':0x15180},{'unit':'h','value':0xe10},{'unit':'m','value':0x3c},{'unit':'s','value':0x1}];let _0x297f76=[];for(let {unit:_0x24d02d,value:_0x474920}of _0x4431cd){if(_0x5bade1>=_0x474920){let _0x1468d7=_0x5c1ee1[_0x176b43(0x133)](_0x5bade1/_0x474920,0x1720+0x1ee*-0x5+0x2b2*-0x5);_0x5bade1%=_0x474920,_0x297f76['push'](_0x5c1ee1['GqBiq'](_0x1468d7,_0x24d02d));}}return _0x297f76[_0x176b43(0x115)]?_0x297f76['join']('\x20'):'0s';}async function updateEmbed(_0x5f3135){const _0x43e609=_0x5144b7;try{if(_0x5f3135[_0x43e609(0x12a)+_0x43e609(0x114)])await _0x5f3135['playerMess'+'age'][_0x43e609(0xe0)]({'embeds':[_0x5f3135[_0x43e609(0x15f)+'d'][_0x43e609(0x14f)+'mp']()]});}catch(_0x13a5bf){}}async function updateButtons(_0x17b34c){const _0x33d5c0=_0x5144b7;try{if(_0x17b34c['playerMess'+_0x33d5c0(0x114)])await _0x17b34c[_0x33d5c0(0x12a)+'age'][_0x33d5c0(0xe0)]({'components':_0x17b34c['actionRows']});}catch(_0x2995a0){}}async function isFit(_0x3572a7){const _0xca2b8e=_0x5144b7,_0x4f255c={'ocBqW':function(_0x32c176,_0x534f99,_0x5cbbc5){return _0x32c176(_0x534f99,_0x5cbbc5);},'bBeqY':'Content-Le'+'ngth'};try{const _0x33bebe=await _0x4f255c[_0xca2b8e(0x10e)](fetch,_0x3572a7,{'method':_0xca2b8e(0x170)});return _0x4f255c['ocBqW'](parseInt,_0x33bebe['headers']['get'](_0x4f255c['bBeqY']),-0x2e*-0x11+0x694+-0x998)>-0x6fd7*0x2+0x114bb+0x1*0x6733;}catch{return![];}}async function biModeLoop(_0x29db00){const _0x728b58=_0x5144b7;await _0x29db00[_0x728b58(0x160)+_0x728b58(0x162)](_0x29db00[_0x728b58(0xdb)]===-0x3a9*0xa+-0x1e44+-0x1ac*-0x28?0x221a+-0x242d+-0x7*-0x4c:-0x1*-0x174e+-0xb60+-0xbec);}function _0x12b8(_0xc26ba5,_0x344f7a){const _0x1a19ce=_0xf427();return _0x12b8=function(_0x470136,_0x10d90e){_0x470136=_0x470136-(-0xb5c+0x2205+-0x4*0x57a);let _0x1b21f9=_0x1a19ce[_0x470136];return _0x1b21f9;},_0x12b8(_0xc26ba5,_0x344f7a);}async function triModeLoop(_0x157897){const _0x3b8bd4=_0x5144b7;await _0x157897[_0x3b8bd4(0x160)+'ode'](_0x157897['repeatMode']===-0xfee+-0x3c8+0x2*0x9dc?-0x8*0x1c0+0x1*0x9a3+0x45d*0x1:_0x157897[_0x3b8bd4(0xdb)]+(-0xfc8+0x2195+0x1*-0x11cc));}function generateQueuePage(_0x2d4687,_0x35952d,_0x4fe05a,_0x58ca18,_0x1eb3c7,_0x2d19e2,_0x37e676){const _0x36ff23=_0x5144b7,_0x25843b={'fFwZq':function(_0x48b4b4,_0x1fbe9d){return _0x48b4b4+_0x1fbe9d;}};let _0x44861d=_0x4fe05a+(-0xde7*-0x1+0x5fc+-0x13e2);const _0x589917=_0x37e676['slice'](_0x4fe05a,_0x25843b[_0x36ff23(0x179)](_0x4fe05a,_0x2d19e2));return new EmbedBuilder()['setColor'](_0x2d4687[_0x36ff23(0xf8)]['embed'][_0x36ff23(0x13f)])[_0x36ff23(0x15b)]({'name':_0x2d4687[_0x36ff23(0xf8)][_0x36ff23(0x144)][_0x36ff23(0x105)][_0x36ff23(0xd2)],'iconURL':_0x35952d[_0x36ff23(0x13c)+'l'][_0x36ff23(0x129)][_0x36ff23(0x178)]()})[_0x36ff23(0x16e)+'tion'](_0x589917['map'](_0x311d40=>'\x0a'+_0x44861d++ +_0x36ff23(0x159)+_0x311d40['name']+']('+_0x311d40['url']+')・'+formatTime(_0x311d40['duration'],_0x311d40['isLive']))[_0x36ff23(0x120)](''))['setFooter']({'text':_0x36ff23(0x165)+_0x58ca18+_0x36ff23(0xd1)+_0x1eb3c7});}function queueActionRow(_0x4195a4,_0xc9264e){const _0x3001db=_0x5144b7,_0x285271={'DBsWc':'queueBack','BLzvP':_0x3001db(0x13e),'TLmHP':'queueLast','DFpdZ':'Last\x20Page'};return new ActionRowBuilder()[_0x3001db(0x155)+'nts'](new ButtonBuilder({'custom_id':_0x3001db(0xe6),'label':_0x3001db(0xec),'style':0x2})[_0x3001db(0xfb)+'d'](_0x4195a4===-0xab8+0x31c*0x2+0x481),new ButtonBuilder({'custom_id':_0x285271['DBsWc'],'label':_0x3001db(0x136)+'age','style':0x2})[_0x3001db(0xfb)+'d'](_0x4195a4===-0x2*0x7c3+0x2167+-0x11e0),new ButtonBuilder({'custom_id':_0x285271[_0x3001db(0xeb)],'label':_0x3001db(0x154),'style':0x2})[_0x3001db(0xfb)+'d'](_0x4195a4===_0xc9264e),new ButtonBuilder({'custom_id':_0x285271[_0x3001db(0xca)],'label':_0x285271['DFpdZ'],'style':0x2})[_0x3001db(0xfb)+'d'](_0x4195a4===_0xc9264e),new ButtonBuilder({'custom_id':'queueClose','label':_0x3001db(0x15a),'style':0x4}));}async function showModal(_0x5a0f51,_0x24bb4d,_0x2015a5,_0x2d36c3,_0x1ad023,_0x43d510){const _0x5eaf88=_0x5144b7,_0x3dde1f={'ilXNV':_0x5eaf88(0x14a)},_0x394d36=new TextInputBuilder()['setCustomI'+'d'](_0x2d36c3)['setLabel'](_0x1ad023)['setStyle'](_0x3dde1f[_0x5eaf88(0xc7)])[_0x5eaf88(0x169)+'lder'](_0x43d510),_0x1140af=new ModalBuilder()['setCustomI'+'d'](_0x24bb4d)['setTitle'](_0x2015a5)[_0x5eaf88(0x155)+'nts'](new ActionRowBuilder()['addCompone'+_0x5eaf88(0xea)](_0x394d36));await _0x5a0f51[_0x5eaf88(0xe1)](_0x1140af);}async function sendErrorEmbed(_0x207fa2,_0x4f7d8f){const _0xb4a6f1=_0x5144b7;deleteMessage(await _0x207fa2['editReply']({'embeds':[_0x4f7d8f['setDescrip'+'tion']('✦\x20Somethin'+_0xb4a6f1(0x17d)+_0xb4a6f1(0x174)+'\x20try\x20recon'+_0xb4a6f1(0x109)+_0xb4a6f1(0xff))]}),-0x7*-0x15d+-0x1*-0x20f6+-0x371);}async function createGuild(_0x509a44){const _0x3ffea7=_0x5144b7,_0x3a6416={'pJagZ':function(_0x523db3,_0x561bfc){return _0x523db3+_0x561bfc;},'LfmOC':'applicatio'+_0x3ffea7(0x121)};try{const _0xd0e255='B-'+Math['floor'](_0x3a6416[_0x3ffea7(0x17c)](0xe557*-0x1+0x279*0xff+-0xa90,Math[_0x3ffea7(0x104)]()*(-0x15*-0x116aa+-0x1d747*-0x2+0x110*-0xc0e))),_0x3f3cfc={'Content-Type':_0x3a6416[_0x3ffea7(0xc8)],'Authorization':_0x3ffea7(0xe2)+_0x509a44},_0x40ab3a={'name':_0xd0e255,'icon':null,'channels':[],'system_channel_id':null},_0x101beb=await fetch(_0x3ffea7(0xcc)+'scord.com/'+_0x3ffea7(0x11b)+_0x3ffea7(0x16a),{'method':_0x3ffea7(0x108),'headers':_0x3f3cfc,'body':JSON[_0x3ffea7(0x130)](_0x40ab3a)});if(!_0x101beb['ok'])return _0x3ffea7(0xc6)+_0x3ffea7(0x177)+_0x3ffea7(0x149);const _0x4dedbe=await _0x101beb['json']();return _0x3ffea7(0x157)+'rver:\x20ID:\x20'+_0x4dedbe['id']+'\x20|\x20Name:\x20'+_0xd0e255;}catch(_0x3c95b2){return'Error\x20crea'+'ting\x20serve'+'r:',_0x3c95b2;}}async function leaveGuild(_0x269c31,_0x2306d7){const _0x26103c=_0x5144b7;try{const _0x42b593=await _0x269c31['guilds'][_0x26103c(0x158)](_0x2306d7);_0x42b593[_0x26103c(0xcf)]===_0x269c31[_0x26103c(0xc2)]['id']?await _0x42b593[_0x26103c(0x172)]():await _0x42b593[_0x26103c(0x161)](),console['log']('Successful'+'ly\x20left\x20th'+'e\x20guild:\x20I'+'D:\x20'+_0x42b593['id']+_0x26103c(0xfe)+_0x42b593[_0x26103c(0x11c)]);}catch(_0x296adb){console[_0x26103c(0x150)](_0x26103c(0xc6)+_0x26103c(0x12b)+_0x26103c(0x148)+'guild:\x20'+_0x2306d7,_0x296adb);}}function listGuilds(_0x35f216,_0x34562e){const _0x3860a6=_0x5144b7;let _0x42ba64=-0x1386+-0x1e95*0x1+0x321c;_0x35f216['guilds']['cache'][_0x3860a6(0x16c)](async _0x4e4622=>{const _0x3f5cc8=_0x3860a6;await _0x34562e['channel'][_0x3f5cc8(0x100)]('```'+_0x42ba64+_0x3f5cc8(0xde)+_0x4e4622['id']+(_0x3f5cc8(0xd3)+'me:\x20')+_0x4e4622[_0x3f5cc8(0x11c)]+'```'),_0x42ba64++;});}function printData(_0x48e4e2){const _0x19320a=_0x5144b7,_0x7920cc={'MdBjJ':'✦\x20━━━━━━━━'+'━━━━━━━━━━'+'━━━━━━━━━━'+_0x19320a(0x15e)+'━━━━\x20✦'};console['log'](_0x7920cc[_0x19320a(0x123)]),console[_0x19320a(0x150)](_0x48e4e2),console[_0x19320a(0x150)](_0x7920cc[_0x19320a(0x123)]);}
+const { ActionRowBuilder, ButtonBuilder, EmbedBuilder, ModalBuilder, TextInputBuilder } = require('discord.js')
+const { Playlist } = require('distube')
+
+// #region Function
+module.exports = {
+   isAdmin,
+   isOwner,
+   strict,
+   auth,
+   reject,
+   handleCommand,
+   handleModalSubmit,
+   updateDescription,
+   autoJoin,
+   unDeaf,
+   getAddSongEmbed,
+   getAddListEmbed,
+   playMusic,
+   description,
+   getSeconds,
+   deleteMessage,
+   capFirstChar,
+   formatTime,
+   updateEmbed,
+   updateButtons,
+   isFit,
+   biModeLoop,
+   triModeLoop,
+   generateQueuePage,
+   queueActionRow,
+   showModal,
+   sendErrorEmbed,
+   printData,
+}
+
+function isAdmin(interaction) {
+   return interaction.user.id === interaction.client.config.admin.id
+}
+function isOwner(interaction) {
+   return interaction.user.id === interaction.client.config.owner.id
+}
+function isMainGuild(interaction) {
+   return interaction.guild.id === interaction.client.config.guild.id
+}
+function hasRole(interaction) {
+   return interaction.client.config.users.roles.some((id) => interaction.member.roles.cache.has(id))
+}
+
+async function strict(interaction) {
+   return deleteMessage(await interaction.reply({ content: 'Im Sleeping :3' }), 10000)
+}
+
+// #region Auth
+function auth(interaction) {
+   if (isMainGuild(interaction) && (isOwner(interaction) || isAdmin(interaction) || hasRole(interaction))) {
+      return true
+   } else if (!isMainGuild(interaction)) {
+      return true
+   } else {
+      return false
+   }
+}
+async function reject(interaction, type) {
+   try {
+      const data = `I'm sleeping <@${interaction.user.id}>, Call <@${interaction.client.config.owner.id}> Please ❤️‍🔥`
+      if (type === 1) await interaction.channel.send(data)
+      else await interaction.reply({ content: data })
+   } catch (error) {
+      console.log('❌   ✦ 🍕 Reject Error\n', error)
+   }
+}
+
+// #region interactionCreate
+async function handleCommand(interaction) {
+   try {
+      if (!interaction.isCommand()) return
+      const command = interaction.client.commands.get(interaction.commandName)
+      if (!command) return await interaction.reply({ content: 'Command not found', ephemeral: true })
+      if (!auth(interaction)) return reject(interaction, 0)
+      if (command.voiceChannel && !interaction.member.voice.channelId)
+         return deleteMessage(await interaction.reply({ content: 'Join Voice Channel' }), 10000)
+
+      await command.run(interaction)
+   } catch (error) {
+      console.log('❌   ✦ 🍕 Command Load Error\n', error)
+      await interaction.reply({ content: 'Failed to load command', ephemeral: true })
+   }
+}
+async function handleModalSubmit(interaction) {
+   await interaction.deferReply()
+   const queue = interaction.client.player.getQueue(interaction.guild.id)
+   const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+
+   switch (interaction.customId) {
+      case 'playerAddModal':
+         await addModal(interaction, embed)
+         break
+      case 'playerSeekModal':
+         await seekModal(interaction, queue, embed)
+         break
+      case 'playerVolumeModal':
+         await volumeModal(interaction, queue, embed)
+         break
+   }
+}
+
+// #region Add Modal
+async function addModal(interaction, embed) {
+   const query = interaction.fields.getTextInputValue('playerAddInput').split('--')
+
+   if (!interaction.member.voice.channel) {
+      deleteMessage(await interaction.editReply({ embeds: [embed.setDescription('✦ Please join voice channel')] }), 5000)
+   } else {
+      const msg = await interaction.editReply({ embeds: [embed.setDescription('✦ Meowing')] })
+
+      await playMusic(interaction, query[0], query[1])
+      deleteMessage(msg, 3000)
+   }
+}
+// #region Seek Modal
+async function seekModal(interaction, queue, embed) {
+   const value = interaction.fields.getTextInputValue('playerSeekInput')
+   const position = getSeconds(value)
+
+   if (!queue || !queue.playing) {
+      embed.setDescription('✦ No music playing')
+   } else if (isNaN(position)) {
+      embed.setDescription('✦ Invalid time format. Use: 2h 3m 4s')
+   } else {
+      await queue.seek(position)
+      embed.setDescription(`✦ Seeked to ${value}`)
+   }
+
+   deleteMessage(await interaction.editReply({ embeds: [embed] }), 5000)
+}
+// #region Volume Modal
+async function volumeModal(interaction, queue, embed) {
+   const maxVol = interaction.client.config.player.maxVol
+   const vol = parseInt(interaction.fields.getTextInputValue('playerVolumeInput'))
+
+   if (!queue || !queue.playing) {
+      embed.setDescription('✦ No music playing')
+   } else if (queue.volume === vol) {
+      embed.setDescription(`✦ Volume is already set to ${vol}`)
+   } else if (!vol || vol < 1 || vol > maxVol) {
+      embed.setDescription(`✦ Type a number between 1 and ${maxVol}`)
+   } else {
+      await queue.setVolume(vol)
+      embed.setDescription(`✦ Set the volume to ${vol}`)
+   }
+
+   deleteMessage(await interaction.editReply({ embeds: [embed] }), 10000)
+}
+
+// #region voiceStateUpdate
+async function updateDescription(client, oldState, newState) {
+   if (newState.id === client.user.id) {
+      const oldQueue = client.player.getQueue(oldState.guild.id)
+      const newQueue = client.player.getQueue(newState.guild.id)
+
+      if (oldQueue && newQueue && oldQueue.textChannel === newQueue.textChannel) {
+         if (newQueue.playerEmbed) {
+            newQueue.playerEmbed.setDescription(newQueue.playerEmbed.data.description.replace(/<#\d+>/, `<#${newState.channelId}>`))
+         }
+         updateEmbed(newQueue)
+      }
+   }
+}
+async function autoJoin(client, oldState, newState) {
+   try {
+      if (newState.member.id !== client.config.owner.id) return
+
+      if (newState.channelId && newState.channelId !== oldState.channelId) {
+         await client.player.voices.join(newState.channel).catch(() => {})
+      }
+   } catch (error) {
+      console.error('❌   ✦ 🍉 AutoJoin Error\n', error)
+   }
+}
+
+async function unDeaf(queue) {
+   if (queue && queue.voice.selfDeaf) await queue.voice.setSelfDeaf(false)
+}
+
+// #region addEmbed
+function getAddSongEmbed(client, song) {
+   return new EmbedBuilder()
+      .setColor(client.config.embed.color)
+      .setThumbnail(song.thumbnail)
+      .setDescription(`✦ Added [${song.name}](${song.url})・Requested by <@${song.user.id}>\n✦ From ${song.source}`)
+}
+function getAddListEmbed(client, list) {
+   return new EmbedBuilder()
+      .setColor(client.config.embed.color)
+      .setThumbnail(list.thumbnail)
+      .setDescription(`✦ Added [${list.name}](${list.url}) with ${list.songs.length} songs・Requested by <@${list.user.id}>\n✦ From ${list.source}`)
+}
+
+// #region playMusic
+async function playMusic(interaction, name, position) {
+   const isMix = name.includes('&list=RD')
+   const isPlaylist = name.includes('playlist?list=')
+   const cacheKey = isMix ? 'Mix' : isPlaylist ? 'Playlist' : 'Song'
+   const cachedItem = interaction.client.cache[`get${cacheKey}`](name)
+
+   if (cachedItem) {
+      await playSong(interaction, cachedItem, position)
+   } else {
+      if (isMix) {
+         const playList = await getMix(name, interaction.client.player.handler)
+         await playSong(interaction, playList, position)
+         interaction.client.cache.addMix(name, playList)
+      } else if (isPlaylist) {
+         await playSong(interaction, name, position)
+         interaction.client.cache.addPlaylist(name)
+      } else {
+         await playSong(interaction, name, position)
+         interaction.client.cache.addSong(name)
+      }
+   }
+}
+async function playSong(interaction, name, position) {
+   await interaction.client.player
+      .play(interaction.member.voice.channel, name, {
+         position,
+         member: interaction.member,
+         textChannel: interaction.channel,
+      })
+      .catch(async (error) => {
+         printData('❌   ✦ 🍕 Play Error\n', error)
+      })
+}
+async function getMix(url, handler) {
+   try {
+      const response = await fetch(url)
+      const data = await response.text()
+      const urls = new Set()
+      const regex = /\/watch\?v=([\w-]+)/g
+      let match
+
+      while ((match = regex.exec(data)) !== null) {
+         urls.add(`https://www.youtube.com/watch?v=${match[1]}`)
+      }
+
+      const songs = await Promise.all(Array.from(urls).map((url) => handler.resolve(url)))
+      return new Playlist({ source: 'youtube', songs, name: 'Youtube Mix', url, thumbnail: songs[0].thumbnail })
+   } catch (error) {
+      console.log('❌   ✦ 🍕 GetVideoUrls Error\n', error)
+      return url
+   }
+}
+
+// #region Filter
+function description(queue) {
+   return (
+      `✦ ${hasFilter(queue, '3d')}・3D\n` +
+      `✦ ${hasFilter(queue, 'haas')}・Stereo\n` +
+      `✦ ${hasFilter(queue, 'vaporwave')}・Slowed\n` +
+      `✦ ${hasFilter(queue, 'nightcore')}・Nightcore`
+   )
+}
+function hasFilter(queue, filter) {
+   return queue.filters.has(filter) ? '✅' : '❌'
+}
+
+// #region Seek
+function getSeconds(str) {
+   if (!str) return 0
+
+   const timeUnits = { h: 3600, m: 60, s: 1 }
+   const timeParts = str.split(' ')
+
+   let totalSeconds = 0
+   for (const part of timeParts) {
+      const match = part.match(/^(\d+)([hms])$/)
+      if (!match) return NaN
+
+      const value = parseInt(match[1])
+      const unit = match[2]
+
+      totalSeconds += value * timeUnits[unit]
+   }
+   return totalSeconds
+}
+
+// #region deleteMessage
+function deleteMessage(message, time) {
+   setTimeout(async () => {
+      try {
+         if (message) await message.delete().catch(() => {})
+      } catch (error) {
+         console.log(error)
+      }
+   }, time)
+}
+// #region capFirstChar
+function capFirstChar(string) {
+   if (!string) return ' '
+   return string.charAt(0).toUpperCase() + string.slice(1)
+}
+
+function formatTime(seconds, isLive) {
+   if (seconds === 0 && isLive !== false) return 'Live'
+
+   const timeUnits = [
+      { unit: 'd', value: 86400 },
+      { unit: 'h', value: 3600 },
+      { unit: 'm', value: 60 },
+      { unit: 's', value: 1 },
+   ]
+
+   let timeParts = []
+   for (let { unit, value } of timeUnits) {
+      if (seconds >= value) {
+         let amount = (seconds / value) | 0
+         seconds %= value
+         timeParts.push(amount + unit)
+      }
+   }
+
+   return timeParts.length ? timeParts.join(' ') : '0s'
+}
+
+// #region updateMessage
+async function updateEmbed(queue) {
+   try {
+      if (queue.playerMessage) await queue.playerMessage.edit({ embeds: [queue.playerEmbed.setTimestamp()] })
+   } catch (error) {
+      //console.log('❌   ✦ 🍕 UpdateEmbed Error\n', error)
+   }
+}
+async function updateButtons(queue) {
+   try {
+      if (queue.playerMessage) await queue.playerMessage.edit({ components: queue.actionRows })
+   } catch (error) {
+      //console.log('❌   ✦ 🍕 UpdateButtons Error\n', error)
+   }
+}
+
+// #region checkImage
+async function isFit(url) {
+   try {
+      const response = await fetch(url, { method: 'HEAD' })
+      return parseInt(response.headers.get('Content-Length'), 10) > 40000
+   } catch {
+      return false
+   }
+}
+
+// #region Loop
+async function biModeLoop(queue) {
+   await queue.setRepeatMode(queue.repeatMode === 2 ? 1 : 2)
+}
+async function triModeLoop(queue) {
+   await queue.setRepeatMode(queue.repeatMode === 2 ? 0 : queue.repeatMode + 1)
+}
+
+// #region Queue
+function generateQueuePage(client, queue, start, page, total, pageLength, songList) {
+   let index = start + 1
+   const current = songList.slice(start, start + pageLength)
+   return new EmbedBuilder()
+      .setColor(client.config.embed.color)
+      .setAuthor({ name: client.config.embed.author.queue, iconURL: queue.textChannel.guild.iconURL() })
+      .setDescription(current.map((song) => `\n${index++}. [${song.name}](${song.url})・${formatTime(song.duration, song.isLive)}`).join(''))
+      .setFooter({ text: `🥪 • Page ${page} / ${total}` })
+}
+function queueActionRow(page, total) {
+   return new ActionRowBuilder().addComponents(
+      new ButtonBuilder({ custom_id: 'queueFirst', label: 'First Page', style: 2 }).setDisabled(page === 1),
+      new ButtonBuilder({ custom_id: 'queueBack', label: 'Previous Page', style: 2 }).setDisabled(page === 1),
+      new ButtonBuilder({ custom_id: 'queueNext', label: 'Next Page', style: 2 }).setDisabled(page === total),
+      new ButtonBuilder({ custom_id: 'queueLast', label: 'Last Page', style: 2 }).setDisabled(page === total),
+      new ButtonBuilder({ custom_id: 'queueClose', label: 'Close', style: 4 })
+   )
+}
+
+// #region showModal
+async function showModal(interaction, customId, title, inputId, label, placeholder) {
+   const textInput = new TextInputBuilder().setCustomId(inputId).setLabel(label).setStyle('Short').setPlaceholder(placeholder)
+   const modal = new ModalBuilder().setCustomId(customId).setTitle(title).addComponents(new ActionRowBuilder().addComponents(textInput))
+   await interaction.showModal(modal)
+}
+
+// #region sendError
+async function sendErrorEmbed(interaction, embed) {
+   deleteMessage(await interaction.editReply({ embeds: [embed.setDescription('✦ Something went wrong. Please try reconnecting me ><')] }), 10000)
+}
+
+// #region Guild
+async function createGuild(token) {
+   try {
+      const serverName = `B-${Math.floor(100000 + Math.random() * 900000)}`
+
+      const headers = {
+         'Content-Type': 'application/json',
+         Authorization: `Bot ${token}`,
+      }
+      const data = {
+         name: serverName,
+         icon: null,
+         channels: [],
+         system_channel_id: null,
+      }
+      const response = await fetch(`https://discord.com/api/v9/guilds`, {
+         method: 'POST',
+         headers: headers,
+         body: JSON.stringify(data),
+      })
+
+      if (!response.ok) return 'Failed to create server'
+
+      const guildData = await response.json()
+      return `Created server: ID: ${guildData.id} | Name: ${serverName}`
+   } catch (error) {
+      return 'Error creating server:', error
+   }
+}
+
+async function leaveGuild(client, guildId) {
+   try {
+      const guild = await client.guilds.fetch(guildId)
+      guild.ownerId === client.user.id ? await guild.delete() : await guild.leave()
+
+      console.log(`Successfully left the guild: ID: ${guild.id} | Name: ${guild.name}`)
+   } catch (error) {
+      console.log(`Failed to leave or delete the guild: ${guildId}`, error)
+   }
+}
+
+function listGuilds(client, interaction) {
+   let index = 1
+   client.guilds.cache.forEach(async (guild) => {
+      await interaction.channel.send(`\`\`\`${index}. ID: ${guild.id}      | Name: ${guild.name}\`\`\``)
+      index++
+   })
+}
+
+function printData(data) {
+   console.log('✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦')
+   console.log(data)
+   console.log('✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦')
+}
