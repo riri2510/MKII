@@ -2,13 +2,14 @@ const { SoundCloudPlugin } = require('@distube/soundcloud')
 const { SpotifyPlugin } = require('@distube/spotify')
 const { YouTubePlugin } = require('@distube/youtube')
 
+const cookies = require('./cookies')
 require('dotenv').config()
 
 module.exports = {
    token: process.env.token,
    key: process.env.key || '',
    autoJoin: Boolean(process.env.autoJoin),
-   plugins: { plugins: [new YouTubePlugin(), new SpotifyPlugin(), new SoundCloudPlugin()] },
+   plugins: { plugins: [new YouTubePlugin(cookies), new SpotifyPlugin(), new SoundCloudPlugin()] },
 
    guild: { id: '677858109145874433' },
    owner: { id: '677857271530651649' },
