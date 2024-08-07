@@ -1,1 +1,33 @@
-const _0x9f3d1b=_0x41b4;(function(_0x4729a0,_0x3a5d90){const _0x52f74f=_0x41b4,_0x2d9c64=_0x4729a0();while(!![]){try{const _0x1ce77d=-parseInt(_0x52f74f(0x19f))/(0x16*0x1ac+-0x8*-0x2a0+-0x39c7)+-parseInt(_0x52f74f(0x1ab))/(-0x55f*-0x3+-0xa1*-0x8+0x305*-0x7)*(-parseInt(_0x52f74f(0x19e))/(0x1861+-0x1*0x1c82+0x424))+-parseInt(_0x52f74f(0x1a5))/(-0x8b*0xb+0x2a9*-0xd+-0xd86*-0x3)*(parseInt(_0x52f74f(0x1aa))/(0x174b+0x1352*-0x1+-0x3f4))+parseInt(_0x52f74f(0x1a4))/(-0xb*0x383+-0x1b63+-0x420a*-0x1)+parseInt(_0x52f74f(0x196))/(-0x1865+0x328+0xaa2*0x2)*(parseInt(_0x52f74f(0x19d))/(-0x2373+-0x17*-0x83+0x5*0x4be))+parseInt(_0x52f74f(0x199))/(0x41e+-0x1194+0x1*0xd7f)*(parseInt(_0x52f74f(0x195))/(-0x1ea1+-0x1*0x1d7+0x2082))+parseInt(_0x52f74f(0x18e))/(0x1440+0x236d+-0x2*0x1bd1)*(parseInt(_0x52f74f(0x191))/(-0xb4f+-0xd*0xe1+0x16c8));if(_0x1ce77d===_0x3a5d90)break;else _0x2d9c64['push'](_0x2d9c64['shift']());}catch(_0x3a27ba){_0x2d9c64['push'](_0x2d9c64['shift']());}}}(_0x17fa,-0x1de4b*-0xa+-0x157fb*0x5+0x1*0x337ff));const {EmbedBuilder}=require(_0x9f3d1b(0x18d)),{deleteMessage,sendErrorEmbed}=require('../../Func'+'tions');module[_0x9f3d1b(0x1ac)]={'data':{'name':_0x9f3d1b(0x19c),'description':'Stop\x20the\x20m'+_0x9f3d1b(0x1a8)+_0x9f3d1b(0x192)+'ueue','options':[]},'voiceChannel':!![],'run':async _0x54dc53=>{const _0x57e579=_0x9f3d1b,_0x323af4={'bEowO':'✦\x20No\x20music'+_0x57e579(0x194)+_0x57e579(0x198)+'g','MXfjl':'✦\x20Stopped\x20'+'the\x20music\x20'+_0x57e579(0x1a9)+_0x57e579(0x190)+'e','Gjpmh':_0x57e579(0x1a3)+'\x20Error\x0a'};await _0x54dc53[_0x57e579(0x19b)]();const _0x534065=new EmbedBuilder()[_0x57e579(0x18f)](_0x54dc53[_0x57e579(0x1a6)][_0x57e579(0x1a2)]['embed'][_0x57e579(0x1a1)]);try{const _0x241770=_0x54dc53['client']['player']['getQueue'](_0x54dc53['guild']['id']);if(!_0x241770||!_0x241770['playing'])_0x534065['setDescrip'+_0x57e579(0x1a0)](_0x323af4[_0x57e579(0x1a7)]);else{if(_0x241770['playerMess'+'age'])await _0x241770[_0x57e579(0x19a)+'age'][_0x57e579(0x197)]()['catch'](()=>{});await _0x241770['stop'](),_0x534065['setDescrip'+'tion'](_0x323af4[_0x57e579(0x193)]);}deleteMessage(await _0x54dc53['editReply']({'embeds':[_0x534065]}),-0x1d63*0x1+-0x1a63+0x3f*0x132);}catch(_0x48d7da){sendErrorEmbed(_0x54dc53,_0x534065),console['log'](_0x323af4['Gjpmh'],_0x48d7da);}}};function _0x41b4(_0x216433,_0x1dd841){const _0x28e52f=_0x17fa();return _0x41b4=function(_0x32e325,_0x37d478){_0x32e325=_0x32e325-(0x1c97+0x11d1*-0x1+0x939*-0x1);let _0x370866=_0x28e52f[_0x32e325];return _0x370866;},_0x41b4(_0x216433,_0x1dd841);}function _0x17fa(){const _0x3c9c8d=['playerMess','deferReply','stop','8ElMKSg','994506GOplhI','1170772dEjxGY','tion','color','config','❌\x20\x20\x20✦\x20Stop','2259966KkCLsH','571472NhgGly','client','bEowO','usic\x20and\x20c','and\x20cleare','55aTpwTp','8fWFUWM','exports','discord.js','11KFhjDm','setColor','d\x20the\x20queu','4242828mYPAEd','lear\x20the\x20q','MXfjl','\x20is\x20curren','370ToFMsL','3242617jSuSPp','delete','tly\x20playin','296253krdARp'];_0x17fa=function(){return _0x3c9c8d;};return _0x17fa();}
+const { EmbedBuilder } = require('discord.js')
+const { deleteMessage, sendErrorEmbed } = require('../../Functions')
+
+module.exports = {
+   data: {
+      name: 'stop',
+      description: 'Stop the music and clear the queue',
+      options: [],
+   },
+   voiceChannel: true,
+
+   run: async (interaction) => {
+      await interaction.deferReply()
+      const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+
+      try {
+         const queue = interaction.client.player.getQueue(interaction.guild.id)
+
+         if (!queue || !queue.playing) {
+            embed.setDescription('✦ No music is currently playing')
+         } else {
+            if (queue.playerMessage) await queue.playerMessage.delete().catch(() => {})
+            await queue.stop()
+            embed.setDescription('✦ Stopped the music and cleared the queue')
+         }
+
+         deleteMessage(await interaction.editReply({ embeds: [embed] }), 5000)
+      } catch (error) {
+         sendErrorEmbed(interaction, embed)
+         console.log('❌   ✦ Stop Error\n', error)
+      }
+   },
+}

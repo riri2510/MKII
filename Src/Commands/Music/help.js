@@ -1,1 +1,46 @@
-const _0x461e4d=_0x4057;(function(_0x4316e9,_0x3fb221){const _0x275214=_0x4057,_0x575ae4=_0x4316e9();while(!![]){try{const _0x1c9ae0=-parseInt(_0x275214(0xfd))/(-0x2*0x1049+-0xad*-0x1e+0xc4d)+-parseInt(_0x275214(0xfe))/(0x13dd+0x18f+-0x156a)+parseInt(_0x275214(0xd1))/(0x2*0x78d+0x23*-0x1+-0xb*0x15c)+-parseInt(_0x275214(0xe3))/(0x27*0x7b+-0x20b4+0x4a9*0x3)+parseInt(_0x275214(0xc9))/(-0x901+0x2*-0x9da+-0x2*-0xe5d)+-parseInt(_0x275214(0xfa))/(-0x6*-0x489+0x2c7*0x5+0x5*-0x837)+parseInt(_0x275214(0xc8))/(-0x1980+0xc53*0x1+0xd34)*(parseInt(_0x275214(0xdb))/(0x212*0x3+-0x2d3*-0xa+-0x226c));if(_0x1c9ae0===_0x3fb221)break;else _0x575ae4['push'](_0x575ae4['shift']());}catch(_0x18cb19){_0x575ae4['push'](_0x575ae4['shift']());}}}(_0x59e0,0x19c248+0x142565+-0x1f99cc));function _0x4057(_0x5700d7,_0x177c3e){const _0x3fb7e3=_0x59e0();return _0x4057=function(_0xb93066,_0x26cb26){_0xb93066=_0xb93066-(0x59*-0x6b+0x1705+0xef6);let _0x48346b=_0x3fb7e3[_0xb93066];return _0x48346b;},_0x4057(_0x5700d7,_0x177c3e);}function _0x59e0(){const _0xfc20de=['sition.\x20Cl','Click\x20butt','filters','e\x20queue','✦\x20Grab','pecific\x20po','Stop\x20the\x20m','usic\x20and\x20c','urrent\x20son','Play\x20the\x20p','\x20current\x20s','pKyYr','bXkgW','c\x20player\x20:','\x20player’s\x20','IeyjS','────\x20─────','Play\x20a\x20son','author','967603gLVYFu','1594040InyNmq','✦\x20/sound','config','ber\x20of\x20son','revious\x20so','─────\x20\x20C\x20O','g\x20from\x20You','ruFdI','3983442nvVevl','───\x20─────\x20','mXuxU','tPVys','✦\x20Loop','\x20M\x20M\x20A\x20N\x20D','✦\x20Clear','setColor','y\x20meme\x20sou','nds','144BJlhbG','queue','exports','Change\x20loo','ong\x20or\x20a\x20s','Skip\x20the\x20c','discord.js','\x20S\x20\x20─────\x20','484732cVzXYD','volume','p\x20modes','g\x20or\x20a\x20num','help','✦\x20/stop','ong\x20at\x20a\x20s','S\x20\x20─────\x20─','undCloud','l\x20the\x20musi','✦\x20/play','yoNWm','Show\x20the\x20p','\x20and\x20butto','\x20─────\x20\x20B\x20','Pause/Resu','iconURL','info','Shuffle\x20th','✦\x20Here\x20are','Play\x20the\x20n','─────\x20────','✦\x20/skip','5891466tQCywg','laylist','\x20the\x20comma','1549306symTco','1089806GeoPkR','eoDBS'];_0x59e0=function(){return _0xfc20de;};return _0x59e0();}const {EmbedBuilder}=require(_0x461e4d(0xe1)),{deleteMessage,sendErrorEmbed}=require('../../Func'+'tions');module[_0x461e4d(0xdd)]={'data':{'name':_0x461e4d(0xe7),'description':'Get\x20info\x20o'+'n\x20commands'+_0x461e4d(0xf0)+'ns','options':[]},'voiceChannel':![],'run':async _0x926a14=>{const _0x4e66e1=_0x461e4d,_0x3bc4e5={'mXuxU':'✦\x20─────\x20──'+_0x4e66e1(0xd2)+_0x4e66e1(0xce)+_0x4e66e1(0xd6)+_0x4e66e1(0xe2)+_0x4e66e1(0xf8)+'─\x20─────\x20✦','pKyYr':_0x4e66e1(0xed),'URUWc':_0x4e66e1(0x111)+_0x4e66e1(0xcf)+'Tube,\x20Spot'+'ify,\x20or\x20So'+_0x4e66e1(0xeb),'ruFdI':'✦\x20/filter','IeyjS':'Modify\x20the'+'\x20player’s\x20'+_0x4e66e1(0x102),'bXkgW':'Adjust\x20the'+_0x4e66e1(0x10e)+_0x4e66e1(0xe4),'tPVys':_0x4e66e1(0x101)+'ons\x20to\x20pla'+_0x4e66e1(0xd9)+_0x4e66e1(0xda),'HnwcV':'✦\x20──────\x20─'+_0x4e66e1(0x110)+_0x4e66e1(0xf1)+'U\x20T\x20T\x20O\x20N\x20'+_0x4e66e1(0xea)+_0x4e66e1(0x110)+'\x20──────\x20✦','AsdeS':'✦\x20Back','eoDBS':_0x4e66e1(0x109)+_0x4e66e1(0xcd)+'ng','RUjJx':_0x4e66e1(0xd5),'BKfAH':'✦\x20Halt','yoNWm':_0x4e66e1(0x104),'XLtVZ':'❌\x20\x20\x20✦\x20Help'+'\x20Error\x0a'};await _0x926a14['deferReply']();const _0x90be9e=new EmbedBuilder()[_0x4e66e1(0xd8)](_0x926a14['client'][_0x4e66e1(0xcb)]['embed']['color']);try{_0x90be9e['setAuthor']({'name':_0x926a14['client'][_0x4e66e1(0xcb)]['embed'][_0x4e66e1(0x112)][_0x4e66e1(0xe7)],'iconURL':_0x926a14['guild'][_0x4e66e1(0xf3)]()})['setDescrip'+'tion'](_0x4e66e1(0xf6)+_0x4e66e1(0xfc)+'nds\x20and\x20bu'+'ttons\x20info'+'\x20to\x20contro'+_0x4e66e1(0xec)+_0x4e66e1(0x10d)+'3')['addFields']({'name':_0x3bc4e5[_0x4e66e1(0xd3)],'value':'\x20','inline':![]},{'name':_0x3bc4e5[_0x4e66e1(0x10b)],'value':_0x3bc4e5['URUWc'],'inline':![]},{'name':_0x4e66e1(0xf9),'value':_0x4e66e1(0xe0)+_0x4e66e1(0x108)+_0x4e66e1(0xe6)+_0x4e66e1(0xcc)+'gs','inline':![]},{'name':_0x4e66e1(0xe8),'value':_0x4e66e1(0x106)+_0x4e66e1(0x107)+'lear\x20the\x20q'+'ueue','inline':![]},{'name':'✦\x20/remove','value':'Remove\x20the'+_0x4e66e1(0x10a)+_0x4e66e1(0xdf)+_0x4e66e1(0xe9)+_0x4e66e1(0x105)+_0x4e66e1(0x100)+'ick\x20`List`'+'\x20for\x20more\x20'+_0x4e66e1(0xf4),'inline':![]},{'name':_0x3bc4e5[_0x4e66e1(0xd0)],'value':_0x3bc4e5[_0x4e66e1(0x10f)],'inline':![]},{'name':'✦\x20/volume','value':_0x3bc4e5[_0x4e66e1(0x10c)],'inline':![]},{'name':_0x4e66e1(0xca),'value':_0x3bc4e5[_0x4e66e1(0xd4)],'inline':![]},{'name':_0x3bc4e5['HnwcV'],'value':'\x20','inline':![]},{'name':'✦\x20Mix','value':_0x4e66e1(0xf5)+_0x4e66e1(0x103),'inline':!![]},{'name':_0x3bc4e5['AsdeS'],'value':_0x3bc4e5[_0x4e66e1(0xff)],'inline':!![]},{'name':'✦\x20Skip','value':_0x4e66e1(0xf7)+'ext\x20song','inline':!![]},{'name':_0x3bc4e5['RUjJx'],'value':_0x4e66e1(0xde)+_0x4e66e1(0xe5),'inline':!![]},{'name':'✦\x20List','value':_0x4e66e1(0xef)+_0x4e66e1(0xfb),'inline':!![]},{'name':_0x3bc4e5['BKfAH'],'value':_0x4e66e1(0xf2)+'me\x20the\x20pla'+'yer','inline':!![]},{'name':'✦\x20Add','value':'Add\x20the\x20so'+'ng\x20to\x20the\x20'+'queue','inline':!![]},{'name':_0x3bc4e5[_0x4e66e1(0xee)],'value':'Get\x20curren'+'t\x20song\x20inf'+'o','inline':!![]},{'name':_0x4e66e1(0xd7),'value':'Clear\x20the\x20'+_0x4e66e1(0xdc),'inline':!![]}),deleteMessage(await _0x926a14['editReply']({'embeds':[_0x90be9e]}),0x3*-0x9ab5+0x36fa0+0x1*0x353f);}catch(_0x2b9e17){sendErrorEmbed(_0x926a14,_0x90be9e),console['error'](_0x3bc4e5['XLtVZ'],_0x2b9e17);}}};
+const { EmbedBuilder } = require('discord.js')
+const { deleteMessage, sendErrorEmbed } = require('../../Functions')
+
+module.exports = {
+   data: {
+      name: 'help',
+      description: 'Get info on commands and buttons',
+      options: [],
+   },
+   voiceChannel: false,
+
+   run: async (interaction) => {
+      await interaction.deferReply()
+      const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+
+      try {
+         embed
+            .setAuthor({ name: interaction.client.config.embed.author.help, iconURL: interaction.guild.iconURL() })
+            .setDescription('✦ Here are the commands and buttons info to control the music player :3')
+            .addFields(
+               { name: '✦ ───── ───── ───── ─────  C O M M A N D S  ───── ───── ───── ───── ✦', value: ' ', inline: false },
+               { name: '✦ /play', value: 'Play a song from YouTube, Spotify, or SoundCloud', inline: false },
+               { name: '✦ /skip', value: 'Skip the current song or a number of songs', inline: false },
+               { name: '✦ /stop', value: 'Stop the music and clear the queue', inline: false },
+               { name: '✦ /remove', value: 'Remove the current song or a song at a specific position. Click `List` for more info', inline: false },
+               { name: '✦ /filter', value: 'Modify the player’s filters', inline: false },
+               { name: '✦ /volume', value: 'Adjust the player’s volume', inline: false },
+               { name: '✦ /sound', value: 'Click buttons to play meme sounds', inline: false },
+               { name: '✦ ────── ───── ───── ─────  B U T T O N S  ───── ───── ───── ────── ✦', value: ' ', inline: false },
+               { name: '✦ Mix', value: 'Shuffle the queue', inline: true },
+               { name: '✦ Back', value: 'Play the previous song', inline: true },
+               { name: '✦ Skip', value: 'Play the next song', inline: true },
+               { name: '✦ Loop', value: 'Change loop modes', inline: true },
+               { name: '✦ List', value: 'Show the playlist', inline: true },
+               { name: '✦ Halt', value: 'Pause/Resume the player', inline: true },
+               { name: '✦ Add', value: 'Add the song to the queue', inline: true },
+               { name: '✦ Grab', value: 'Get current song info', inline: true },
+               { name: '✦ Clear', value: 'Clear the queue', inline: true }
+            )
+         deleteMessage(await interaction.editReply({ embeds: [embed] }), 120000)
+      } catch (error) {
+         sendErrorEmbed(interaction, embed)
+         console.error('❌   ✦ Help Error\n', error)
+      }
+   },
+}

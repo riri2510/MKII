@@ -1,1 +1,54 @@
-const _0x528df7=_0x338d;(function(_0x1de026,_0x33821e){const _0x40aa3e=_0x338d,_0x4921d2=_0x1de026();while(!![]){try{const _0x35321c=-parseInt(_0x40aa3e(0x178))/(0x15f1+0x1a29+-0x3019)+-parseInt(_0x40aa3e(0x16a))/(-0x17a9+0xdfb+0x9b0)*(parseInt(_0x40aa3e(0x16e))/(-0x1e73*0x1+-0x2*0x11d7+0x4224))+parseInt(_0x40aa3e(0x15c))/(-0x1a08+0x1*-0xa89+0x2495)+parseInt(_0x40aa3e(0x15e))/(-0x1312+-0x1*-0x994+-0x1*-0x983)+parseInt(_0x40aa3e(0x16b))/(-0x1045+0x87+0xfc4)*(-parseInt(_0x40aa3e(0x173))/(0x1ae3*0x1+-0x679+-0x133*0x11))+-parseInt(_0x40aa3e(0x169))/(0x9d2*-0x2+-0x6cc+0x58*0x4d)+-parseInt(_0x40aa3e(0x162))/(-0x2*-0x1091+-0x1b91*-0x1+-0x3caa)*(-parseInt(_0x40aa3e(0x15b))/(0x814+0xfc1+-0x17cb));if(_0x35321c===_0x33821e)break;else _0x4921d2['push'](_0x4921d2['shift']());}catch(_0x477cc4){_0x4921d2['push'](_0x4921d2['shift']());}}}(_0x2c68,0x7*-0x2a38f+-0x1*0x7e5fe+-0x57*-0x6951));function _0x338d(_0x18ac38,_0x229d0a){const _0x332bd4=_0x2c68();return _0x338d=function(_0x3c66bc,_0x481dfe){_0x3c66bc=_0x3c66bc-(0x1c82+-0x1*0x1d99+-0x7b*-0x5);let _0x1050a7=_0x332bd4[_0x3c66bc];return _0x1050a7;},_0x338d(_0x18ac38,_0x229d0a);}function _0x2c68(){const _0x4ecd50=['tions','5793wTGlmQ','✦\x20Exceeded','config','client','getQueue','147826QWbWEA','tion','✦\x20No\x20songs','url','playing','638678iUARPm','length','KMVYX','player','Amount\x20to\x20','setDescrip','✦\x20No\x20music','tzjqB','../../Func','✦\x20No\x20song\x20','embed','✦\x20Skipped\x20','\x20current\x20n','193090VXmxYB','4067676dSChpc','\x20to\x20skip','2674780rmYHms','tly\x20playin','name','nt\x20song','639ZpGCDr','deferReply','✦\x20Invalid\x20','nUhcx','editReply','options','songs','1944184sLdyRb','206GxhtzG','348bWAgzf','skip'];_0x2c68=function(){return _0x4ecd50;};return _0x2c68();}const {ApplicationCommandOptionType,EmbedBuilder}=require('discord.js'),{deleteMessage,sendErrorEmbed}=require(_0x528df7(0x156)+_0x528df7(0x16d));module['exports']={'data':{'name':_0x528df7(0x16c),'description':'Skip\x20curre'+_0x528df7(0x161),'options':[{'name':'number','description':_0x528df7(0x152)+'skip','type':ApplicationCommandOptionType['Number'],'required':![]}]},'voiceChannel':!![],'run':async _0x15c72d=>{const _0x584972=_0x528df7,_0x2612b0={'tzjqB':'number','nUhcx':_0x584972(0x154)+'\x20is\x20curren'+_0x584972(0x15f)+'g','yogba':function(_0x154fc4,_0x4c16cc){return _0x154fc4<_0x4c16cc;},'wscvN':_0x584972(0x164)+'Number','KMVYX':_0x584972(0x175)+_0x584972(0x15d),'bjwIf':_0x584972(0x157)+'to\x20skip'};await _0x15c72d[_0x584972(0x163)]();const _0x285cb6=new EmbedBuilder()['setColor'](_0x15c72d[_0x584972(0x171)][_0x584972(0x170)][_0x584972(0x158)]['color']);try{const _0x216753=_0x15c72d[_0x584972(0x167)]['getNumber'](_0x2612b0[_0x584972(0x155)]),_0x3a9042=_0x15c72d['client']['player'][_0x584972(0x172)](_0x15c72d['guild']['id']);if(!_0x3a9042||!_0x3a9042[_0x584972(0x177)])_0x285cb6['setDescrip'+'tion'](_0x2612b0[_0x584972(0x165)]);else{if(_0x216753){if(_0x216753>_0x3a9042[_0x584972(0x168)][_0x584972(0x179)])_0x285cb6['setDescrip'+'tion'](_0x584972(0x16f)+_0x584972(0x15a)+'o\x20of\x20songs');if(isNaN(_0x216753)||_0x2612b0['yogba'](_0x216753,-0x116a+0x1*0x160f+-0x12*0x42))_0x285cb6['setDescrip'+_0x584972(0x174)](_0x2612b0['wscvN']);try{await _0x15c72d[_0x584972(0x171)][_0x584972(0x151)]['jump'](_0x15c72d,_0x216753),_0x285cb6[_0x584972(0x153)+_0x584972(0x174)](_0x584972(0x159)+_0x216753+'\x20songs');}catch{_0x285cb6['setDescrip'+'tion'](_0x2612b0[_0x584972(0x150)]);}}else try{_0x285cb6['setDescrip'+_0x584972(0x174)](_0x584972(0x159)+'['+_0x3a9042['songs'][-0xa2*0x1c+0xb87+0x631*0x1][_0x584972(0x160)]+']('+_0x3a9042[_0x584972(0x168)][0x11*0x18b+-0x3f3+-0x1648][_0x584972(0x176)]+')'),await _0x3a9042['skip']();}catch{_0x285cb6[_0x584972(0x153)+_0x584972(0x174)](_0x2612b0['bjwIf']);}}deleteMessage(await _0x15c72d[_0x584972(0x166)]({'embeds':[_0x285cb6]}),0x2eb4+0x1*0x15e1+0x2af*-0xb);}catch(_0x29a6d1){sendErrorEmbed(_0x15c72d,_0x285cb6),console['log']('❌\x20\x20\x20✦\x20Skip'+'\x20Error\x0a',_0x29a6d1);}}};
+const { ApplicationCommandOptionType, EmbedBuilder } = require('discord.js')
+const { deleteMessage, sendErrorEmbed } = require('../../Functions')
+
+module.exports = {
+   data: {
+      name: 'skip',
+      description: 'Skip current song',
+      options: [
+         {
+            name: 'number',
+            description: 'Amount to skip',
+            type: ApplicationCommandOptionType.Number,
+            required: false,
+         },
+      ],
+   },
+   voiceChannel: true,
+
+   run: async (interaction) => {
+      await interaction.deferReply()
+      const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+
+      try {
+         const number = interaction.options.getNumber('number')
+         const queue = interaction.client.player.getQueue(interaction.guild.id)
+
+         if (!queue || !queue.playing) {
+            embed.setDescription('✦ No music is currently playing')
+         } else if (number) {
+            if (number > queue.songs.length) embed.setDescription('✦ Exceeded current no of songs')
+            if (isNaN(number) || number < 1) embed.setDescription('✦ Invalid Number')
+
+            try {
+               await interaction.client.player.jump(interaction, number)
+               embed.setDescription(`✦ Skipped ${number} songs`)
+            } catch {
+               embed.setDescription('✦ No songs to skip')
+            }
+         } else {
+            try {
+               embed.setDescription(`✦ Skipped [${queue.songs[0].name}](${queue.songs[0].url})`)
+               await queue.skip()
+            } catch {
+               embed.setDescription('✦ No song to skip')
+            }
+         }
+
+         deleteMessage(await interaction.editReply({ embeds: [embed] }), 10000)
+      } catch (error) {
+         sendErrorEmbed(interaction, embed)
+         console.log('❌   ✦ Skip Error\n', error)
+      }
+   },
+}

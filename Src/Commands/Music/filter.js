@@ -1,1 +1,60 @@
-function _0x1acb(){const _0x54886c=['haas','2082522rMMmCN','7OdhpiM','83686SWpvUi','getQueue','color','setCustomI','tWbNg','2769676UfSRbT','setLabel','config','editReply','end','ageCompone','filter','label','ters','1917176RqOCqB','setImage','filters','has','7942869fjkjxb','🧩\x20•\x20Reques','nightcore','iconURL','includes','guild','setTimesta','client','3806118IePcIW','user','globalName','avatarURL','✦\x20No\x20music','Modify\x20fil','Nightcore','stop','createMess','3337395QuOukX','jnSgS','9nWEUwc','setStyle','vaporwave','tion','addCompone','remove'];_0x1acb=function(){return _0x54886c;};return _0x1acb();}const _0x48a6ee=_0x3670;function _0x3670(_0x41013d,_0x3ae768){const _0x45ac9b=_0x1acb();return _0x3670=function(_0x2cdeb5,_0x205615){_0x2cdeb5=_0x2cdeb5-(-0xf09+-0x231*0xc+0x1*0x2ad7);let _0x3bac1e=_0x45ac9b[_0x2cdeb5];return _0x3bac1e;},_0x3670(_0x41013d,_0x3ae768);}(function(_0x96ab,_0x1b4a93){const _0x5cee68=_0x3670,_0x393355=_0x96ab();while(!![]){try{const _0x1a31a5=parseInt(_0x5cee68(0x1a5))/(-0x23e6+-0x15e7+0x39ce)*(-parseInt(_0x5cee68(0x1ae))/(-0x4fe+0x14a*0x11+-0x10ea))+parseInt(_0x5cee68(0x1ac))/(-0x3*-0x449+-0x963+-0x375)+parseInt(_0x5cee68(0x185))/(0x158*0x7+0x5f7*0x1+0x1*-0xf5b)+-parseInt(_0x5cee68(0x1a3))/(0xf2+0x24d2*0x1+0x3*-0xc95)+-parseInt(_0x5cee68(0x19a))/(-0x2c+0x2672+-0x2640)+-parseInt(_0x5cee68(0x1ad))/(0x2a+0xd4e*-0x2+0x1a79)*(parseInt(_0x5cee68(0x18e))/(-0x23ba+-0x2144+0x4506))+parseInt(_0x5cee68(0x192))/(0x29*0x7+0x21f8+-0x230e);if(_0x1a31a5===_0x1b4a93)break;else _0x393355['push'](_0x393355['shift']());}catch(_0x5f4856){_0x393355['push'](_0x393355['shift']());}}}(_0x1acb,-0x85cd5+0x166f*-0xb+-0x7577b*-0x2));const {ActionRowBuilder,ButtonBuilder,EmbedBuilder}=require('discord.js'),{description,deleteMessage,sendErrorEmbed}=require('../../Func'+'tions');module['exports']={'data':{'name':_0x48a6ee(0x18b),'description':_0x48a6ee(0x19f)+_0x48a6ee(0x18d),'options':[]},'voiceChannel':!![],'run':async _0x40c9a4=>{const _0x8be61a=_0x48a6ee,_0x43c241={'jnSgS':'filterClos'+'e','OQmad':'Stereo','tWbNg':'Slowed','vbpHL':'Close'};await _0x40c9a4['deferReply']();const _0x37e1f5=new EmbedBuilder()['setColor'](_0x40c9a4['client'][_0x8be61a(0x187)]['embed'][_0x8be61a(0x182)]);try{const _0x1615aa=_0x40c9a4[_0x8be61a(0x199)]['player'][_0x8be61a(0x1af)](_0x40c9a4[_0x8be61a(0x197)]['id']);if(!_0x1615aa||!_0x1615aa['playing'])return deleteMessage(await _0x40c9a4['editReply']({'embeds':[_0x37e1f5['setDescrip'+_0x8be61a(0x1a8)](_0x8be61a(0x19e)+'\x20is\x20playin'+'g')]}),0x1*-0x33e5+0x17*0x59+0x52f6);_0x37e1f5[_0x8be61a(0x18f)](_0x40c9a4['client'][_0x8be61a(0x187)]['embed']['image'])['setDescrip'+_0x8be61a(0x1a8)](description(_0x1615aa))['setAuthor']({'name':_0x40c9a4['client'][_0x8be61a(0x187)]['embed']['author'][_0x8be61a(0x18b)],'iconURL':_0x40c9a4[_0x8be61a(0x197)][_0x8be61a(0x195)]()})['setFooter']({'text':_0x8be61a(0x193)+'ted\x20by\x20'+_0x40c9a4['user'][_0x8be61a(0x19c)],'iconURL':_0x40c9a4[_0x8be61a(0x19b)][_0x8be61a(0x19d)]()})[_0x8be61a(0x198)+'mp']();const _0x4e67f5=[{'id':'3d','label':'3D','style':0x2},{'id':_0x8be61a(0x1ab),'label':_0x43c241['OQmad'],'style':0x2},{'id':_0x8be61a(0x1a7),'label':_0x43c241[_0x8be61a(0x184)],'style':0x2},{'id':_0x8be61a(0x194),'label':_0x8be61a(0x1a0),'style':0x2},{'id':'filterClos'+'e','label':_0x43c241['vbpHL'],'style':0x4}]['map'](_0x41b2de=>new ButtonBuilder()[_0x8be61a(0x183)+'d'](_0x41b2de['id'])[_0x8be61a(0x186)](_0x41b2de[_0x8be61a(0x18c)])[_0x8be61a(0x1a6)](_0x41b2de['style'])),_0x55cf55=new ActionRowBuilder()[_0x8be61a(0x1a9)+'nts'](_0x4e67f5),_0x914d53=await _0x40c9a4['editReply']({'embeds':[_0x37e1f5],'components':[_0x55cf55]}),_0x231dba=_0x5ec346=>_0x5ec346['user']['id']===_0x40c9a4['user']['id'],_0x423788=_0x914d53[_0x8be61a(0x1a2)+_0x8be61a(0x18a)+'ntCollecto'+'r']({'filter':_0x231dba,'time':0x1d4c0});_0x423788['on']('collect',async _0x529ce9=>{const _0x4b1815=_0x8be61a;await _0x529ce9['deferUpdat'+'e']();const {customId:_0x70e48f}=_0x529ce9;if(_0x70e48f===_0x43c241[_0x4b1815(0x1a4)])_0x423788[_0x4b1815(0x1a1)]();else['3d',_0x4b1815(0x1ab),'vaporwave',_0x4b1815(0x194)][_0x4b1815(0x196)](_0x70e48f)&&(_0x1615aa['filters'][_0x4b1815(0x191)](_0x70e48f)?_0x1615aa['filters'][_0x4b1815(0x1aa)](_0x70e48f):_0x1615aa[_0x4b1815(0x190)]['add'](_0x70e48f),_0x37e1f5['setDescrip'+'tion'](description(_0x1615aa)),await _0x529ce9[_0x4b1815(0x188)]({'embeds':[_0x37e1f5],'components':[_0x55cf55]}));}),_0x423788['on'](_0x8be61a(0x189),()=>deleteMessage(_0x914d53,-0x1b10+-0x3*-0xc8+-0xc8e*-0x2));}catch(_0x27dc46){sendErrorEmbed(_0x40c9a4,_0x37e1f5),console['log']('❌\x20\x20\x20✦\x20Filt'+'er\x20Error\x0a',_0x27dc46);}}};
+const { ActionRowBuilder, ButtonBuilder, EmbedBuilder } = require('discord.js')
+const { description, deleteMessage, sendErrorEmbed } = require('../../Functions')
+
+module.exports = {
+   data: {
+      name: 'filter',
+      description: 'Modify filters',
+      options: [],
+   },
+   voiceChannel: true,
+   
+   run: async (interaction) => {
+      await interaction.deferReply()
+      const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+
+      try {
+         const queue = interaction.client.player.getQueue(interaction.guild.id)
+
+         if (!queue || !queue.playing)
+            return deleteMessage(await interaction.editReply({ embeds: [embed.setDescription('✦ No music is playing')] }), 10000)
+
+         embed
+            .setImage(interaction.client.config.embed.image)
+            .setDescription(description(queue))
+            .setAuthor({ name: interaction.client.config.embed.author.filter, iconURL: interaction.guild.iconURL() })
+            .setFooter({ text: `🧩 • Requested by ${interaction.user.globalName}`, iconURL: interaction.user.avatarURL() })
+            .setTimestamp()
+
+         const buttons = [
+            { id: '3d', label: '3D', style: 2 },
+            { id: 'haas', label: 'Stereo', style: 2 },
+            { id: 'vaporwave', label: 'Slowed', style: 2 },
+            { id: 'nightcore', label: 'Nightcore', style: 2 },
+            { id: 'filterClose', label: 'Close', style: 4 },
+         ].map((button) => new ButtonBuilder().setCustomId(button.id).setLabel(button.label).setStyle(button.style))
+         const row = new ActionRowBuilder().addComponents(buttons)
+
+         const message = await interaction.editReply({ embeds: [embed], components: [row] })
+         const filter = (i) => i.user.id === interaction.user.id
+         const collector = message.createMessageComponentCollector({ filter, time: 120000 })
+
+         collector.on('collect', async (button) => {
+            await button.deferUpdate()
+            const { customId } = button
+
+            if (customId === 'filterClose') {
+               collector.stop()
+            } else if (['3d', 'haas', 'vaporwave', 'nightcore'].includes(customId)) {
+               queue.filters.has(customId) ? queue.filters.remove(customId) : queue.filters.add(customId)
+               embed.setDescription(description(queue))
+               await button.editReply({ embeds: [embed], components: [row] })
+            }
+         })
+         collector.on('end', () => deleteMessage(message, 100))
+      } catch (error) {
+         sendErrorEmbed(interaction, embed)
+         console.log('❌   ✦ Filter Error\n', error)
+      }
+   },
+}

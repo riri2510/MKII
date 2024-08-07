@@ -1,1 +1,53 @@
-function _0x1f48(){const _0x382bfb=['remove','tion','log','ong\x20at\x20spe','delete','d\x20by\x20<@','4CaCoDH','642yAtXpT','12TBGFDb','ve\x20Error\x0a','playing','The\x20positi','Remove\x20a\x20s','songs','nformation','4477MbnvjL','2624VIFwdI','player','3402931Lrvumx','user','25390bFgKFv','name',')・Requeste','Pipqh','1210448yPQlHZ','cific\x20posi','url','tly\x20playin','YVQIg','color','length','.\x20Default\x20','54hukebt','Integer','13794RlDyZD','playerMess','thumbnail','1808880pcDGcU','editReply','stop','../../Func','1866090vafnoR','✦\x20Removed\x20'];_0x1f48=function(){return _0x382bfb;};return _0x1f48();}const _0x5790f8=_0x14c7;function _0x14c7(_0x18af89,_0x2d0737){const _0xa5b193=_0x1f48();return _0x14c7=function(_0x3500c6,_0x13e774){_0x3500c6=_0x3500c6-(-0x1c38+-0x26c2+-0x17*-0x2f5);let _0x2c97c0=_0xa5b193[_0x3500c6];return _0x2c97c0;},_0x14c7(_0x18af89,_0x2d0737);}(function(_0x5e20f7,_0x4b7e38){const _0x263c15=_0x14c7,_0x1b8b1c=_0x5e20f7();while(!![]){try{const _0x39aa3b=parseInt(_0x263c15(0x124))/(0x1517*0x1+-0x2463*-0x1+0x1*-0x3979)*(-parseInt(_0x263c15(0x133))/(-0x13d1+-0x147*0x17+0x1*0x3134))+-parseInt(_0x263c15(0x109))/(0x1f94+-0xc87+-0x130a)*(parseInt(_0x263c15(0x112))/(0x23f6+0x721+0x2b13*-0x1))+-parseInt(_0x263c15(0x12b))/(-0x243a*0x1+0xb*0x329+0x17c)+-parseInt(_0x263c15(0x10a))/(0x1361+-0x690+-0x83*0x19)*(-parseInt(_0x263c15(0x114))/(-0x1*-0x743+-0x93+-0x6a9))+parseInt(_0x263c15(0x11a))/(-0x1*-0x19c6+-0xe1b+-0xba3)*(-parseInt(_0x263c15(0x122))/(-0xd1*0x2e+0xd32+0x1865))+parseInt(_0x263c15(0x116))/(0x199b+0x2*-0x21a+-0x155d)*(parseInt(_0x263c15(0x111))/(-0x2f9*0xb+0x2*-0x676+-0x5*-0x922))+parseInt(_0x263c15(0x127))/(-0x6b7*0x4+-0x6*0x285+0x6*0x701);if(_0x39aa3b===_0x4b7e38)break;else _0x1b8b1c['push'](_0x1b8b1c['shift']());}catch(_0x33152a){_0x1b8b1c['push'](_0x1b8b1c['shift']());}}}(_0x1f48,-0x7d*0x2345+-0xc5*-0x8f+0x1b95bf));const {ApplicationCommandOptionType,EmbedBuilder}=require('discord.js'),{deleteMessage,sendErrorEmbed}=require(_0x5790f8(0x12a)+'tions');module['exports']={'data':{'name':_0x5790f8(0x12d),'description':_0x5790f8(0x10e)+_0x5790f8(0x130)+_0x5790f8(0x11b)+_0x5790f8(0x12e),'options':[{'name':'position','description':_0x5790f8(0x10d)+'on\x20of\x20the\x20'+'song,\x20pres'+'s\x20Queue\x20bu'+'tton\x20for\x20i'+_0x5790f8(0x110)+_0x5790f8(0x121)+'is\x20current'+'\x20song','type':ApplicationCommandOptionType[_0x5790f8(0x123)],'required':![]}]},'voiceChannel':!![],'run':async _0x327415=>{const _0x24143=_0x5790f8,_0x10c0ae={'PgqVX':'✦\x20No\x20music'+'\x20is\x20curren'+_0x24143(0x11d)+'g','JtwlO':function(_0x55ad2d,_0x5c77f5){return _0x55ad2d<=_0x5c77f5;},'xgvkt':'✦\x20Removed','fQrpO':function(_0x48c79f,_0x338113){return _0x48c79f<_0x338113;},'Pipqh':function(_0x587a02,_0x4e4a05){return _0x587a02===_0x4e4a05;},'YVQIg':function(_0x10089d,_0x34815b){return _0x10089d-_0x34815b;},'lafYH':'❌\x20\x20\x20✦\x20Remo'+_0x24143(0x10b)};await _0x327415['deferReply']();const _0x1b423b=new EmbedBuilder()['setColor'](_0x327415['client']['config']['embed'][_0x24143(0x11f)]);try{const _0x11fd76=_0x327415['options']['getInteger']('position')||-0x1*-0x1ec7+-0xc24+-0x6a*0x2d,_0x32a131=_0x327415['client'][_0x24143(0x113)]['getQueue'](_0x327415['guild']['id']);if(!_0x32a131||!_0x32a131[_0x24143(0x10c)])_0x1b423b['setDescrip'+'tion'](_0x10c0ae['PgqVX']),deleteMessage(await _0x327415[_0x24143(0x128)]({'embeds':[_0x1b423b]}),0x1*-0x1c76+0x35*0x25+0x2855);else{if(_0x10c0ae['JtwlO'](_0x32a131[_0x24143(0x10f)][_0x24143(0x120)],0xcd7*0x3+-0x7a2+-0x43*0x76)){_0x1b423b['setDescrip'+'tion'](_0x10c0ae['xgvkt']);try{await _0x32a131[_0x24143(0x129)](),await _0x32a131[_0x24143(0x125)+'age'][_0x24143(0x131)]()['catch'](()=>{});}catch{}deleteMessage(await _0x327415['editReply']({'embeds':[_0x1b423b]}),0x3*-0x7eb+-0x67*-0x11+0x3a5*0xa);}else{if(_0x10c0ae['fQrpO'](_0x11fd76,0x2*-0xd13+0x7c7+0x2a0*0x7)||_0x11fd76>_0x32a131['songs'][_0x24143(0x120)])_0x1b423b['setDescrip'+_0x24143(0x12e)]('✦\x20Please\x20p'+'rovide\x20a\x20v'+'alid\x20song\x20'+'position\x20i'+'n\x20the\x20queu'+'e');else{if(_0x10c0ae[_0x24143(0x119)](_0x11fd76,-0x38b*0x6+0x47*0x3a+0x52d))await _0x32a131['skip']();const _0x4a9461=_0x32a131[_0x24143(0x10f)]['splice'](_0x10c0ae[_0x24143(0x11e)](_0x11fd76,-0x2*-0xe76+0x3*0x99d+-0x39c2),-0x1706+-0x215f+0x3866)[0x119*0x1b+0x89*-0x2b+-0x6a0];_0x1b423b['setThumbna'+'il'](_0x4a9461[_0x24143(0x126)])['setDescrip'+_0x24143(0x12e)](_0x24143(0x12c)+'['+_0x4a9461[_0x24143(0x117)]+']('+_0x4a9461[_0x24143(0x11c)]+(_0x24143(0x118)+_0x24143(0x132))+_0x4a9461[_0x24143(0x115)]['id']+'>'),await _0x327415[_0x24143(0x128)]({'embeds':[_0x1b423b]});}}}}catch(_0x1c2442){sendErrorEmbed(_0x327415,_0x1b423b),console[_0x24143(0x12f)](_0x10c0ae['lafYH'],_0x1c2442);}}};
+const { ApplicationCommandOptionType, EmbedBuilder } = require('discord.js')
+const { deleteMessage, sendErrorEmbed } = require('../../Functions')
+
+module.exports = {
+   data: {
+      name: 'remove',
+      description: 'Remove a song at specific position',
+      options: [
+         {
+            name: 'position',
+            description: 'The position of the song, press Queue button for information. Default is current song',
+            type: ApplicationCommandOptionType.Integer,
+            required: false,
+         },
+      ],
+   },
+   voiceChannel: true,
+
+   run: async (interaction) => {
+      await interaction.deferReply()
+      const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+
+      try {
+         const position = interaction.options.getInteger('position') || 1
+         const queue = interaction.client.player.getQueue(interaction.guild.id)
+
+         if (!queue || !queue.playing) {
+            embed.setDescription('✦ No music is currently playing')
+            deleteMessage(await interaction.editReply({ embeds: [embed] }), 5000)
+         } else if (queue.songs.length <= 1) {
+            embed.setDescription('✦ Removed')
+            try {
+               await queue.stop()
+               await queue.playerMessage.delete().catch(() => {})
+            } catch {}
+            deleteMessage(await interaction.editReply({ embeds: [embed] }), 5000)
+         } else if (position < 1 || position > queue.songs.length) {
+            embed.setDescription('✦ Please provide a valid song position in the queue')
+         } else {
+            if (position === 1) await queue.skip()
+            const removedSong = queue.songs.splice(position - 1, 1)[0]
+            embed
+               .setThumbnail(removedSong.thumbnail)
+               .setDescription(`✦ Removed [${removedSong.name}](${removedSong.url})・Requested by <@${removedSong.user.id}>`)
+
+            await interaction.editReply({ embeds: [embed] })
+         }
+      } catch (error) {
+         sendErrorEmbed(interaction, embed)
+         console.log('❌   ✦ Remove Error\n', error)
+      }
+   },
+}

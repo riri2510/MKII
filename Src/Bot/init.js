@@ -1,1 +1,68 @@
-const _0x21956b=_0x2308;function _0x7da9(){const _0x338b6d=['297YmjPvo','2786230RSxttu','4MoOlxv','242523tmipdB','cache','2FmFIBu','/../Comman','/Distube','2310266MwwFjt','1043175ctFyYj','push','config','promises','commands','buttons','plugins','Admin','interface','/../Events','/Client','all','SRUYh','includes','data','map','SxBJs','3461274mhYhtE','player','Client','name','run','KLeQv','/../Button','log','33dZuYVc','set','1641370TMlvzE','122016lLEubV','discord.js'];_0x7da9=function(){return _0x338b6d;};return _0x7da9();}(function(_0x46449b,_0x5e8d6b){const _0x798144=_0x2308,_0xac31fc=_0x46449b();while(!![]){try{const _0x20bf0=-parseInt(_0x798144(0x1a5))/(0x2b*-0x32+0xc*0x2a2+-0x7bb*0x3)*(-parseInt(_0x798144(0x1a7))/(-0x3e9*-0x1+-0x30*-0xb6+-0x3b*0xa5))+-parseInt(_0x798144(0x1ab))/(-0x3*-0x5b5+-0x17*-0xb4+-0x2148)*(-parseInt(_0x798144(0x1a4))/(-0x1de3+0x7f7*0x2+0xdf9))+parseInt(_0x798144(0x1c6))/(0x3d+-0x1800+0x17c8)+-parseInt(_0x798144(0x1bc))/(-0x135+-0x18d6+0x1*0x1a11)+-parseInt(_0x798144(0x1aa))/(-0x1*0x165e+0xe*0xdd+0xa4f)+parseInt(_0x798144(0x1c7))/(-0xce3+0x21f1*0x1+-0x702*0x3)*(-parseInt(_0x798144(0x1a2))/(0xa7*0xc+0x158a+0x1*-0x1d55))+parseInt(_0x798144(0x1a3))/(-0x1b09+0x21a*0x6+0x1*0xe77)*(parseInt(_0x798144(0x1c4))/(-0x191*-0x1+-0xe*-0xab+-0xae0));if(_0x20bf0===_0x5e8d6b)break;else _0xac31fc['push'](_0xac31fc['shift']());}catch(_0x424093){_0xac31fc['push'](_0xac31fc['shift']());}}}(_0x7da9,-0x849b1+0x11194+0xc787b));const {Collection}=require(_0x21956b(0x1a1)),{DisTube}=require('distube'),fs=require('fs')[_0x21956b(0x1ae)],Cache=require('./cache');module['exports']=async _0x333ff4=>{const _0x1dea08=_0x21956b,_0x2b05de={'xeqLY':_0x1dea08(0x1b4)+_0x1dea08(0x1a9),'SxBJs':function(_0x5a82bc,_0x3f291c,_0x37243c){return _0x5a82bc(_0x3f291c,_0x37243c);}};_0x333ff4['player']=new DisTube(_0x333ff4,_0x333ff4[_0x1dea08(0x1ad)][_0x1dea08(0x1b1)]),_0x333ff4[_0x1dea08(0x1a6)]=new Cache(_0x333ff4[_0x1dea08(0x1bd)]),_0x333ff4[_0x1dea08(0x1af)]=new Collection(),_0x333ff4['buttons']=new Collection(),_0x333ff4['interface']=[[],[]],await Promise[_0x1dea08(0x1b6)]([loadEvents(_0x333ff4,__dirname+(_0x1dea08(0x1b4)+_0x1dea08(0x1b5))),loadEvents(_0x333ff4,__dirname+_0x2b05de['xeqLY']),loadCommands(_0x333ff4,__dirname+('/../Comman'+'ds/Admin')),loadCommands(_0x333ff4,__dirname+(_0x1dea08(0x1a8)+'ds/Music')),_0x2b05de[_0x1dea08(0x1bb)](loadButtons,_0x333ff4,__dirname+(_0x1dea08(0x1c2)+'s'))]);};function _0x2308(_0x162f77,_0x13132d){const _0x1d9a3f=_0x7da9();return _0x2308=function(_0x6792af,_0x2817e5){_0x6792af=_0x6792af-(0x1d2b+-0x78+0x9a*-0x2d);let _0x2246ed=_0x1d9a3f[_0x6792af];return _0x2246ed;},_0x2308(_0x162f77,_0x13132d);}const loadEvents=async(_0x372d38,_0x5798f9)=>{const _0x2bf58c=_0x21956b,_0x2192ea={'KLeQv':_0x2bf58c(0x1be)};try{const _0xa3553=await fs['readdir'](_0x5798f9),_0xc9690a=_0x5798f9[_0x2bf58c(0x1b8)](_0x2192ea[_0x2bf58c(0x1c1)])?_0x372d38:_0x372d38[_0x2bf58c(0x1bd)];await Promise['all'](_0xa3553[_0x2bf58c(0x1ba)](_0x196c78=>{const _0xb82371=require(_0x5798f9+'/'+_0x196c78);_0xc9690a['on'](_0x196c78['split']('.')[-0x605*-0x4+-0x1093+-0x1*0x781],_0xb82371['bind'](null,_0x372d38));}));}catch(_0x2c10dc){console['log'](_0x2c10dc);}},loadCommands=async(_0x3eca95,_0x1f5318)=>{const _0x4d08f2=_0x21956b;try{const _0x441615=await fs['readdir'](_0x1f5318),_0x4cee11=_0x1f5318['includes'](_0x4d08f2(0x1b2))?_0x3eca95[_0x4d08f2(0x1b3)][-0x2*0x11d7+-0x663+-0x3d3*-0xb]:_0x3eca95['interface'][0x17e7+-0x1337+0xb*-0x6d];await Promise[_0x4d08f2(0x1b6)](_0x441615[_0x4d08f2(0x1ba)](_0x56c4bd=>{const _0x363366=_0x4d08f2,_0x771abd=require(_0x1f5318+'/'+_0x56c4bd);_0x3eca95[_0x363366(0x1af)][_0x363366(0x1c5)](_0x771abd['data']['name'],_0x771abd),_0x4cee11[_0x363366(0x1ac)](_0x771abd[_0x363366(0x1b9)]);}));}catch(_0x2b5e2f){console[_0x4d08f2(0x1c3)](_0x2b5e2f);}},loadButtons=async(_0x32bd03,_0x575bd0)=>{const _0x31d433=_0x21956b,_0x1bfd3a={'SRUYh':function(_0x1a6570,_0x500774){return _0x1a6570+_0x500774;}};try{const _0x1aeb84=await fs['readdir'](_0x575bd0);await Promise['all'](_0x1aeb84[_0x31d433(0x1ba)](_0x42d866=>{const _0x1b5429=_0x31d433,_0x1bf183=require(_0x1bfd3a[_0x1b5429(0x1b7)](_0x1bfd3a['SRUYh'](_0x575bd0,'/'),_0x42d866));_0x32bd03[_0x1b5429(0x1b0)]['set'](_0x1bf183[_0x1b5429(0x1bf)],_0x1bf183[_0x1b5429(0x1c0)]);}));}catch(_0x5d9b45){console[_0x31d433(0x1c3)](_0x5d9b45);}};
+const { Collection } = require('discord.js')
+const { DisTube } = require('distube')
+const fs = require('fs').promises
+const Cache = require('./cache')
+
+module.exports = async (client) => {
+   client.player = new DisTube(client, client.config.plugins)
+   //client.cache = new Cache(client.player)
+   client.commands = new Collection()
+   client.buttons = new Collection()
+   client.interface = [[], []]
+
+   await Promise.all([
+      loadEvents(client, __dirname + '/../Events/Client'),
+      loadEvents(client, __dirname + '/../Events/Distube'),
+      loadCommands(client, __dirname + '/../Commands/Admin'),
+      loadCommands(client, __dirname + '/../Commands/Music'),
+      loadButtons(client, __dirname + '/../Buttons'),
+   ])
+}
+
+const loadEvents = async (client, path) => {
+   try {
+      const files = await fs.readdir(path)
+      const emitter = path.includes('Client') ? client : client.player
+
+      await Promise.all(
+         files.map((file) => {
+            const fn = require(path + '/' + file)
+            emitter.on(file.split('.')[0], fn.bind(null, client))
+         })
+      )
+   } catch (error) {
+      console.log(error)
+   }
+}
+
+const loadCommands = async (client, path) => {
+   try {
+      const files = await fs.readdir(path)
+      const interface = path.includes('Admin') ? client.interface[0] : client.interface[1]
+
+      await Promise.all(
+         files.map((file) => {
+            const command = require(path + '/' + file)
+
+            client.commands.set(command.data.name, command)
+            interface.push(command.data)
+         })
+      )
+   } catch (error) {
+      console.log(error)
+   }
+}
+
+const loadButtons = async (client, path) => {
+   try {
+      const files = await fs.readdir(path)
+      await Promise.all(
+         files.map((file) => {
+            const button = require(path + '/' + file)
+            client.buttons.set(button.name, button.run)
+         })
+      )
+   } catch (error) {
+      console.log(error)
+   }
+}

@@ -1,1 +1,56 @@
-function _0x349f(){const _0xc9ed32=['String','currentTim','seek','minus','7170647xpxBxh','min','add','tion','✦\x20No\x20music','1832IqbSUO','client','editReply','setDescrip','✦\x20Seeked\x20t','2VfjSIb','h\x2030m\x202s','time','\x20the\x20curre','options','Increase\x20o','GixiC','max','type','717509HSEtcr','Jump\x20to\x20th','6wZyRPu','613905Uhxnyf','../../Func','✦\x20Meowing','20qfwqQW','deferReply','bnqPS','getString','\x20playing','nt\x20time','tions','603EWWnxY','13517HZpawO','setColor','1366030dLRMRA','105980hfYoxz','736698jkNlhc','FqFRG','132wpptPH'];_0x349f=function(){return _0xc9ed32;};return _0x349f();}function _0x2597(_0x33b947,_0x33a6a9){const _0x47d2c7=_0x349f();return _0x2597=function(_0x4654e8,_0x14fd7c){_0x4654e8=_0x4654e8-(-0xb*0x11d+0x1*-0x1692+-0x28d*-0xe);let _0x184ccc=_0x47d2c7[_0x4654e8];return _0x184ccc;},_0x2597(_0x33b947,_0x33a6a9);}const _0x520681=_0x2597;(function(_0x549ab8,_0x14147c){const _0x2cd0f1=_0x2597,_0x2d7b2c=_0x549ab8();while(!![]){try{const _0x7808be=parseInt(_0x2cd0f1(0xe9))/(-0x1a8*0x5+0x5b0+0x299)*(parseInt(_0x2cd0f1(0xfa))/(0x1*0x1df5+0xe38+0x3*-0xeb9))+-parseInt(_0x2cd0f1(0x106))/(0xe9*-0x2+0x3b+-0x5*-0x52)*(parseInt(_0x2cd0f1(0x109))/(0x46a+0x10e5*0x1+-0x1*0x154b))+parseInt(_0x2cd0f1(0xe7))/(0x1*0x3fd+0x10d*0x22+-0x13d9*0x2)*(-parseInt(_0x2cd0f1(0x105))/(0x1*-0x14fe+-0x1*-0x131d+0x1e7*0x1))+-parseInt(_0x2cd0f1(0xe5))/(-0x1*0x1a71+-0xd82+0x27fa)*(-parseInt(_0x2cd0f1(0xf5))/(0x1089+-0x1*-0xda1+-0x1e22))+-parseInt(_0x2cd0f1(0x110))/(0x183a+-0x1*-0x15a5+0x2*-0x16eb)*(-parseInt(_0x2cd0f1(0xe8))/(0x1*0x50b+0x269a+-0x2b9b))+parseInt(_0x2cd0f1(0xf0))/(0x2*0x895+-0x2*0xcf7+0x8cf)+-parseInt(_0x2cd0f1(0xeb))/(0x2530+-0x9*-0xcc+-0x2c50)*(parseInt(_0x2cd0f1(0x103))/(-0x1*-0x19c+0xeec+-0x107b));if(_0x7808be===_0x14147c)break;else _0x2d7b2c['push'](_0x2d7b2c['shift']());}catch(_0x4b2e75){_0x2d7b2c['push'](_0x2d7b2c['shift']());}}}(_0x349f,-0x2fbf*0x1f+0xf29d+0xe8f1c));const {ApplicationCommandOptionType,EmbedBuilder}=require('discord.js'),{getSeconds,deleteMessage,formatTime,sendErrorEmbed}=require(_0x520681(0x107)+_0x520681(0x10f));module['exports']={'data':{'name':_0x520681(0xee),'description':_0x520681(0x104)+'e\x20timestam'+'p','options':[{'name':'time','description':'Example:\x202'+_0x520681(0xfb),'type':ApplicationCommandOptionType['String'],'required':!![]},{'name':'type','description':_0x520681(0xff)+'r\x20decrease'+_0x520681(0xfd)+_0x520681(0x10e),'type':ApplicationCommandOptionType[_0x520681(0xec)],'required':![],'choices':[{'name':'Increase','value':'add'},{'name':'Decrease','value':_0x520681(0xef)}]}]},'voiceChannel':!![],'run':async _0x579360=>{const _0xd09946=_0x520681,_0x12ed8a={'FqFRG':_0xd09946(0x102),'bnqPS':function(_0x3374c1,_0x43ce73){return _0x3374c1(_0x43ce73);},'GixiC':'minus'};await _0x579360[_0xd09946(0x10a)]();const _0x2d7aae=new EmbedBuilder()[_0xd09946(0xe6)](_0x579360[_0xd09946(0xf6)]['config']['embed']['color']);try{const _0x206385=_0x579360[_0xd09946(0xf6)]['player']['getQueue'](_0x579360['guild']['id']),_0x5a0516=_0x579360[_0xd09946(0xfe)][_0xd09946(0x10c)](_0x12ed8a[_0xd09946(0xea)]);let _0x2c2e21=_0x12ed8a['bnqPS'](getSeconds,_0x579360['options']['getString'](_0xd09946(0xfc)));await _0x579360[_0xd09946(0xf7)]({'embeds':[_0x2d7aae[_0xd09946(0xf8)+_0xd09946(0xf3)](_0xd09946(0x108))]});if(!_0x206385||!_0x206385['playing'])_0x2d7aae[_0xd09946(0xf8)+'tion'](_0xd09946(0xf4)+_0xd09946(0x10d));else{if(_0x12ed8a[_0xd09946(0x10b)](isNaN,_0x2c2e21))_0x2d7aae[_0xd09946(0xf8)+'tion']('✦\x20Usage:\x202'+'h\x203m\x204s');else{if(_0x5a0516===_0xd09946(0xf2))_0x2c2e21=Math[_0xd09946(0xf1)](_0x206385[_0xd09946(0xed)+'e']+_0x2c2e21,_0x206385['songs'][-0x637+0xee+0x549]['duration']);else{if(_0x5a0516===_0x12ed8a[_0xd09946(0x100)])_0x2c2e21=Math[_0xd09946(0x101)](_0x206385['currentTim'+'e']-_0x2c2e21,-0x1d*0x126+0x458*-0x5+0x3706);}await _0x206385['seek'](_0x2c2e21),_0x2d7aae['setDescrip'+_0xd09946(0xf3)](_0xd09946(0xf9)+'o\x20'+formatTime(_0x206385[_0xd09946(0xed)+'e'],![]));}}deleteMessage(await _0x579360['editReply']({'embeds':[_0x2d7aae]}),0x9c9+0x1d57+-0x1398);}catch(_0x37626d){sendErrorEmbed(_0x579360,_0x2d7aae),console['log']('❌\x20\x20\x20\x20Seek\x20'+'Error\x0a',_0x37626d);}}};
+const { ApplicationCommandOptionType, EmbedBuilder } = require('discord.js')
+const { getSeconds, deleteMessage, formatTime, sendErrorEmbed } = require('../../Functions')
+
+module.exports = {
+   data: {
+      name: 'seek',
+      description: 'Jump to the timestamp',
+      options: [
+         {
+            name: 'time',
+            description: 'Example: 2h 30m 2s',
+            type: ApplicationCommandOptionType.String,
+            required: true,
+         },
+         {
+            name: 'type',
+            description: 'Increase or decrease the current time',
+            type: ApplicationCommandOptionType.String,
+            required: false,
+            choices: [
+               { name: 'Increase', value: 'add' },
+               { name: 'Decrease', value: 'minus' },
+            ],
+         },
+      ],
+   },
+   voiceChannel: true,
+
+   run: async (interaction) => {
+      await interaction.deferReply()
+      const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+
+      try {
+         const queue = interaction.client.player.getQueue(interaction.guild.id)
+         const type = interaction.options.getString('type')
+         let position = getSeconds(interaction.options.getString('time'))
+         await interaction.editReply({ embeds: [embed.setDescription('✦ Meowing')] })
+
+         if (!queue || !queue.playing) {
+            embed.setDescription('✦ No music playing')
+         } else if (isNaN(position)) {
+            embed.setDescription('✦ Usage: 2h 3m 4s')
+         } else {
+            if (type === 'add') position = Math.min(queue.currentTime + position, queue.songs[0].duration)
+            else if (type === 'minus') position = Math.max(queue.currentTime - position, 0)
+
+            await queue.seek(position)
+            embed.setDescription(`✦ Seeked to ${formatTime(queue.currentTime, false)}`)
+         }
+         deleteMessage(await interaction.editReply({ embeds: [embed] }), 5000)
+      } catch (error) {
+         sendErrorEmbed(interaction, embed)
+         console.log('❌    Seek Error\n', error)
+      }
+   },
+}

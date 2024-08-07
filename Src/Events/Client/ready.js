@@ -1,1 +1,35 @@
-function _0x43d7(){const _0x2a20c5=['SHpJb','put','575785NUykmK','guild','aga\x20With\x20L','444878rulcsG','sPtTo','107162JRcOdz','\x20moah\x20moah','138128gtKLpG','nGuildComm','289338HPyFtg','62865nmiEHP','CTtkh','config','431016TWjbQt','✔️\x20\x20\x20✦\x20🪐\x20Lo','usic\x20time,','invite','user','nts','setURL','exports','vote','status','YTfRx','10NxRKrw','\x20:3','✔️\x20\x20\x20✦\x20💖\x20Fr','tion','log','setThumbna','nCommands','480PYfQwU','\x20a\x20happy\x20m','th\x20luv\x0a','flat','✦\x20Click\x20bu','interface','rest','✦\x20From\x20Poo','Invite\x20Me','\x20info\x0a','❌\x20\x20\x20✦\x20🍉\x20Re','greeting'];_0x43d7=function(){return _0x2a20c5;};return _0x43d7();}const _0x1c12f3=_0x1ccd;(function(_0xef4ca2,_0x42ff6b){const _0x5c7e2b=_0x1ccd,_0x158925=_0xef4ca2();while(!![]){try{const _0x26dba1=-parseInt(_0x5c7e2b(0x1dd))/(0x1bbb+-0x237a+0x7c0)+-parseInt(_0x5c7e2b(0x1db))/(-0x19d3*-0x1+0x1cc7+-0x3698)+parseInt(_0x5c7e2b(0x1e5))/(-0x5ab*-0x4+0x1956+0x2fff*-0x1)+parseInt(_0x5c7e2b(0x1df))/(-0x29*-0x4f+0x13c*0x3+-0x1*0x1057)*(-parseInt(_0x5c7e2b(0x1c3))/(0x1a86+-0x205a*-0x1+0xd*-0x487))+parseInt(_0x5c7e2b(0x1e1))/(-0x2535+0xbef+-0x2*-0xca6)+-parseInt(_0x5c7e2b(0x1d8))/(0x2175+0xf7e+-0x30ec)+parseInt(_0x5c7e2b(0x1ca))/(0x1*-0x1cb5+0x3ce+0x18ef*0x1)*(parseInt(_0x5c7e2b(0x1e2))/(-0x928*-0x2+0x1a86+-0x2ccd));if(_0x26dba1===_0x42ff6b)break;else _0x158925['push'](_0x158925['shift']());}catch(_0x3412ef){_0x158925['push'](_0x158925['shift']());}}}(_0x43d7,0xbd9a+-0xed6e+0x22bef));const {Routes,ActionRowBuilder,ButtonBuilder,EmbedBuilder}=require('discord.js');function _0x1ccd(_0x4f14aa,_0x36dd36){const _0x3f53b0=_0x43d7();return _0x1ccd=function(_0x43927f,_0xd90e0f){_0x43927f=_0x43927f-(-0x14*0x56+-0xf8f+0x1803);let _0x3dff9f=_0x3f53b0[_0x43927f];return _0x3dff9f;},_0x1ccd(_0x4f14aa,_0x36dd36);}module[_0x1c12f3(0x1bf)]=async _0x36a53=>{const _0x46acfc=_0x1c12f3,_0x416eb4={'auIXo':_0x46acfc(0x1c5)+'om\x20Pooba\x20S'+_0x46acfc(0x1da)+'uv','SHpJb':'\x1b[35m%s\x1b[0'+'m','CTtkh':function(_0x2f0afd,_0x5b0426){return _0x2f0afd+_0x5b0426;},'sPtTo':_0x46acfc(0x1c4),'WtOcC':'Vote\x20For\x20M'+'e','YTfRx':_0x46acfc(0x1d2),'CXLZY':'Join\x20Serve'+'r'};try{console[_0x46acfc(0x1c7)]('\x1b[35m%s\x1b[0'+'m',_0x416eb4['auIXo']),console['log'](_0x416eb4[_0x46acfc(0x1d6)],_0x46acfc(0x1e6)+'gged\x20in\x20as'+'\x20--\x20'+_0x36a53[_0x46acfc(0x1bc)]['username']);const {guild:_0x5a43d7,global:_0x531dbf}=_0x36a53['config']['test']['status']?{'guild':_0x36a53[_0x46acfc(0x1cf)][_0x46acfc(0x1cd)](),'global':[]}:{'guild':_0x36a53['interface'][-0x23b+0x1251+0x1016*-0x1],'global':_0x36a53[_0x46acfc(0x1cf)][0x665*-0x1+0xc5a+-0x5f4]};await _0x36a53['rest'][_0x46acfc(0x1d7)](Routes['applicatio'+_0x46acfc(0x1e0)+'ands'](_0x36a53['user']['id'],_0x36a53['config'][_0x46acfc(0x1d9)]['id']),{'body':_0x5a43d7}),await _0x36a53[_0x46acfc(0x1d0)][_0x46acfc(0x1d7)](Routes['applicatio'+_0x46acfc(0x1c9)](_0x36a53[_0x46acfc(0x1bc)]['id']),{'body':_0x531dbf}),_0x36a53[_0x46acfc(0x1d5)]=[new EmbedBuilder()['setColor'](_0x36a53[_0x46acfc(0x1e4)]['embed']['color'])[_0x46acfc(0x1c8)+'il'](_0x36a53['config']['embed']['thumbnail'])['setDescrip'+_0x46acfc(0x1c6)](_0x416eb4[_0x46acfc(0x1e3)]('✦\x20Wish\x20you'+_0x46acfc(0x1cb)+_0x46acfc(0x1e7)+_0x46acfc(0x1de)+'\x0a',_0x46acfc(0x1ce)+'ttons\x20belo'+'w\x20for\x20more'+_0x46acfc(0x1d3))+(_0x46acfc(0x1d1)+'ba\x20Saga\x20wi'+_0x46acfc(0x1cc))+'✦\x20'+_0x36a53['user']['username']+_0x416eb4[_0x46acfc(0x1dc)]),new ActionRowBuilder()['addCompone'+_0x46acfc(0x1bd)](new ButtonBuilder({'label':_0x416eb4['WtOcC'],'style':0x5})[_0x46acfc(0x1be)](_0x36a53[_0x46acfc(0x1e4)]['invite'][_0x46acfc(0x1c0)])['setDisable'+'d'](!_0x36a53[_0x46acfc(0x1e4)]['invite'][_0x46acfc(0x1c1)]),new ButtonBuilder({'label':_0x416eb4[_0x46acfc(0x1c2)],'style':0x5})['setURL'](_0x36a53['config'][_0x46acfc(0x1e8)]['url'])['setDisable'+'d'](!_0x36a53['config']['invite']['status']),new ButtonBuilder({'label':_0x416eb4['CXLZY'],'style':0x5})['setURL'](_0x36a53['config']['invite']['guild']))];}catch(_0x1ce942){console['log'](_0x46acfc(0x1d4)+'ady\x20Error\x0a',_0x1ce942);}};
+const { Routes, ActionRowBuilder, ButtonBuilder, EmbedBuilder } = require('discord.js')
+
+module.exports = async (client) => {
+   try {
+      console.log('\x1b[35m%s\x1b[0m', '✔️   ✦ 💖 From Pooba Saga With Luv')
+      console.log('\x1b[35m%s\x1b[0m', '✔️   ✦ 🪐 Logged in as -- ' + client.user.username)
+
+      const { guild, global } = client.config.test.status
+         ? { guild: client.interface.flat(), global: [] }
+         : { guild: client.interface[0], global: client.interface[1] }
+
+      await client.rest.put(Routes.applicationGuildCommands(client.user.id, client.config.guild.id), { body: guild })
+      await client.rest.put(Routes.applicationCommands(client.user.id), { body: global })
+
+      client.greeting = [
+         new EmbedBuilder()
+            .setColor(client.config.embed.color)
+            .setThumbnail(client.config.embed.thumbnail)
+            .setDescription(
+               '✦ Wish you a happy music time, moah moah\n' +
+               '✦ Click buttons below for more info\n' +
+               '✦ From Pooba Saga with luv\n' +
+               '✦ ' + client.user.username +' :3'
+            ),
+
+         new ActionRowBuilder().addComponents(
+            new ButtonBuilder({ label: 'Vote For Me', style: 5 }).setURL(client.config.invite.vote).setDisabled(!client.config.invite.status),
+            new ButtonBuilder({ label: 'Invite Me', style: 5 }).setURL(client.config.invite.url).setDisabled(!client.config.invite.status),
+            new ButtonBuilder({ label: 'Join Server', style: 5 }).setURL(client.config.invite.guild)
+         ),
+      ]
+   } catch (error) {
+      console.log('❌   ✦ 🍉 Ready Error\n', error)
+   }
+}

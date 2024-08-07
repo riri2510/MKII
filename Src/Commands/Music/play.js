@@ -1,1 +1,52 @@
-const _0x5abc1f=_0x3322;(function(_0x58ca56,_0x45bee6){const _0x5f5aad=_0x3322,_0x305fde=_0x58ca56();while(!![]){try{const _0x3b5f3=-parseInt(_0x5f5aad(0x1c5))/(-0x2604+-0x1*0x209+-0xd5a*-0x3)*(parseInt(_0x5f5aad(0x1ac))/(0x43f+-0x8a5*-0x3+-0x78b*0x4))+-parseInt(_0x5f5aad(0x1aa))/(0x8*0x23e+-0x859*0x1+0x4ca*-0x2)+-parseInt(_0x5f5aad(0x1b6))/(-0x2599+0x269*0xf+0x176)*(parseInt(_0x5f5aad(0x1c3))/(-0x2*0x353+-0xdf8+0x14a3))+parseInt(_0x5f5aad(0x1a9))/(0x3*-0x556+-0x204b+-0x8b*-0x59)*(-parseInt(_0x5f5aad(0x1ae))/(0x15*-0x1a5+-0x4c0+-0x13a8*-0x2))+-parseInt(_0x5f5aad(0x1ba))/(-0xf31+0x450+0xae9)+parseInt(_0x5f5aad(0x1b5))/(0x1ca+-0x45b+-0x2*-0x14d)*(-parseInt(_0x5f5aad(0x1cb))/(0x1*-0x21fb+0x4*-0x959+0xb5*0x65))+parseInt(_0x5f5aad(0x1ab))/(0xcb*-0x13+0x15*0xc9+-0x161*0x1);if(_0x3b5f3===_0x45bee6)break;else _0x305fde['push'](_0x305fde['shift']());}catch(_0x13f14f){_0x305fde['push'](_0x305fde['shift']());}}}(_0x165e,-0x6c35d+-0x1*-0x26776+0x7c023));function _0x3322(_0x575d84,_0x5b4ba9){const _0x4d9ef7=_0x165e();return _0x3322=function(_0x212d37,_0x249c1a){_0x212d37=_0x212d37-(0x195b+0x37*-0xa9+0xc9c);let _0x4345fe=_0x4d9ef7[_0x212d37];return _0x4345fe;},_0x3322(_0x575d84,_0x5b4ba9);}const {ApplicationCommandOptionType,EmbedBuilder}=require(_0x5abc1f(0x1b7)),{playMusic,deleteMessage}=require(_0x5abc1f(0x1b0)+_0x5abc1f(0x1b3));module['exports']={'data':{'name':'play','description':_0x5abc1f(0x1c2)+_0x5abc1f(0x1b9)+_0x5abc1f(0x1b4)+'s','options':[{'name':'name','description':_0x5abc1f(0x1bc)+'\x20name\x20or\x20a'+'ny\x20YouTube'+_0x5abc1f(0x1b1)+_0x5abc1f(0x1cc)+_0x5abc1f(0x1c0)+':3','type':ApplicationCommandOptionType['String'],'required':!![]},{'name':'position','description':_0x5abc1f(0x1c4)+_0x5abc1f(0x1af)+_0x5abc1f(0x1be)+'ed','type':ApplicationCommandOptionType[_0x5abc1f(0x1bd)],'required':![],'autocomplete':!![]}]},'voiceChannel':!![],'suggest':async _0x2f8a6a=>{const _0x55edfe=_0x5abc1f;try{const _0xbd2d22=_0x2f8a6a['options']['getFocused'](),_0x4f66a3=[0x1fb1+-0xfe9*0x1+-0xfc7,-0x211e+-0x1d*0xb6+0x35ee,-0x43*0x7c+0x1b53+0x9*0x9d],_0x3f19bb=_0x4f66a3['filter'](_0x1e9f2f=>_0x1e9f2f>=_0xbd2d22),_0x3a436a=_0x3f19bb[_0x55edfe(0x1bf)](_0x1729d8=>({'name':_0x1729d8[_0x55edfe(0x1c8)](),'value':_0x1729d8}));await _0x2f8a6a['respond'](_0x3a436a);}catch{}},'run':async _0x7d59b8=>{const _0x5be210=_0x5abc1f,_0x593266={'ViuWq':_0x5be210(0x1bb),'lncOj':'✦\x20Not\x20foun'+'d'};await _0x7d59b8['deferReply']();const _0x373709=new EmbedBuilder()['setColor'](_0x7d59b8[_0x5be210(0x1ad)][_0x5be210(0x1c6)]['embed'][_0x5be210(0x1a8)]),_0x46b311=_0x7d59b8['options'][_0x5be210(0x1ca)]('name'),_0x4ef92e=_0x7d59b8['options'][_0x5be210(0x1c1)]('position'),_0x5edb81=await _0x7d59b8['editReply']({'embeds':[_0x373709['setDescrip'+'tion'](_0x593266[_0x5be210(0x1b8)])]});try{await playMusic(_0x7d59b8,_0x46b311,_0x4ef92e),deleteMessage(_0x5edb81,0xf9*0x15+-0x504+-0x3b1);}catch(_0x4d471a){await _0x7d59b8[_0x5be210(0x1b2)]({'embeds':[_0x373709['setDescrip'+_0x5be210(0x1c7)](_0x593266['lncOj'])]}),deleteMessage(_0x5edb81,0xe9*-0x27+-0x1695+0x2*0x26ce),console[_0x5be210(0x1c9)]('❌\x20\x20✦\x20Play\x20'+'Error\x0a',_0x4d471a);}}};function _0x165e(){const _0xe48193=['231065bVieRK','Position\x20o','803flyFfL','config','tion','toString','log','getString','143910mzXHIY','\x20or\x20SoundC','color','122316qALyWZ','634833ykBrQc','14029774gzslrZ','492AvUcbd','client','140vELMBo','f\x20the\x20song','../../Func',',\x20Spotify,','editReply','tions','ous\x20source','9QaTSNT','8BCKrPd','discord.js','ViuWq','\x20from\x20vari','1035840rdgDjk','✦\x20Meowing','Type\x20music','Integer','\x20to\x20be\x20add','map','loud\x20link\x20','getInteger','Play\x20music'];_0x165e=function(){return _0xe48193;};return _0x165e();}
+const { ApplicationCommandOptionType, EmbedBuilder } = require('discord.js')
+const { playMusic, deleteMessage } = require('../../Functions')
+
+module.exports = {
+   data: {
+      name: 'play',
+      description: 'Play music from various sources',
+      options: [
+         {
+            name: 'name',
+            description: 'Type music name or any YouTube, Spotify, or SoundCloud link :3',
+            type: ApplicationCommandOptionType.String,
+            required: true,
+         },
+         {
+            name: 'position',
+            description: 'Position of the song to be added',
+            type: ApplicationCommandOptionType.Integer,
+            required: false,
+            autocomplete: true,
+         },
+      ],
+   },
+   voiceChannel: true,
+
+   suggest: async (interaction) => {
+      try {
+         const query = interaction.options.getFocused()
+         const choices = [1, 50, 100]
+         const filtered = choices.filter((choice) => choice >= query)
+         const response = filtered.map((choice) => ({ name: choice.toString(), value: choice }))
+         await interaction.respond(response)
+      } catch {}
+   },
+
+   run: async (interaction) => {
+      await interaction.deferReply()
+      const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+      const name = interaction.options.getString('name')
+      const position = interaction.options.getInteger('position')
+      const message = await interaction.editReply({ embeds: [embed.setDescription('✦ Meowing')] })
+
+      try {
+         await playMusic(interaction, name, position)
+         deleteMessage(message, 3000)
+      } catch (error) {
+         await interaction.editReply({ embeds: [embed.setDescription('✦ Not found')] })
+         deleteMessage(message, 5000)
+         console.log('❌  ✦ Play Error\n', error)
+      }
+   },
+}

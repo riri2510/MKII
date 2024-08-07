@@ -1,1 +1,69 @@
-const _0x515871=_0x410c;(function(_0x47a097,_0x200d13){const _0x58bafc=_0x410c,_0x5bdf61=_0x47a097();while(!![]){try{const _0xafe698=-parseInt(_0x58bafc(0x78))/(-0x89f+-0x1*-0x25f1+0x1d51*-0x1)+parseInt(_0x58bafc(0x72))/(-0x6c1+0x195f+0x6*-0x31a)*(parseInt(_0x58bafc(0x86))/(0x29*0xa6+-0x35*0xa1+0x6c2))+parseInt(_0x58bafc(0x84))/(0x11fb*0x2+-0x2696+0xa9*0x4)*(-parseInt(_0x58bafc(0x7a))/(-0x4*-0x3c5+0x1625+-0x2534))+parseInt(_0x58bafc(0x77))/(-0x1dc4+0x2259*0x1+-0x3*0x185)*(-parseInt(_0x58bafc(0x73))/(0x9d*0x8+-0x2478+0x1f97))+parseInt(_0x58bafc(0x7e))/(-0x1*-0x2c4+-0x1349+0x1*0x108d)+-parseInt(_0x58bafc(0x74))/(0x1991+-0xb95*-0x3+-0x3c47)*(parseInt(_0x58bafc(0x7b))/(-0xc05+0x18d*-0x11+-0x2*-0x1336))+parseInt(_0x58bafc(0x75))/(0x23b4+0x652*-0x2+-0x53*0x47);if(_0xafe698===_0x200d13)break;else _0x5bdf61['push'](_0x5bdf61['shift']());}catch(_0x3c2348){_0x5bdf61['push'](_0x5bdf61['shift']());}}}(_0x24ff,-0x137*0xfb+-0xb335+-0x184c*-0x4f));const {generateQueuePage,queueActionRow}=require(_0x515871(0x83)+'ns');module[_0x515871(0x70)]={'name':'playerQueu'+'e','run':async(_0x4830b8,_0x471406)=>{const _0x95ee4=_0x515871,_0x496230={'OtGIm':_0x95ee4(0x7d),'DTjuE':function(_0x45f4ae,_0x27bf3d){return _0x45f4ae*_0x27bf3d;},'arzZs':'end'};try{if(_0x471406[_0x95ee4(0x87)]['length']>0x36*-0x53+-0x2*-0x19+0xd*0x155){const _0x5c3b0a=_0x471406['songs'][_0x95ee4(0x71)](_0x18b420=>({'name':_0x18b420[_0x95ee4(0x88)],'url':_0x18b420['url'],'duration':_0x18b420[_0x95ee4(0x8c)],'isLive':_0x18b420[_0x95ee4(0x81)]})),_0x58d04d=0xf*0x7f+-0x4eb*-0x6+0xb*-0x35b,_0xb0a5ba=Math['ceil'](_0x5c3b0a[_0x95ee4(0x7f)]/_0x58d04d);let _0x5b1284=0x79f+0x184e+-0x1fec;const _0x5ecd20=await _0x471406['textChanne'+'l']['send']({'embeds':[generateQueuePage(_0x4830b8['client'],_0x471406,-0x21c2+0x7e*-0xc+0x27aa,_0x5b1284,_0xb0a5ba,_0x58d04d,_0x5c3b0a)],'components':[queueActionRow(_0x5b1284,_0xb0a5ba)]}),_0x146141=_0x5ecd20['createMess'+'ageCompone'+'ntCollecto'+'r']({'time':0xea60});_0x146141['on']('collect',async _0x5610c5=>{const _0x4d14c0=_0x95ee4;await _0x5610c5['deferUpdat'+'e']()['catch'](()=>{});switch(_0x5610c5['customId']){case'queueClose':await _0x5ecd20[_0x4d14c0(0x6d)]()['catch'](()=>{}),_0x146141['stop']();return;case _0x4d14c0(0x6e):_0x5b1284=-0x5*0x7a+0x542*0x1+0x23*-0x15;break;case _0x496230['OtGIm']:_0x5b1284--;break;case _0x4d14c0(0x8a):_0x5b1284++;break;case'queueLast':_0x5b1284=_0xb0a5ba;break;}await _0x5ecd20[_0x4d14c0(0x89)]({'embeds':[generateQueuePage(_0x4830b8[_0x4d14c0(0x8b)],_0x471406,_0x496230[_0x4d14c0(0x7c)](_0x5b1284-(-0x26*-0xf1+-0x2583+-0x1be*-0x1),_0x58d04d),_0x5b1284,_0xb0a5ba,_0x58d04d,_0x5c3b0a)],'components':[queueActionRow(_0x5b1284,_0xb0a5ba)]})['catch'](()=>{});}),_0x146141['on'](_0x496230[_0x95ee4(0x82)],async()=>{const _0x5ebbf1=_0x95ee4;await _0x5ecd20[_0x5ebbf1(0x89)]({'components':[]})['catch'](()=>{});}),_0x471406['playerEmbe'+'d'][_0x95ee4(0x76)]({'text':'🪐\x20Queue\x20Re'+'vealed\x20by\x20'+_0x4830b8[_0x95ee4(0x6f)][_0x95ee4(0x80)],'iconURL':_0x4830b8['user'][_0x95ee4(0x8d)]()});}else _0x471406['playerEmbe'+'d']['setFooter']({'text':'🪐\x20Queue\x20Em'+'pty','iconURL':_0x4830b8[_0x95ee4(0x6f)]['avatarURL']()});}catch(_0x425afd){console[_0x95ee4(0x8e)](_0x95ee4(0x85)+_0x95ee4(0x79),_0x425afd);}}};function _0x410c(_0x2b06c1,_0x19e1df){const _0x189b76=_0x24ff();return _0x410c=function(_0x3f6353,_0x340c22){_0x3f6353=_0x3f6353-(-0xed6+0x1*0x1fe6+0x10a3*-0x1);let _0x45149c=_0x189b76[_0x3f6353];return _0x45149c;},_0x410c(_0x2b06c1,_0x19e1df);}function _0x24ff(){const _0x2d96d5=['map','8570edvLIT','4099802qHWzvV','1071EPSHTQ','5438774mZjvEL','setFooter','6UgjeDq','175665fTcuEL','e\x20Error\x0a','971605FQajXr','23170ilsFNy','DTjuE','queueBack','3453264eApThk','length','globalName','isLive','arzZs','../Functio','4NsFSsa','❌\x20\x20\x20✦\x20Queu','471qwIVeC','songs','name','edit','queueNext','client','duration','avatarURL','log','delete','queueFirst','user','exports'];_0x24ff=function(){return _0x2d96d5;};return _0x24ff();}
+const { generateQueuePage, queueActionRow } = require('../Functions')
+
+module.exports = {
+   name: 'playerQueue',
+   run: async (interaction, queue) => {
+      try {
+         if (queue.songs.length > 1) {
+            const songList = queue.songs.map((song) => ({
+               name: song.name,
+               url: song.url,
+               duration: song.duration,
+               isLive: song.isLive,
+            }))
+            const pageLength = 10
+            const total = Math.ceil(songList.length / pageLength)
+            let page = 1
+
+            const queueMessage = await queue.textChannel.send({
+               embeds: [generateQueuePage(interaction.client, queue, 0, page, total, pageLength, songList)],
+               components: [queueActionRow(page, total)],
+            })
+
+            const collector = queueMessage.createMessageComponentCollector({ time: 60000 })
+            collector.on('collect', async (button) => {
+               await button.deferUpdate().catch(() => {})
+
+               switch (button.customId) {
+                  case 'queueClose':
+                     await queueMessage.delete().catch(() => {})
+                     collector.stop()
+                     return
+                  case 'queueFirst':
+                     page = 1
+                     break
+                  case 'queueBack':
+                     page--
+                     break
+                  case 'queueNext':
+                     page++
+                     break
+                  case 'queueLast':
+                     page = total
+                     break
+               }
+
+               await queueMessage
+                  .edit({
+                     embeds: [generateQueuePage(interaction.client, queue, (page - 1) * pageLength, page, total, pageLength, songList)],
+                     components: [queueActionRow(page, total)],
+                  })
+                  .catch(() => {})
+            })
+
+            collector.on('end', async () => {
+               await queueMessage.edit({ components: [] }).catch(() => {})
+            })
+
+            queue.playerEmbed.setFooter({
+               text: `🪐 Queue Revealed by ${interaction.user.globalName}`,
+               iconURL: interaction.user.avatarURL(),
+            })
+         } else {
+            queue.playerEmbed.setFooter({ text: `🪐 Queue Empty`, iconURL: interaction.user.avatarURL() })
+         }
+      } catch (error) {
+         console.log('❌   ✦ Queue Error\n', error)
+      }
+   }
+}

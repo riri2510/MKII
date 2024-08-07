@@ -1,1 +1,70 @@
-const _0x1edfea=_0x4fb3;(function(_0xee45af,_0x2ed522){const _0x1fb783=_0x4fb3,_0x327796=_0xee45af();while(!![]){try{const _0x502076=-parseInt(_0x1fb783(0x16e))/(-0x2*0x11b7+0x512+0x1e5d*0x1)+parseInt(_0x1fb783(0x17c))/(-0x44+0x3*-0xed+0x30d)+parseInt(_0x1fb783(0x166))/(-0x13bc+0x5*-0x450+-0x843*-0x5)*(-parseInt(_0x1fb783(0x194))/(0x1581+0x3*-0x6c9+-0x122))+parseInt(_0x1fb783(0x18c))/(-0x5ec*0x3+-0x2*-0x12d7+-0x13e5)+-parseInt(_0x1fb783(0x18a))/(0x1693+0x4b*0x7b+-0x3a96)+parseInt(_0x1fb783(0x16b))/(-0xdf2+-0xd*-0x29b+-0x13e6)+parseInt(_0x1fb783(0x169))/(-0x1e02*-0x1+0x1e73*0x1+0x1f3*-0x1f);if(_0x502076===_0x2ed522)break;else _0x327796['push'](_0x327796['shift']());}catch(_0xf3f034){_0x327796['push'](_0x327796['shift']());}}}(_0x45a3,-0x48078+0x1fdf2*0x4+0x21c52));function _0x4fb3(_0x5cb169,_0x245f68){const _0x27e9f2=_0x45a3();return _0x4fb3=function(_0x5d3244,_0x145cd1){_0x5d3244=_0x5d3244-(0x1697*0x1+0x135d+0x1*-0x288e);let _0x1b9c0b=_0x27e9f2[_0x5d3244];return _0x1b9c0b;},_0x4fb3(_0x5cb169,_0x245f68);}const {ApplicationCommandOptionType,EmbedBuilder}=require(_0x1edfea(0x16d)),{deleteMessage,strict,isOwner,isAdmin,sendErrorEmbed}=require('../../Func'+_0x1edfea(0x173));function _0x45a3(){const _0xa8e4fc=['tions','setDescrip','message','channel','getString','send','value','6849751149','🥪・liltuan','570894boVQZx','with\x20the\x20p','1259958972','config','Message\x20Er','cache','JduCu','757049486','respond','7532751890','Sent\x20messa','options','ggest\x20Erro','client','1907808PiMtJx','218779207','376840zMRtCG','String','map','name','❌\x20\x20✦\x20Send\x20','ror','1259547237','🥪・ryo.o','718628SkOMCD','3tciRZe','sage\x20to\x20a\x20','Message\x20Su','8262672imUzzX','editReply','209762EiUBsG','log','discord.js','560516MdeZDG','84553276','setColor','23933781','TfLcx'];_0x45a3=function(){return _0xa8e4fc;};return _0x45a3();}module['exports']={'data':{'name':'send','description':'Send\x20a\x20mes'+_0x1edfea(0x167)+'channel','options':[{'name':'channel','description':'Specify\x20th'+'e\x20channel\x20'+'ID','type':ApplicationCommandOptionType[_0x1edfea(0x18d)],'required':!![],'autocomplete':!![]},{'name':_0x1edfea(0x175),'description':'Message\x20co'+'ntent','type':ApplicationCommandOptionType[_0x1edfea(0x18d)],'required':!![]}]},'suggest':async _0x182370=>{const _0x35be57=_0x1edfea,_0x4f0110={'TfLcx':_0x35be57(0x185)+_0x35be57(0x16f)};try{if(!isOwner(_0x182370)&&!isAdmin(_0x182370))return await _0x182370[_0x35be57(0x184)]({'name':'I\x27m\x20sleepi'+'ng','value':'\x20'});const _0x38951a=_0x182370[_0x35be57(0x187)]['getFocused'](),_0x41588f=[{'name':'🌱・chat','value':_0x35be57(0x17a)+_0x35be57(0x171)},{'name':'🧩・commands','value':_0x4f0110[_0x35be57(0x172)]},{'name':_0x35be57(0x193),'value':_0x35be57(0x17e)+_0x35be57(0x183)},{'name':_0x35be57(0x17b),'value':_0x35be57(0x192)+_0x35be57(0x18b)}],_0x29c5dd=_0x41588f['filter'](_0x44c865=>_0x44c865[_0x35be57(0x18f)]['includes'](_0x38951a)),_0x92dae6=_0x29c5dd[_0x35be57(0x18e)](_0x3567de=>({'name':_0x3567de[_0x35be57(0x18f)],'value':_0x3567de[_0x35be57(0x179)]}));await _0x182370['respond'](_0x92dae6);}catch(_0x5b3420){console[_0x35be57(0x16c)](_0x35be57(0x190)+_0x35be57(0x168)+_0x35be57(0x188)+'r',_0x5b3420);}},'run':async _0x1897fc=>{const _0x426137=_0x1edfea,_0x2fc45d={'ynrom':function(_0x2b16de,_0x1e9ac4){return _0x2b16de(_0x1e9ac4);},'JduCu':_0x426137(0x176),'mVofc':'message'};await _0x1897fc['deferReply']();const _0x2f5dbf=new EmbedBuilder()[_0x426137(0x170)](_0x1897fc['client'][_0x426137(0x17f)]['embed']['color']);try{if(!isOwner(_0x1897fc)&&!_0x2fc45d['ynrom'](isAdmin,_0x1897fc))return _0x2fc45d['ynrom'](strict,_0x1897fc);const _0x73c666=_0x1897fc['options'][_0x426137(0x177)](_0x2fc45d[_0x426137(0x182)]),_0x2af729=_0x1897fc['options']['getString'](_0x2fc45d['mVofc']),_0x2e5dc1=_0x1897fc[_0x426137(0x189)]['channels'][_0x426137(0x181)]['get'](_0x73c666);if(!_0x2e5dc1)return _0x2f5dbf[_0x426137(0x174)+'tion']('There\x20is\x20n'+'o\x20channel\x20'+_0x426137(0x17d)+'rovided\x20ID'),deleteMessage(await _0x1897fc[_0x426137(0x16a)]({'embeds':[_0x2f5dbf]}),-0x5*-0x4f8+0x1805+0x1*-0x1d55);await _0x2e5dc1[_0x426137(0x178)](_0x2af729),_0x2f5dbf['setDescrip'+'tion'](_0x426137(0x186)+'ge\x20to\x20<#'+_0x2e5dc1['id']+'>:\x20'+_0x2af729),deleteMessage(await _0x1897fc['editReply']({'embeds':[_0x2f5dbf]}),-0x4af7+0x487*0x18+0x7*0x659);}catch(_0x237849){sendErrorEmbed(_0x1897fc,_0x2f5dbf),console[_0x426137(0x16c)](_0x426137(0x190)+_0x426137(0x180)+_0x426137(0x191),_0x237849);}}};
+const { ApplicationCommandOptionType, EmbedBuilder } = require('discord.js')
+const { deleteMessage, strict, isOwner, isAdmin, sendErrorEmbed } = require('../../Functions')
+
+module.exports = {
+   data: {
+      name: 'send',
+      description: 'Send a message to a channel',
+      options: [
+         {
+            name: 'channel',
+            description: 'Specify the channel ID',
+            type: ApplicationCommandOptionType.String,
+            required: true,
+            autocomplete: true,
+         },
+         {
+            name: 'message',
+            description: 'Message content',
+            type: ApplicationCommandOptionType.String,
+            required: true,
+         },
+      ],
+   },
+
+   suggest: async (interaction) => {
+      try {
+         if (!isOwner(interaction) && !isAdmin(interaction)) return await interaction.respond({ name: `I'm sleeping`, value: ' ' })
+
+         const query = interaction.options.getFocused()
+         const choices = [
+            { name: '🌱・chat', value: '684975114923933781' },
+            { name: '🧩・commands', value: '753275189084553276' },
+            { name: '🥪・ryo.o', value: '1259958972757049486' },
+            { name: '🥪・liltuan', value: '1259547237218779207' },
+         ]
+
+         const filtered = choices.filter((choice) => choice.name.includes(query))
+         const response = filtered.map((choice) => ({ name: choice.name, value: choice.value }))
+
+         await interaction.respond(response)
+      } catch (error) {
+         console.log('❌  ✦ Send Message Suggest Error', error)
+      }
+   },
+
+   run: async (interaction) => {
+      await interaction.deferReply()
+      const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+
+      try {
+         if (!isOwner(interaction) && !isAdmin(interaction)) return strict(interaction)
+         const channelID = interaction.options.getString('channel')
+         const messageContent = interaction.options.getString('message')
+
+         const channel = interaction.client.channels.cache.get(channelID)
+         if (!channel) {
+            embed.setDescription(`There is no channel with the provided ID`)
+            return deleteMessage(await interaction.editReply({ embeds: [embed] }), 5000)
+         }
+
+         await channel.send(messageContent)
+
+         embed.setDescription(`Sent message to <#${channel.id}>: ${messageContent}`)
+         deleteMessage(await interaction.editReply({ embeds: [embed] }), 20000)
+      } catch (error) {
+         sendErrorEmbed(interaction, embed)
+         console.log('❌  ✦ Send Message Error', error)
+      }
+   },
+}

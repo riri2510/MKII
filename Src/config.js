@@ -1,1 +1,84 @@
-function _0x23b2(_0x14e00d,_0x2f5cc7){const _0x25b3f0=_0x7b7b();return _0x23b2=function(_0x40e439,_0xaf4085){_0x40e439=_0x40e439-(0x46a+-0x19ab+0x799*0x3);let _0x168b40=_0x25b3f0[_0x40e439];return _0x168b40;},_0x23b2(_0x14e00d,_0x2f5cc7);}const _0x4bb6db=_0x23b2;(function(_0x5b2bd6,_0x294e51){const _0x841b18=_0x23b2,_0x4cf366=_0x5b2bd6();while(!![]){try{const _0x475afb=-parseInt(_0x841b18(0x1c4))/(0xa6f*0x1+0x1746+-0x21b4)*(parseInt(_0x841b18(0x1d6))/(-0x191+0x6f6+-0x563))+-parseInt(_0x841b18(0x1b1))/(0x2e*-0x9f+0x16e1*0x1+-0x49*-0x14)*(-parseInt(_0x841b18(0x1f5))/(0x85a+-0x361*-0x5+-0x193b*0x1))+-parseInt(_0x841b18(0x1e6))/(0x1d17+-0x2322+0x610)+-parseInt(_0x841b18(0x1e8))/(0x2019+-0x23*-0xb1+-0x3846)+-parseInt(_0x841b18(0x1bd))/(0x36f+0x257f+-0x28e7)*(parseInt(_0x841b18(0x190))/(0x1425+-0x1*-0x14a1+-0x28be))+-parseInt(_0x841b18(0x1ab))/(0x863*0x3+-0x3d*0x47+-0xb*0xbf)+parseInt(_0x841b18(0x1db))/(0x145+-0x1896*0x1+-0x1*-0x175b);if(_0x475afb===_0x294e51)break;else _0x4cf366['push'](_0x4cf366['shift']());}catch(_0x25fa19){_0x4cf366['push'](_0x4cf366['shift']());}}}(_0x7b7b,0xf3409+0x36*-0x3705+0xa1a4e));function _0x7b7b(){const _0xa2924f=['n.discorda','1268652273','ent_id=123','2562400071','✦\x20─────\x20──','@distube/s','name','557932IUpJex','dotenv','state','71755586f5','role','60190130YFmMto','66800c2d&i','8a27aab7d9','=669fd64f&','1268562654','519159422','2489963865','59789086','373b433b6a','───\x20─────\x20','?ex=6665b2','2480665sgRTDj','74311c9&','10100934ihBDoB','ca6dd16fd5','NA.gif?ex=','297239562','s=667ebaad','9b5e9d7da2','1268577653','07565a5636','92594147f2','f5e204b6be','\x20𝗦\x20𝗨\x20𝗟\x20𝗧\x20𝗦','2653406460','ikogif.gif','230612OcrKBy','32233248/m','30651649','\x20────\x20────','78602d117c','oxy-roxy-g','───\x20──────','horize?cli','@distube/y','https://di','\x20𝗜\x20𝗢\x20𝗡\x20💖\x20✦','\x20𝗜\x20𝗩\x20𝗘\x20🪐\x20✦','6778572715','─\x20✦\x20\x20𝗟\x20𝗜\x20𝗩','249272xRhklc','1268562668','potify','achments/1','1268644355','a8cba6d04c','scord.gg/f','1268577854','2653406465','fb410abfb0','d60872b010','7532844549','pp.com/att','357292113','389469244','✦\x20────\x20───','a0f33a7d4b','tt.png?ex=','2efd972329','=669fd64e&','1268644302','40224010/r','652940360','ia-mushoku','TuGFk9ayG','env','6a127cf&is','14228937BJJJro','oxy-migurd','72e213bfe8','27014d822e','2367090523','1268640178','39gHmuRc','───\x20✦\x20\x20𝗣\x20𝗟','a34b1a46f0','oauth2/aut','a0b29708&','autoJoin','fc1ae&hm=1','\x20🥝\x20✦\x20─────','6778581091','ote','2B2D31','\x20𝗟\x20𝗧\x20𝗘\x20𝗥\x20𝗦','98TdSass','\x20𝗘\x20🪐\x20✦\x20───','52337589','p.gg/bot/1','type','token','e3e8927d29','6QYHwlQ','color','\x20🌸\x20✦\x20─────','https://to','2653184978','067167303','thumbnail','19277322/1','─\x20────\x20✦','1268651393','2366341930'];_0x7b7b=function(){return _0xa2924f;};return _0x7b7b();}const {SoundCloudPlugin}=require('@distube/s'+'oundcloud'),{SpotifyPlugin}=require(_0x4bb6db(0x1d4)+_0x4bb6db(0x192)),{YouTubePlugin}=require(_0x4bb6db(0x18a)+'outube'),cookies=require('./cookies');require(_0x4bb6db(0x1d7))['config'](),module['exports']={'token':process['env'][_0x4bb6db(0x1c2)],'key':'','autoJoin':Boolean(process['env'][_0x4bb6db(0x1b6)]),'plugins':{'plugins':[new YouTubePlugin(cookies),new SpotifyPlugin(),new SoundCloudPlugin()]},'guild':{'id':_0x4bb6db(0x1b9)+'45874433'},'owner':{'id':_0x4bb6db(0x18e)+_0x4bb6db(0x1f7)},'admin':{'id':process['env']['admin']||'8735586273'+_0x4bb6db(0x1e2)},'users':{'roles':[process[_0x4bb6db(0x1a9)][_0x4bb6db(0x1da)]||_0x4bb6db(0x19b)+_0x4bb6db(0x1bf)]},'embed':{'color':process[_0x4bb6db(0x1a9)][_0x4bb6db(0x1c5)]||_0x4bb6db(0x1bb),'thumbnail':process['env'][_0x4bb6db(0x1ca)]||'https://cd'+_0x4bb6db(0x1cf)+'pp.com/att'+_0x4bb6db(0x193)+_0x4bb6db(0x1ce)+'19277322/1'+_0x4bb6db(0x1e1)+_0x4bb6db(0x1f6)+_0x4bb6db(0x1f4)+_0x4bb6db(0x1e5)+'07&is=6664'+'6087&hm=e3'+_0x4bb6db(0x1e3)+'9ca9b81459'+'2f175c4ebf'+'d82c6e10d6'+'3348289675'+_0x4bb6db(0x195)+'2c&','image':'https://cd'+'n.discorda'+'pp.com/att'+'achments/1'+_0x4bb6db(0x1ce)+_0x4bb6db(0x1cb)+_0x4bb6db(0x1d2)+'69970258/N'+'OW_WITH_MO'+_0x4bb6db(0x1ea)+_0x4bb6db(0x1dc)+_0x4bb6db(0x1ec)+'&hm=99aa0b'+'d08020875f'+_0x4bb6db(0x1f1)+'7de9a2bdfd'+_0x4bb6db(0x1b3)+'85cbcf1649'+_0x4bb6db(0x1b5),'imageRoxy':{'high':'https://cd'+_0x4bb6db(0x1cf)+'pp.com/att'+'achments/1'+_0x4bb6db(0x1ce)+'19277322/1'+_0x4bb6db(0x1c8)+'57044620/r'+_0x4bb6db(0x1ac)+_0x4bb6db(0x1a7)+'-tensei.gi'+'f?ex=66a11'+'32e&is=669'+_0x4bb6db(0x1b7)+_0x4bb6db(0x1f9)+_0x4bb6db(0x1ef)+_0x4bb6db(0x1c3)+_0x4bb6db(0x1d9)+_0x4bb6db(0x1ad)+_0x4bb6db(0x1f0)+'17e&','dance':'https://cd'+'n.discorda'+_0x4bb6db(0x19c)+'achments/1'+_0x4bb6db(0x1ce)+_0x4bb6db(0x1cb)+'2653191067'+_0x4bb6db(0x1a5)+_0x4bb6db(0x1fa)+'reyrat.gif'+'?ex=66a113'+'bf&is=669f'+'c23f&hm=1c'+'bfa8aa50f0'+_0x4bb6db(0x1ed)+_0x4bb6db(0x1a0)+_0x4bb6db(0x19a)+_0x4bb6db(0x199)+'00348f6ec6'+'cd&'},'author':{'youtubes':'─────\x20✦\x20\x20𝗟'+_0x4bb6db(0x18d)+'\x20─────','youtubel':_0x4bb6db(0x19f)+_0x4bb6db(0x18f)+_0x4bb6db(0x1be)+'─\x20────\x20✦','spotify':_0x4bb6db(0x19f)+'─\x20✦\x20\x20𝗟\x20𝗜\x20𝗩'+_0x4bb6db(0x1be)+'─\x20────\x20✦','soundcloud':_0x4bb6db(0x19f)+'─\x20✦\x20\x20𝗟\x20𝗜\x20𝗩'+_0x4bb6db(0x1be)+_0x4bb6db(0x1cc),'queue':_0x4bb6db(0x1d3)+_0x4bb6db(0x1b2)+'\x20𝗔\x20𝗬\x20\x20𝗟\x20𝗜\x20'+'𝗦\x20𝗧\x20❤️‍🔥\x20✦\x20──'+_0x4bb6db(0x1e4)+'✦','filter':'✦\x20─────\x20──'+'───\x20✦\x20\x20𝗙\x20𝗜'+_0x4bb6db(0x1bc)+_0x4bb6db(0x1b8)+'\x20─────\x20✦','search':'✦\x20─────\x20──'+'───\x20✦\x20\x20𝗥\x20𝗘'+_0x4bb6db(0x1f2)+_0x4bb6db(0x1c6)+'\x20─────\x20✦','grab':'✦\x20────\x20───'+'─\x20✦\x20\x20𝗜\x20𝗡\x20𝗙'+'\x20𝗢\x20𝗥\x20𝗠\x20𝗔\x20𝗧'+_0x4bb6db(0x18c)+_0x4bb6db(0x1f8)+'\x20✦','help':_0x4bb6db(0x1d3)+'────\x20─────'+'─\x20✦\x20\x20𝗛\x20𝗘\x20𝗟'+'\x20𝗣\x20🌕\x20✦\x20───'+_0x4bb6db(0x1fb)+'\x20─────\x20✦'},'icons':{'youtube':'https://cd'+'n.discorda'+_0x4bb6db(0x19c)+_0x4bb6db(0x193)+_0x4bb6db(0x1ce)+'19277322/1'+'2653406462'+'86163999/y'+_0x4bb6db(0x1a1)+'66a127ce&i'+'s=669fd64e'+'&hm=635cfc'+'f631da2611'+'485e90f653'+_0x4bb6db(0x1dd)+'45f509dff5'+_0x4bb6db(0x1ae)+'8782e178&','spotify':'https://cd'+_0x4bb6db(0x1cf)+'pp.com/att'+'achments/1'+_0x4bb6db(0x1ce)+_0x4bb6db(0x1cb)+_0x4bb6db(0x1f3)+'59937935/s'+'p.png?ex=6'+'6a127ce&is'+_0x4bb6db(0x1a3)+'hm=e79be78'+_0x4bb6db(0x1a2)+'c9bcfab23a'+'e0868fb2fd'+'e9f685a58e'+'c8fc943a86'+_0x4bb6db(0x1e7),'soundcloud':'https://cd'+_0x4bb6db(0x1cf)+'pp.com/att'+_0x4bb6db(0x193)+_0x4bb6db(0x1ce)+'19277322/1'+_0x4bb6db(0x198)+'58924913/s'+'c.png?ex=6'+_0x4bb6db(0x1aa)+_0x4bb6db(0x1de)+'hm=71ab291'+'e0ef26098b'+'a1d58243ab'+'d589cf9e04'+_0x4bb6db(0x1e9)+'cf7e933999'+'a1f3548&'}},'buttons':{'shuf':{'id':_0x4bb6db(0x194)+'539992716'},'prev':{'id':_0x4bb6db(0x1df)+_0x4bb6db(0x1c9)},'stop':{'id':'1268643214'+'726795264'},'skip':{'id':_0x4bb6db(0x191)+_0x4bb6db(0x19d)},'loop':{'id':_0x4bb6db(0x1b0)+'105225348'},'queue':{'id':_0x4bb6db(0x1ee)+_0x4bb6db(0x1e0)},'add':{'id':_0x4bb6db(0x1d0)+'765187744'},'pause':{'id':'1268577758'+_0x4bb6db(0x19e)},'resume':{'id':_0x4bb6db(0x1cd)+'401618512'},'grab':{'id':_0x4bb6db(0x1a4)+_0x4bb6db(0x1eb)},'clear':{'id':_0x4bb6db(0x197)+_0x4bb6db(0x1a6)}},'presence':{'status':process['env']['status'],'name':process['env'][_0x4bb6db(0x1d5)]||'','state':process['env'][_0x4bb6db(0x1d8)]||'','type':parseInt(process[_0x4bb6db(0x1a9)][_0x4bb6db(0x1c1)])||-0x1e19+-0x3*0x6de+0x32b3},'invite':{'status':Boolean(process[_0x4bb6db(0x1a9)]['invite']),'vote':_0x4bb6db(0x1c7)+_0x4bb6db(0x1c0)+_0x4bb6db(0x1af)+'31982978/v'+_0x4bb6db(0x1ba),'url':_0x4bb6db(0x18b)+'scord.com/'+_0x4bb6db(0x1b4)+_0x4bb6db(0x1fc)+_0x4bb6db(0x1d1)+'6709052331'+'982978','guild':_0x4bb6db(0x18b)+_0x4bb6db(0x196)+_0x4bb6db(0x1a8)},'player':{'maxVol':0x64},'test':{'status':Boolean(process[_0x4bb6db(0x1a9)]['test'])}};
+const { SoundCloudPlugin } = require('@distube/soundcloud')
+const { SpotifyPlugin } = require('@distube/spotify')
+const { YouTubePlugin } = require('@distube/youtube')
+
+require('dotenv').config()
+
+module.exports = {
+   token: process.env.token,
+   key: process.env.key || '',
+   autoJoin: Boolean(process.env.autoJoin),
+   plugins: { plugins: [new YouTubePlugin(), new SpotifyPlugin(), new SoundCloudPlugin()] },
+
+   guild: { id: '677858109145874433' },
+   owner: { id: '677857271530651649' },
+   admin: { id: process.env.admin || '873558627359789086' },
+   users: { roles: [process.env.role || '753284454952337589'] },
+
+   embed: {
+      color: process.env.color || '2B2D31',
+      thumbnail: process.env.thumbnail || 'https://cdn.discordapp.com/attachments/1236634193019277322/1248996386532233248/mikogif.gif?ex=6665b207&is=66646087&hm=e3373b433b6a9ca9b814592f175c4ebfd82c6e10d63348289675a8cba6d04c2c&',
+      image: 'https://cdn.discordapp.com/attachments/1236634193019277322/1256240007169970258/NOW_WITH_MONA.gif?ex=66800c2d&is=667ebaad&hm=99aa0bd08020875ff5e204b6be7de9a2bdfda34b1a46f085cbcf1649a0b29708&',
+      
+      imageRoxy: {
+         high: 'https://cdn.discordapp.com/attachments/1236634193019277322/1265318497857044620/roxy-migurdia-mushoku-tensei.gif?ex=66a1132e&is=669fc1ae&hm=178602d117c07565a5636e3e8927d2971755586f572e213bfe892594147f217e&',
+         dance: 'https://cdn.discordapp.com/attachments/1236634193019277322/1265319106740224010/roxy-roxy-greyrat.gif?ex=66a113bf&is=669fc23f&hm=1cbfa8aa50f09b5e9d7da2a0f33a7d4bd60872b010fb410abfb000348f6ec6cd&',
+      },
+
+      author: {
+         youtubes:   '───── ✦  𝗟 𝗜 𝗩 𝗘 🪐 ✦ ─────',
+         youtubel:   '✦ ──── ──── ✦  𝗟 𝗜 𝗩 𝗘 🪐 ✦ ──── ──── ✦',
+         spotify:    '✦ ──── ──── ✦  𝗟 𝗜 𝗩 𝗘 🪐 ✦ ──── ──── ✦',
+         soundcloud: '✦ ──── ──── ✦  𝗟 𝗜 𝗩 𝗘 🪐 ✦ ──── ──── ✦',
+
+         queue:   '✦ ───── ───── ✦  𝗣 𝗟 𝗔 𝗬  𝗟 𝗜 𝗦 𝗧 ❤️‍🔥 ✦ ───── ───── ✦',
+         filter:  '✦ ───── ───── ✦  𝗙 𝗜 𝗟 𝗧 𝗘 𝗥 𝗦 🥝 ✦ ───── ───── ✦',
+         search:  '✦ ───── ───── ✦  𝗥 𝗘 𝗦 𝗨 𝗟 𝗧 𝗦 🌸 ✦ ───── ───── ✦',
+         grab:    '✦ ──── ──── ✦  𝗜 𝗡 𝗙 𝗢 𝗥 𝗠 𝗔 𝗧 𝗜 𝗢 𝗡 💖 ✦ ──── ──── ✦',
+         help:    '✦ ───── ────── ────── ✦  𝗛 𝗘 𝗟 𝗣 🌕 ✦ ────── ────── ───── ✦',
+      },
+      icons: {
+         youtube: 'https://cdn.discordapp.com/attachments/1236634193019277322/1265340646286163999/ytt.png?ex=66a127ce&is=669fd64e&hm=635cfcf631da2611485e90f6538a27aab7d945f509dff527014d822e8782e178&',
+         spotify: 'https://cdn.discordapp.com/attachments/1236634193019277322/1265340646059937935/sp.png?ex=66a127ce&is=669fd64e&hm=e79be782efd972329c9bcfab23ae0868fb2fde9f685a58ec8fc943a8674311c9&',
+         soundcloud: 'https://cdn.discordapp.com/attachments/1236634193019277322/1265340646558924913/sc.png?ex=66a127cf&is=669fd64f&hm=71ab291e0ef26098ba1d58243abd589cf9e04ca6dd16fd5cf7e933999a1f3548&',
+      }
+   },
+
+   buttons: {
+      shuf:    { id: '1268644355539992716' },
+      prev:    { id: '1268562654067167303' },
+      stop:    { id: '1268643214726795264' },
+      skip:    { id: '1268562668357292113' },
+      loop:    { id: '1268640178105225348' },
+      
+      queue:   { id: '1268577653519159422' },
+      add:     { id: '1268652273765187744' },
+      pause:   { id: '1268577758389469244' },
+      resume:  { id: '1268651393401618512' },
+      grab:    { id: '1268644302297239562' },
+      clear:   { id: '1268577854652940360' },
+   },
+
+   presence: {
+      status: process.env.status,
+      
+      name: process.env.name || '',
+      state: process.env.state || '',
+      type: parseInt(process.env.type) || 0,
+   },
+
+   invite: {
+      status: Boolean(process.env.invite),
+      vote: 'https://top.gg/bot/1236709052331982978/vote',
+      url: 'https://discord.com/oauth2/authorize?client_id=1236709052331982978',
+      guild: 'https://discord.gg/fTuGFk9ayG',
+   },
+
+   player: {
+      maxVol: 100,
+   },
+
+   test: {
+      status: Boolean(process.env.test),
+   }
+}

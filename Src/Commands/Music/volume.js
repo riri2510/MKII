@@ -1,1 +1,45 @@
-function _0x29db(_0x1ca64c,_0xef80){const _0x11a2cf=_0x1b3e();return _0x29db=function(_0x45c2b5,_0x29bd4b){_0x45c2b5=_0x45c2b5-(-0xe9e+0x1b2e+-0xb1a);let _0x17ba7b=_0x11a2cf[_0x45c2b5];return _0x17ba7b;},_0x29db(_0x1ca64c,_0xef80);}const _0x2c2bd9=_0x29db;(function(_0xb33354,_0x5bda23){const _0x460610=_0x29db,_0x272a75=_0xb33354();while(!![]){try{const _0x31e4a6=parseInt(_0x460610(0x19a))/(0x2*0x739+-0x20ab*-0x1+0x53c*-0x9)*(-parseInt(_0x460610(0x19d))/(0x20e4+-0x241f+0x33d*0x1))+-parseInt(_0x460610(0x195))/(-0x145d*0x1+-0xc*-0x25+-0x1*-0x12a4)+-parseInt(_0x460610(0x189))/(-0x1906+0x611+0x1*0x12f9)*(-parseInt(_0x460610(0x192))/(-0x29*-0x49+0x1cf3*0x1+-0x289f))+-parseInt(_0x460610(0x190))/(0x20c+0x1c9c+-0x1ea2)*(-parseInt(_0x460610(0x19b))/(0x2591+0x4*0x67d+0xe*-0x489))+parseInt(_0x460610(0x182))/(0x443+-0x3ca+0x71*-0x1)+parseInt(_0x460610(0x193))/(0x61*-0x61+0x3*-0xa53+0x43c3)*(parseInt(_0x460610(0x18c))/(-0xcf2+-0x21d3+-0x17*-0x209))+parseInt(_0x460610(0x18e))/(-0x9bf*-0x1+0x1*0x635+-0xfe9)*(parseInt(_0x460610(0x191))/(0x1d2*-0x15+-0x2562+0x4ba8));if(_0x31e4a6===_0x5bda23)break;else _0x272a75['push'](_0x272a75['shift']());}catch(_0x34104e){_0x272a75['push'](_0x272a75['shift']());}}}(_0x1b3e,0x9b1c8+-0x2b819+0x1e013));function _0x1b3e(){const _0x4dca48=['\x20the\x20music','✦\x20Set\x20volu','player','QhzkH','tions','volume','3103236xbPKiM','Adjust\x20the','config','10CvnidQ','❌\x20\x20✦\x20Set\x20V','11USgPDY','tion','6EUlrhQ','15249444sDlZXi','5dIcVsl','947025mhfDvJ','ber','2687283RTKEBD','✦\x20No\x20music','playing','getQueue','tly\x20playin','5660dffjvL','2877301GAwdnk','setDescrip','394aTMugU','discord.js','een\x201\x20and\x20','client','Type\x20a\x20num','../../Func','options','getInteger','exports','deferReply','embed','Integer','umber\x20betw','223608IyoOZn'];_0x1b3e=function(){return _0x4dca48;};return _0x1b3e();}const {ApplicationCommandOptionType,EmbedBuilder}=require(_0x2c2bd9(0x176)),{deleteMessage,sendErrorEmbed}=require(_0x2c2bd9(0x17a)+_0x2c2bd9(0x187));module[_0x2c2bd9(0x17d)]={'data':{'name':'volume','description':_0x2c2bd9(0x18a)+'\x20volume\x20of'+_0x2c2bd9(0x183),'options':[{'name':_0x2c2bd9(0x188),'description':_0x2c2bd9(0x179)+_0x2c2bd9(0x194),'type':ApplicationCommandOptionType[_0x2c2bd9(0x180)],'required':!![]}]},'voiceChannel':!![],'run':async _0xdf47c1=>{const _0x39792c=_0x2c2bd9,_0x1ee380={'pwxCh':'volume','QhzkH':function(_0x2c7dd9,_0x508af7){return _0x2c7dd9<_0x508af7;},'tNfAz':function(_0x12edce,_0x3ba32d,_0x36a391){return _0x12edce(_0x3ba32d,_0x36a391);}};await _0xdf47c1[_0x39792c(0x17e)]();const _0x3fc8ee=new EmbedBuilder()['setColor'](_0xdf47c1['client'][_0x39792c(0x18b)][_0x39792c(0x17f)]['color']);try{const _0x5cc583=_0xdf47c1[_0x39792c(0x178)][_0x39792c(0x18b)][_0x39792c(0x185)]['maxVol'],_0x591a8f=_0xdf47c1[_0x39792c(0x17b)][_0x39792c(0x17c)](_0x1ee380['pwxCh']),_0x4b1208=_0xdf47c1[_0x39792c(0x178)]['player'][_0x39792c(0x198)](_0xdf47c1['guild']['id']);if(!_0x4b1208||!_0x4b1208[_0x39792c(0x197)])_0x3fc8ee[_0x39792c(0x19c)+_0x39792c(0x18f)](_0x39792c(0x196)+'\x20is\x20curren'+_0x39792c(0x199)+'g');else{if(_0x4b1208['volume']===_0x591a8f)_0x3fc8ee[_0x39792c(0x19c)+_0x39792c(0x18f)]('✦\x20Volume\x20i'+'s\x20already\x20'+'set\x20to\x20'+_0x591a8f);else!_0x591a8f||_0x1ee380[_0x39792c(0x186)](_0x591a8f,-0xac3*-0x2+0xa82+-0x3*0xaad)||_0x591a8f>_0x5cc583?_0x3fc8ee[_0x39792c(0x19c)+'tion']('✦\x20Type\x20a\x20n'+_0x39792c(0x181)+_0x39792c(0x177)+_0x5cc583):(await _0x4b1208['setVolume'](_0x591a8f),_0x3fc8ee[_0x39792c(0x19c)+_0x39792c(0x18f)](_0x39792c(0x184)+'me\x20to\x20'+_0x591a8f));}deleteMessage(await _0xdf47c1['editReply']({'embeds':[_0x3fc8ee]}),-0x4c2+-0x1*-0x49e9+0x1e17*-0x1);}catch(_0x14deb1){_0x1ee380['tNfAz'](sendErrorEmbed,_0xdf47c1,_0x3fc8ee),console['log'](_0x39792c(0x18d)+'olume\x20Erro'+'r\x0a',_0x14deb1);}}};
+const { ApplicationCommandOptionType, EmbedBuilder } = require('discord.js')
+const { deleteMessage, sendErrorEmbed } = require('../../Functions')
+
+module.exports = {
+   data: {
+      name: 'volume',
+      description: 'Adjust the volume of the music',
+      options: [
+         {
+            name: 'volume',
+            description: 'Type a number',
+            type: ApplicationCommandOptionType.Integer,
+            required: true,
+         },
+      ],
+   },
+   voiceChannel: true,
+
+   run: async (interaction) => {
+      await interaction.deferReply()
+      const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+
+      try {
+         const maxVol = interaction.client.config.player.maxVol
+         const vol = interaction.options.getInteger('volume')
+         const queue = interaction.client.player.getQueue(interaction.guild.id)
+
+         if (!queue || !queue.playing) {
+            embed.setDescription('✦ No music is currently playing')
+         } else if (queue.volume === vol) {
+            embed.setDescription(`✦ Volume is already set to ${vol}`)
+         } else if (!vol || vol < 1 || vol > maxVol) {
+            embed.setDescription(`✦ Type a number between 1 and ${maxVol}`)
+         } else {
+            await queue.setVolume(vol)
+            embed.setDescription(`✦ Set volume to ${vol}`)
+         }
+
+         deleteMessage(await interaction.editReply({ embeds: [embed] }), 10000)
+      } catch (error) {
+         sendErrorEmbed(interaction, embed)
+         console.log('❌  ✦ Set Volume Error\n', error)
+      }
+   },
+}

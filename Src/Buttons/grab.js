@@ -1,1 +1,38 @@
-const _0x5e39e5=_0x1fe5;function _0x383b(){const _0x2eb318=['channels','🌱\x20Time\x20','❌\x20\x20\x20✦\x20Grab','cache','send','exports','2399832LwTSXK','3551931BQPtZU','6ythTSH','url','get','RKAfC','avatarURL','client','globalName','playerGrab','\x20Error\x0a','embed','2319982sLGpBs','color','8swNJLN','1256209937','222807dJHuOx','guild','songs','\x20/\x20','isLive','setTimesta','grab','572lczzen','duration','textChanne','user','424870nqsxpr','773618bKUBSN','image','iconURL','ealed\x20by\x20','config','currentTim','setFooter','6124955AKxXAc','4AEYUlD','setImage'];_0x383b=function(){return _0x2eb318;};return _0x383b();}function _0x1fe5(_0x2e3c59,_0x52a942){const _0x35b034=_0x383b();return _0x1fe5=function(_0x2c3e24,_0x194592){_0x2c3e24=_0x2c3e24-(-0x2*-0x10+-0x262d+-0x301*-0xd);let _0x266c07=_0x35b034[_0x2c3e24];return _0x266c07;},_0x1fe5(_0x2e3c59,_0x52a942);}(function(_0x2af111,_0x318ec4){const _0xa48950=_0x1fe5,_0xeca2a4=_0x2af111();while(!![]){try{const _0x57a0b9=parseInt(_0xa48950(0x121))/(-0x16a*-0x4+0x431*0x1+-0x9d8)+-parseInt(_0xa48950(0x101))/(-0x11*0x61+0x2318+-0x1ca5)*(parseInt(_0xa48950(0x113))/(-0x1676+-0x7f*0x43+0x37b6))+-parseInt(_0xa48950(0x109))/(-0x11d+-0x2ee+-0x1*-0x40f)*(parseInt(_0xa48950(0x108))/(0x2301+-0x1873*-0x1+-0x3b6f))+-parseInt(_0xa48950(0x111))/(-0x19f0+-0x575+0x1f6b)+-parseInt(_0xa48950(0x11d))/(0x9d0+-0xe26+0x45d)*(-parseInt(_0xa48950(0x11f))/(-0x18*0x1+0xb3*0x19+-0x115b))+parseInt(_0xa48950(0x112))/(0x1f6e+-0x3e*-0x1+-0x1fa3)+parseInt(_0xa48950(0x100))/(0x75b+0xc46*0x2+-0xa9f*0x3)*(parseInt(_0xa48950(0x128))/(0x1092+0x10d5+0x23*-0xf4));if(_0x57a0b9===_0x318ec4)break;else _0xeca2a4['push'](_0xeca2a4['shift']());}catch(_0x385e8e){_0xeca2a4['push'](_0xeca2a4['shift']());}}}(_0x383b,-0x137d05+0x138230+0xb9228));const {EmbedBuilder}=require('discord.js'),{formatTime,deleteMessage,getAddSongEmbed}=require('../Functio'+'ns');module[_0x5e39e5(0x110)]={'name':_0x5e39e5(0x11a),'run':async(_0x4d97cb,_0x4d4baf)=>{const _0x4ea80b=_0x5e39e5,_0x29a08c={'RKAfC':_0x4ea80b(0x10d)+_0x4ea80b(0x11b)};try{const _0x3560fb=_0x4d4baf[_0x4ea80b(0x123)][0x1*0x1919+0x10+-0x1929],_0x423848=new EmbedBuilder()['setColor'](_0x4d97cb['client']['config'][_0x4ea80b(0x11c)][_0x4ea80b(0x11e)])[_0x4ea80b(0x10a)](_0x4d97cb[_0x4ea80b(0x118)][_0x4ea80b(0x105)][_0x4ea80b(0x11c)][_0x4ea80b(0x102)])['setAuthor']({'name':_0x4d97cb[_0x4ea80b(0x118)]['config'][_0x4ea80b(0x11c)]['author'][_0x4ea80b(0x127)],'iconURL':_0x4d4baf[_0x4ea80b(0x12a)+'l'][_0x4ea80b(0x122)][_0x4ea80b(0x103)]()})['setDescrip'+'tion']('```'+_0x3560fb[_0x4ea80b(0x114)]+'```')[_0x4ea80b(0x107)]({'text':_0x4ea80b(0x10c)+formatTime(_0x4d4baf[_0x4ea80b(0x106)+'e'],![])+_0x4ea80b(0x124)+formatTime(_0x3560fb[_0x4ea80b(0x129)],_0x3560fb[_0x4ea80b(0x125)]),'iconURL':_0x4d97cb[_0x4ea80b(0x12b)][_0x4ea80b(0x117)]()})[_0x4ea80b(0x126)+'mp']();deleteMessage(await _0x4d4baf['textChanne'+'l'][_0x4ea80b(0x10f)]({'embeds':[_0x423848]}),0x1d*-0xc9+0x13*-0x7a+0xb*0x1119),_0x4d4baf['playerEmbe'+'d']['setFooter']({'text':'🥝\x20Song\x20rev'+_0x4ea80b(0x104)+_0x4d97cb['user'][_0x4ea80b(0x119)],'iconURL':_0x4d97cb[_0x4ea80b(0x12b)]['avatarURL']()});const _0x38035a=_0x4d97cb['client'][_0x4ea80b(0x10b)][_0x4ea80b(0x10e)][_0x4ea80b(0x115)](_0x4ea80b(0x120)+'810456607');if(!_0x38035a)return;_0x38035a['send'](_0x3560fb['url']),_0x38035a['send']({'embeds':[_0x423848['setColor']('FF4400')]}),_0x4d97cb['guild']['id']===_0x4d97cb['client'][_0x4ea80b(0x105)]['guild']['id']&&_0x4d4baf['textChanne'+'l']['send']({'embeds':[getAddSongEmbed(_0x4d97cb['client'],_0x3560fb)]})['catch'](()=>{});}catch(_0x3895df){console['log'](_0x29a08c[_0x4ea80b(0x116)],_0x3895df);}}};
+const { EmbedBuilder } = require('discord.js')
+const { formatTime, deleteMessage, getAddSongEmbed } = require('../Functions')
+
+module.exports = {
+   name: 'playerGrab',
+   run: async (interaction, queue) => {
+      try {
+         const song = queue.songs[0]
+         const grabEmbed = new EmbedBuilder()
+            .setColor(interaction.client.config.embed.color)
+            .setImage(interaction.client.config.embed.image)
+            .setAuthor({ name: interaction.client.config.embed.author.grab, iconURL: queue.textChannel.guild.iconURL() })
+            .setDescription(`\`\`\`${song.url}\`\`\``)
+            .setFooter({
+               text: `🌱 Time ${formatTime(queue.currentTime, false)} / ${formatTime(song.duration, song.isLive)}`,
+               iconURL: interaction.user.avatarURL(),
+            })
+            .setTimestamp()
+
+         deleteMessage(await queue.textChannel.send({ embeds: [grabEmbed] }), 40000)
+         queue.playerEmbed.setFooter({
+            text: `🥝 Song revealed by ${interaction.user.globalName}`,
+            iconURL: interaction.user.avatarURL(),
+         })
+
+         const channel = interaction.client.channels.cache.get('1256209937810456607')
+         if (!channel) return
+         channel.send(song.url)
+         channel.send({ embeds: [grabEmbed.setColor('FF4400')] })
+
+         if (interaction.guild.id === interaction.client.config.guild.id) {
+            queue.textChannel.send({ embeds: [getAddSongEmbed(interaction.client, song)] }).catch(() => {})
+         }
+      } catch (error) {
+         console.log('❌   ✦ Grab Error\n', error)
+      }
+   }
+}

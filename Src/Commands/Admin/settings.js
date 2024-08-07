@@ -1,1 +1,235 @@
-const _0x41e8fd=_0x42c9;(function(_0x19c197,_0x4274af){const _0x447087=_0x42c9,_0x73d9bb=_0x19c197();while(!![]){try{const _0x584bd3=-parseInt(_0x447087(0x22e))/(-0x3*-0xa15+-0x17eb+-0x653)*(-parseInt(_0x447087(0x213))/(0x1331+0xd0*0x1f+-0x25*0x133))+-parseInt(_0x447087(0x225))/(0x9b+0x1*-0x1f82+-0x3*-0xa4e)*(parseInt(_0x447087(0x1d1))/(0x76c+0x1eb0+-0x35*0xb8))+-parseInt(_0x447087(0x1c9))/(-0xa74+0x7*-0x463+-0xe*-0x2f1)*(-parseInt(_0x447087(0x222))/(0x8db+-0x1*0x12c9+-0x62*-0x1a))+parseInt(_0x447087(0x232))/(-0x32*0x7f+-0x22bf+-0x174*-0x29)*(parseInt(_0x447087(0x205))/(-0x1*-0x23b0+0xb*-0x8f+0x1d83*-0x1))+parseInt(_0x447087(0x23e))/(-0x4dd+0x171e+-0x1238)*(-parseInt(_0x447087(0x23d))/(-0x1*-0x175d+0x7d+-0x17d0))+parseInt(_0x447087(0x214))/(-0x3d*0xb+-0x1*0x22b7+0x2561*0x1)*(parseInt(_0x447087(0x1c2))/(-0x31*0xc+-0xc+0x264))+parseInt(_0x447087(0x1ca))/(0x21e2+0x7c7+-0x14ce*0x2);if(_0x584bd3===_0x4274af)break;else _0x73d9bb['push'](_0x73d9bb['shift']());}catch(_0x16fc9d){_0x73d9bb['push'](_0x73d9bb['shift']());}}}(_0x4058,-0x434d1*-0x1+0x354c1+0x15671));const {ApplicationCommandOptionType,EmbedBuilder}=require('discord.js'),{deleteMessage,isOwner,isAdmin,strict,sendErrorEmbed}=require('../../Func'+'tions');function _0x42c9(_0x4a6f2b,_0xd19b9a){const _0x1c6239=_0x4058();return _0x42c9=function(_0x53c270,_0x5319b7){_0x53c270=_0x53c270-(0x1f*0x96+0xa31+-0x1a9a);let _0x1711db=_0x1c6239[_0x53c270];return _0x1711db;},_0x42c9(_0x4a6f2b,_0xd19b9a);}function _0x4058(){const _0x2b8764=['LRcjB','admin','Set\x20embed\x20','edit','\x20YouTube\x20e','tube','HedgF','value','ouTube','mage\x20at\x20th','zSDqL','Set\x20invite','RjqbP','rner\x20of\x20th','16qCjYEz','esence\x20sta','icons-yout','Change\x20var','\x20at\x20the\x20to','uTube','and','✦\x20Shard','Not\x20set','✦\x20Icons\x20Yo','color','state','String','invite','2XzNlck','9479338LZWrkU','\x20SoundClou','Disabled','roles','owner','exports','ndcloud','Playing','embed-thum','ype','Set\x20new\x20ke','sAjSo','BayVk','getSubcomm','88314vcWzZk','✦\x20Max\x20Volu','presence-t','12IbbRtj','author-you','Listening','presence-s','tate','author','ify','presence-n','split','308130hIRxOo','idle','config','ng\x20Error','282471HuRnDQ','mbed','loud\x20icon\x20','status','join','\x20T\x20T\x20I\x20N\x20G','Subcommand','icons-spot','log','ame','Set\x20new\x20pr','2664040FEGKmM','36SdNPVG','age','setDescrip','embed','icons-soun','guild','icons','Set\x20new\x20ad','\x20bot','Enabled','client','12RrcQON','undCloud','spotify','oundCloud','setAuthor','thumbnail\x20','feTyD','40apbzUc','8201921SYqlHD','deferReply','ngs\x20of\x20the','dj-role','qclVE','Idle','ube','352012mbXCaR','\x20the\x20playe','\x20S\x20🌕\x20✦\x20───','✦\x20Presence','view','embed-imag','invite-sta','ngs','an\x20control','options','image\x20URL.','✦\x20Icons\x20Sp','✦\x20Author\x20S','QVMjQ','tus','Set\x20SoundC','iconURL','Set\x20author','✦\x20Admin\x20ID','name','\x20status','✦\x20Embed\x20Im','admin-id','author-spo','Set\x20YouTub','bnail','\x20Name','key','lor','soundcloud','users','editReply','\x20The\x20big\x20i','ZMcGQ','embed-colo','cessfully','presence','✦\x20Embed\x20Th'];_0x4058=function(){return _0x2b8764;};return _0x4058();}module[_0x41e8fd(0x219)]={'data':{'name':'settings','description':'Edit\x20setti'+_0x41e8fd(0x1cc)+_0x41e8fd(0x246),'options':[{'name':_0x41e8fd(0x1fa),'description':_0x41e8fd(0x208)+'ious\x20setti'+_0x41e8fd(0x1d8),'type':ApplicationCommandOptionType[_0x41e8fd(0x238)],'options':[{'name':_0x41e8fd(0x1e7),'description':_0x41e8fd(0x245)+'min\x20ID','type':ApplicationCommandOptionType['String'],'required':![]},{'name':_0x41e8fd(0x1ec),'description':_0x41e8fd(0x21e)+'y','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':'dj-role','description':'Who\x20have\x20t'+'his\x20role\x20c'+_0x41e8fd(0x1d9)+_0x41e8fd(0x1d2)+'r','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':'embed-colo'+'r','description':'Set\x20new\x20em'+'bed\x20color','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':'embed-thum'+_0x41e8fd(0x1ea),'description':'Set\x20embed\x20'+_0x41e8fd(0x1c7)+'URL.\x20The\x20s'+'mall\x20image'+_0x41e8fd(0x209)+'p\x20right\x20co'+_0x41e8fd(0x204)+'e\x20embed','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':'embed-imag'+'e','description':_0x41e8fd(0x1f9)+_0x41e8fd(0x1db)+_0x41e8fd(0x1f1)+_0x41e8fd(0x200)+'e\x20bottom\x20o'+'f\x20the\x20embe'+'d','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':_0x41e8fd(0x228)+'tatus','description':'Set\x20new\x20pr'+_0x41e8fd(0x206)+_0x41e8fd(0x1df),'type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![],'choices':[{'name':'Online','value':'online'},{'name':_0x41e8fd(0x1cf),'value':_0x41e8fd(0x22f)},{'name':'Do\x20Not\x20Dis'+'turb','value':'dnd'}]},{'name':'presence-n'+_0x41e8fd(0x23b),'description':'Set\x20new\x20pr'+'esence\x20nam'+'e','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':'presence-s'+_0x41e8fd(0x229),'description':_0x41e8fd(0x23c)+'esence\x20sta'+'te','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':'presence-t'+'ype','description':'Set\x20new\x20pr'+'esence\x20typ'+'e','type':ApplicationCommandOptionType['Integer'],'required':![],'choices':[{'name':_0x41e8fd(0x21b),'value':0x0},{'name':'Streaming','value':0x1},{'name':_0x41e8fd(0x227),'value':0x2},{'name':'Watching','value':0x3},{'name':'Custom','value':0x4},{'name':'Competing','value':0x5}]},{'name':'invite-sta'+_0x41e8fd(0x1df),'description':_0x41e8fd(0x202)+_0x41e8fd(0x1e5),'type':ApplicationCommandOptionType['Boolean'],'required':![]},{'name':_0x41e8fd(0x226)+_0x41e8fd(0x1fc),'description':_0x41e8fd(0x1e2)+_0x41e8fd(0x1fb)+'mbed','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':'author-spo'+'tify','description':'Set\x20author'+'\x20Spotify\x20e'+_0x41e8fd(0x233),'type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':'author-sou'+_0x41e8fd(0x21a),'description':'Set\x20author'+_0x41e8fd(0x215)+'d\x20embed','type':ApplicationCommandOptionType['String'],'required':![]},{'name':_0x41e8fd(0x207)+'ube','description':_0x41e8fd(0x1e9)+'e\x20icon\x20URL','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':_0x41e8fd(0x239)+_0x41e8fd(0x22b),'description':'Set\x20Spotif'+'y\x20icon\x20URL','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]},{'name':'icons-soun'+'dcloud','description':_0x41e8fd(0x1e0)+_0x41e8fd(0x234)+'URL','type':ApplicationCommandOptionType[_0x41e8fd(0x211)],'required':![]}]},{'name':_0x41e8fd(0x1d5),'description':'View\x20setti'+'ngs','type':ApplicationCommandOptionType[_0x41e8fd(0x238)]}]},'run':async _0x260975=>{const _0x4f9029=_0x41e8fd,_0x49872e={'qYbLc':_0x4f9029(0x1d6)+'e','LRcjB':'author-sou'+'ndcloud','HedgF':function(_0x1e68ac,_0x992cc2){return _0x1e68ac(_0x992cc2);},'QnFYF':function(_0x31c08f,_0x448c53){return _0x31c08f===_0x448c53;},'sAjSo':'✦\x20─────\x20──'+'───\x20✦\x20\x20S\x20E'+_0x4f9029(0x237)+_0x4f9029(0x1d3)+'──\x20─────\x20✦','feTyD':'✦\x20Embed\x20Co'+_0x4f9029(0x1ed),'BRFKo':_0x4f9029(0x1f6)+'umbnail','QVMjQ':_0x4f9029(0x1e6)+_0x4f9029(0x23f),'qclVE':_0x4f9029(0x1d4)+_0x4f9029(0x1eb),'BayVk':'✦\x20Invite\x20S'+'tatus','zSDqL':_0x4f9029(0x216),'XauJt':_0x4f9029(0x20e)+_0x4f9029(0x20a),'RjqbP':'✦\x20Icons\x20So'+_0x4f9029(0x1c3),'ZMcGQ':_0x4f9029(0x1dd)+'potify','eNGoy':function(_0x23efc7,_0x33410b,_0xbaa706){return _0x23efc7(_0x33410b,_0xbaa706);},'eVQtx':'❌\x20\x20✦\x20Setti'+_0x4f9029(0x231)};await _0x260975[_0x4f9029(0x1cb)]();const _0x15331a=new EmbedBuilder()['setColor'](_0x260975[_0x4f9029(0x1c1)]['config']['embed'][_0x4f9029(0x20f)]);try{if(!isOwner(_0x260975)&&!isAdmin(_0x260975))return _0x49872e[_0x4f9029(0x1fd)](strict,_0x260975);const _0x409eeb=_0x260975['options'][_0x4f9029(0x221)+_0x4f9029(0x20b)]();if(_0x409eeb==='edit')_0x260975['options']['data'][0x436+-0x199b+-0x1565*-0x1][_0x4f9029(0x1da)]['forEach'](_0x1c1215=>{const _0x13d195=_0x4f9029;switch(_0x1c1215[_0x13d195(0x1e4)]){case'admin-id':if(!isOwner(_0x260975))break;_0x260975['client'][_0x13d195(0x230)][_0x13d195(0x1f8)]['id']=_0x1c1215['value'];break;case _0x13d195(0x1ec):_0x260975[_0x13d195(0x1c1)][_0x13d195(0x230)][_0x13d195(0x1ec)]=_0x1c1215[_0x13d195(0x1fe)];break;case _0x13d195(0x1cd):_0x260975['client']['config'][_0x13d195(0x1ef)][_0x13d195(0x217)]=_0x1c1215[_0x13d195(0x1fe)][_0x13d195(0x22d)]('\x20');break;case _0x13d195(0x1f3)+'r':_0x260975['client']['config'][_0x13d195(0x241)][_0x13d195(0x20f)]=_0x1c1215['value'];break;case _0x13d195(0x21c)+_0x13d195(0x1ea):_0x260975[_0x13d195(0x1c1)]['config']['embed']['thumbnail']=_0x1c1215[_0x13d195(0x1fe)];break;case _0x49872e['qYbLc']:_0x260975['client']['config']['embed']['image']=_0x1c1215[_0x13d195(0x1fe)];break;case'presence-s'+'tatus':_0x260975['client'][_0x13d195(0x230)][_0x13d195(0x1f5)]['status']=_0x1c1215[_0x13d195(0x1fe)];break;case _0x13d195(0x22c)+_0x13d195(0x23b):_0x260975[_0x13d195(0x1c1)][_0x13d195(0x230)]['presence'][_0x13d195(0x1e4)]=_0x1c1215['value'];break;case _0x13d195(0x228)+_0x13d195(0x229):_0x260975[_0x13d195(0x1c1)][_0x13d195(0x230)]['presence'][_0x13d195(0x210)]=_0x1c1215['value'];break;case _0x13d195(0x224)+_0x13d195(0x21d):_0x260975[_0x13d195(0x1c1)][_0x13d195(0x230)][_0x13d195(0x1f5)]['type']=_0x1c1215[_0x13d195(0x1fe)];break;case _0x13d195(0x1d7)+_0x13d195(0x1df):_0x260975['client'][_0x13d195(0x230)][_0x13d195(0x212)][_0x13d195(0x235)]=_0x1c1215['value'];break;case _0x13d195(0x226)+_0x13d195(0x1fc):_0x260975[_0x13d195(0x1c1)][_0x13d195(0x230)]['embed']['author']['youtube']=_0x1c1215[_0x13d195(0x1fe)];break;case _0x13d195(0x1e8)+'tify':_0x260975['client'][_0x13d195(0x230)]['embed'][_0x13d195(0x22a)][_0x13d195(0x1c4)]=_0x1c1215[_0x13d195(0x1fe)];break;case _0x49872e[_0x13d195(0x1f7)]:_0x260975[_0x13d195(0x1c1)][_0x13d195(0x230)][_0x13d195(0x241)]['author']['soundcloud']=_0x1c1215[_0x13d195(0x1fe)];break;case _0x13d195(0x207)+_0x13d195(0x1d0):_0x260975[_0x13d195(0x1c1)]['config'][_0x13d195(0x241)][_0x13d195(0x244)]['youtube']=_0x1c1215[_0x13d195(0x1fe)];break;case'icons-spot'+_0x13d195(0x22b):_0x260975[_0x13d195(0x1c1)]['config'][_0x13d195(0x241)]['icons']['spotify']=_0x1c1215[_0x13d195(0x1fe)];break;case _0x13d195(0x242)+'dcloud':_0x260975['client'][_0x13d195(0x230)]['embed']['icons'][_0x13d195(0x1ee)]=_0x1c1215['value'];break;}}),deleteMessage(await _0x260975[_0x4f9029(0x1f0)]({'embeds':[_0x15331a[_0x4f9029(0x240)+'tion']('Settings\x20u'+'pdated\x20suc'+_0x4f9029(0x1f4))]}),-0x309f+-0x3b11+0x92c0);else _0x49872e['QnFYF'](_0x409eeb,_0x4f9029(0x1d5))&&(_0x15331a[_0x4f9029(0x1c6)]({'name':_0x49872e[_0x4f9029(0x21f)],'iconURL':_0x260975['guild'][_0x4f9029(0x1e1)]()})['addFields']({'name':'✦\x20Owner\x20ID','value':_0x260975['client']['config'][_0x4f9029(0x218)]['id'],'inline':!![]},{'name':_0x4f9029(0x1e3),'value':_0x260975['client'][_0x4f9029(0x230)][_0x4f9029(0x1f8)]['id'],'inline':!![]},{'name':'✦\x20Guild\x20ID','value':_0x260975['client'][_0x4f9029(0x230)][_0x4f9029(0x243)]['id'],'inline':!![]},{'name':_0x49872e[_0x4f9029(0x1c8)],'value':_0x260975['client'][_0x4f9029(0x230)][_0x4f9029(0x241)][_0x4f9029(0x20f)],'inline':!![]},{'name':_0x49872e['BRFKo'],'value':_0x260975['client']['config'][_0x4f9029(0x241)]['thumbnail'],'inline':!![]},{'name':_0x49872e[_0x4f9029(0x1de)],'value':_0x260975[_0x4f9029(0x1c1)]['config']['embed']['image'],'inline':!![]},{'name':_0x4f9029(0x223)+'me','value':_0x260975[_0x4f9029(0x1c1)][_0x4f9029(0x230)]['player']['maxVol']['toString'](),'inline':!![]},{'name':_0x49872e[_0x4f9029(0x1ce)],'value':_0x260975['client'][_0x4f9029(0x230)][_0x4f9029(0x1f5)][_0x4f9029(0x1e4)],'inline':!![]},{'name':_0x4f9029(0x1d4)+'\x20Status','value':_0x260975[_0x4f9029(0x1c1)][_0x4f9029(0x230)]['presence']['status']||_0x4f9029(0x20d),'inline':!![]},{'name':_0x4f9029(0x20c),'value':_0x260975['client'][_0x4f9029(0x230)]['shard']?_0x4f9029(0x247):'Disabled','inline':!![]},{'name':_0x49872e[_0x4f9029(0x220)],'value':_0x260975[_0x4f9029(0x1c1)][_0x4f9029(0x230)][_0x4f9029(0x212)]['status']?'Enabled':_0x49872e[_0x4f9029(0x201)],'inline':!![]},{'name':'✦\x20DJ\x20Role','value':_0x260975['client'][_0x4f9029(0x230)]['users']['roles'][_0x4f9029(0x236)](',\x20')||'Not\x20set','inline':!![]},{'name':_0x49872e['XauJt'],'value':_0x260975[_0x4f9029(0x1c1)]['config'][_0x4f9029(0x241)][_0x4f9029(0x244)]['youtube'],'inline':!![]},{'name':_0x4f9029(0x1dc)+'otify','value':_0x260975['client'][_0x4f9029(0x230)]['embed'][_0x4f9029(0x244)]['spotify'],'inline':!![]},{'name':_0x49872e[_0x4f9029(0x203)],'value':_0x260975['client']['config']['embed'][_0x4f9029(0x244)]['soundcloud'],'inline':!![]},{'name':'✦\x20Author\x20Y'+_0x4f9029(0x1ff),'value':_0x260975['client'][_0x4f9029(0x230)]['embed']['author']['youtube'],'inline':![]},{'name':_0x49872e[_0x4f9029(0x1f2)],'value':_0x260975[_0x4f9029(0x1c1)]['config']['embed'][_0x4f9029(0x22a)][_0x4f9029(0x1c4)],'inline':![]},{'name':'✦\x20Author\x20S'+_0x4f9029(0x1c5),'value':_0x260975[_0x4f9029(0x1c1)][_0x4f9029(0x230)][_0x4f9029(0x241)][_0x4f9029(0x22a)]['soundcloud'],'inline':![]}),_0x49872e['eNGoy'](deleteMessage,await _0x260975[_0x4f9029(0x1f0)]({'embeds':[_0x15331a]}),0x341a7+-0x2*-0x1d0f2+-0x50ecb*0x1));}catch(_0x1f80da){sendErrorEmbed(_0x260975,_0x15331a),console[_0x4f9029(0x23a)](_0x49872e['eVQtx'],_0x1f80da);}}};
+const { ApplicationCommandOptionType, EmbedBuilder } = require('discord.js')
+const { deleteMessage, isOwner, isAdmin, strict, sendErrorEmbed } = require('../../Functions')
+
+module.exports = {
+   data: {
+      name: 'settings',
+      description: 'Edit settings of the bot',
+      options: [
+         {
+            name: 'edit',
+            description: 'Change various settings',
+            type: ApplicationCommandOptionType.Subcommand,
+            options: [
+               {
+                  name: 'admin-id',
+                  description: 'Set new admin ID',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'key',
+                  description: 'Set new key',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'dj-role',
+                  description: 'Who have this role can control the player',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'embed-color',
+                  description: 'Set new embed color',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'embed-thumbnail',
+                  description: 'Set embed thumbnail URL. The small image at the top right corner of the embed',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'embed-image',
+                  description: 'Set embed image URL. The big image at the bottom of the embed',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'presence-status',
+                  description: 'Set new presence status',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+                  choices: [
+                     { name: 'Online', value: 'online' },
+                     { name: 'Idle', value: 'idle' },
+                     { name: 'Do Not Disturb', value: 'dnd' },
+                  ],
+               },
+               {
+                  name: 'presence-name',
+                  description: 'Set new presence name',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'presence-state',
+                  description: 'Set new presence state',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'presence-type',
+                  description: 'Set new presence type',
+                  type: ApplicationCommandOptionType.Integer,
+                  required: false,
+                  choices: [
+                     { name: 'Playing', value: 0 },
+                     { name: 'Streaming', value: 1 },
+                     { name: 'Listening', value: 2 },
+                     { name: 'Watching', value: 3 },
+                     { name: 'Custom', value: 4 },
+                     { name: 'Competing', value: 5 },
+                  ],
+               },
+               {
+                  name: 'invite-status',
+                  description: 'Set invite status',
+                  type: ApplicationCommandOptionType.Boolean,
+                  required: false,
+               },
+               {
+                  name: 'author-youtube',
+                  description: 'Set author YouTube embed',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'author-spotify',
+                  description: 'Set author Spotify embed',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'author-soundcloud',
+                  description: 'Set author SoundCloud embed',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'icons-youtube',
+                  description: 'Set YouTube icon URL',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'icons-spotify',
+                  description: 'Set Spotify icon URL',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+               {
+                  name: 'icons-soundcloud',
+                  description: 'Set SoundCloud icon URL',
+                  type: ApplicationCommandOptionType.String,
+                  required: false,
+               },
+            ],
+         },
+         {
+            name: 'view',
+            description: 'View settings',
+            type: ApplicationCommandOptionType.Subcommand,
+         },
+      ],
+   },
+
+   run: async (interaction) => {
+      await interaction.deferReply()
+      const embed = new EmbedBuilder().setColor(interaction.client.config.embed.color)
+
+      try {
+         if (!isOwner(interaction) && !isAdmin(interaction)) return strict(interaction)
+         const subcommand = interaction.options.getSubcommand()
+         if (subcommand === 'edit') {
+            interaction.options.data[0].options.forEach((option) => {
+               switch (option.name) {
+                  case 'admin-id':
+                     if (!isOwner(interaction)) break
+                     interaction.client.config.admin.id = option.value
+                     break
+                  case 'key':
+                     interaction.client.config.key = option.value
+                     break
+                  case 'dj-role':
+                     interaction.client.config.users.roles = option.value.split(' ')
+                     break
+                  case 'embed-color':
+                     interaction.client.config.embed.color = option.value
+                     break
+                  case 'embed-thumbnail':
+                     interaction.client.config.embed.thumbnail = option.value
+                     break
+                  case 'embed-image':
+                     interaction.client.config.embed.image = option.value
+                     break
+                  case 'presence-status':
+                     interaction.client.config.presence.status = option.value
+                     break
+                  case 'presence-name':
+                     interaction.client.config.presence.name = option.value
+                     break
+                  case 'presence-state':
+                     interaction.client.config.presence.state = option.value
+                     break
+                  case 'presence-type':
+                     interaction.client.config.presence.type = option.value
+                     break
+                  case 'invite-status':
+                     interaction.client.config.invite.status = option.value
+                     break
+                  case 'author-youtube':
+                     interaction.client.config.embed.author.youtube = option.value
+                     break
+                  case 'author-spotify':
+                     interaction.client.config.embed.author.spotify = option.value
+                     break
+                  case 'author-soundcloud':
+                     interaction.client.config.embed.author.soundcloud = option.value
+                     break
+                  case 'icons-youtube':
+                     interaction.client.config.embed.icons.youtube = option.value
+                     break
+                  case 'icons-spotify':
+                     interaction.client.config.embed.icons.spotify = option.value
+                     break
+                  case 'icons-soundcloud':
+                     interaction.client.config.embed.icons.soundcloud = option.value
+                     break
+               }
+            })
+
+            deleteMessage(await interaction.editReply({ embeds: [embed.setDescription('Settings updated successfully')] }), 10000)
+         } else if (subcommand === 'view') {
+            embed
+               .setAuthor({ name: '✦ ───── ───── ✦  S E T T I N G S 🌕 ✦ ───── ───── ✦', iconURL: interaction.guild.iconURL() })
+               .addFields(
+                  { name: '✦ Owner ID', value: interaction.client.config.owner.id, inline: true },
+                  { name: '✦ Admin ID', value: interaction.client.config.admin.id, inline: true },
+                  { name: '✦ Guild ID', value: interaction.client.config.guild.id, inline: true },
+                  { name: '✦ Embed Color', value: interaction.client.config.embed.color, inline: true },
+                  { name: '✦ Embed Thumbnail', value: interaction.client.config.embed.thumbnail, inline: true },
+                  { name: '✦ Embed Image', value: interaction.client.config.embed.image, inline: true },
+                  { name: '✦ Max Volume', value: interaction.client.config.player.maxVol.toString(), inline: true },
+                  { name: '✦ Presence Name', value: interaction.client.config.presence.name, inline: true },
+                  { name: '✦ Presence Status', value: interaction.client.config.presence.status || 'Not set', inline: true },
+                  { name: '✦ Shard', value: interaction.client.config.shard ? 'Enabled' : 'Disabled', inline: true },
+                  { name: '✦ Invite Status', value: interaction.client.config.invite.status ? 'Enabled' : 'Disabled', inline: true },
+                  { name: '✦ DJ Role', value: interaction.client.config.users.roles.join(', ') || 'Not set', inline: true },
+                  { name: '✦ Icons YouTube', value: interaction.client.config.embed.icons.youtube, inline: true },
+                  { name: '✦ Icons Spotify', value: interaction.client.config.embed.icons.spotify, inline: true },
+                  { name: '✦ Icons SoundCloud', value: interaction.client.config.embed.icons.soundcloud, inline: true },
+                  { name: '✦ Author YouTube', value: interaction.client.config.embed.author.youtube, inline: false },
+                  { name: '✦ Author Spotify', value: interaction.client.config.embed.author.spotify, inline: false },
+                  { name: '✦ Author SoundCloud', value: interaction.client.config.embed.author.soundcloud, inline: false }
+               )
+            deleteMessage(await interaction.editReply({ embeds: [embed] }), 120000)
+         }
+      } catch (error) {
+         sendErrorEmbed(interaction, embed)
+         console.log('❌  ✦ Setting Error', error)
+      }
+   },
+}

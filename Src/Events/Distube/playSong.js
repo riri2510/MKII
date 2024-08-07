@@ -1,1 +1,51 @@
-function _0x27f9(_0x10d337,_0x41a424){const _0x5b5bda=_0x3688();return _0x27f9=function(_0x485c9b,_0x3c5e9c){_0x485c9b=_0x485c9b-(-0xa*-0x30c+0x2d5*-0xa+-0x122);let _0x2f57f9=_0x5b5bda[_0x485c9b];return _0x2f57f9;},_0x27f9(_0x10d337,_0x41a424);}const _0x15eac3=_0x27f9;(function(_0x5715ad,_0x31560b){const _0x119678=_0x27f9,_0x5ac4af=_0x5715ad();while(!![]){try{const _0x4f6a4b=-parseInt(_0x119678(0x106))/(-0x15ad*0x1+-0x16e*-0xe+-0x1*-0x1aa)+-parseInt(_0x119678(0x11a))/(0x10d9+0xc4e+0x1*-0x1d25)*(-parseInt(_0x119678(0x11b))/(-0x1ee6+-0x1*-0x1e17+0xd2))+-parseInt(_0x119678(0x12b))/(0x97*0x17+-0x4*-0xc1+-0x1091)*(-parseInt(_0x119678(0x10c))/(-0x281*-0x9+-0x3*0x297+-0x19*0x97))+-parseInt(_0x119678(0x10a))/(0x30a*-0x2+-0x187*-0x5+-0x189)+-parseInt(_0x119678(0x11c))/(0xcd*-0x5+0x643+-0x23b)*(parseInt(_0x119678(0x11f))/(0x151*0x14+-0x210+0x4*-0x60f))+-parseInt(_0x119678(0x12c))/(-0x1c05+-0x1*0x15b5+0x31c3)+parseInt(_0x119678(0x123))/(-0xd00+-0x574*-0x3+-0x352);if(_0x4f6a4b===_0x31560b)break;else _0x5ac4af['push'](_0x5ac4af['shift']());}catch(_0x12bced){_0x5ac4af['push'](_0x5ac4af['shift']());}}}(_0x3688,0x14dd38+-0x397*-0x1d9+-0xf0f1c));function _0x3688(){const _0x30a9fb=['../../Func','send','playerMess','uWVaF','ton\x20Error\x0a','discord.js','playerEmbe','spotify','setImage','340PVCKPf','3813rfRURJ','7YLtTaD','icon','thumbnail','3054296vLtIIE','setAuthor','ntCollecto','embed','29899390dmyKvl','playerAdd','🧩\x20Requeste','exports','avatarURL','swDhm','collect','ugVEf','1084444iAJXUn','3940569YEzLGA','log','customId','dance','937400sEAFNw','tion','soundcloud','vYOjH','8683098yRQFiI','high','15AeCNZQ','age','random','deferUpdat','listener'];_0x3688=function(){return _0x30a9fb;};return _0x3688();}const {EmbedBuilder}=require(_0x15eac3(0x116)),{formatTime,updateEmbed,auth,reject,isFit}=require(_0x15eac3(0x111)+'tions');module[_0x15eac3(0x126)]=async(_0x461892,_0x4627bc,_0x2e0bfe)=>{const _0x4ecec8=_0x15eac3,_0xc1a7f={'uWVaF':function(_0x5b049e,_0xf22e6){return _0x5b049e(_0xf22e6);},'OnkTW':_0x4ecec8(0x124),'vYOjH':function(_0x276de4,_0x44be1d){return _0x276de4(_0x44be1d);},'swDhm':function(_0x716e23,_0x4a4ee2,_0x3e8103){return _0x716e23(_0x4a4ee2,_0x3e8103);},'ugVEf':function(_0x271238,_0x6118fb){return _0x271238<_0x6118fb;}};try{const {color:_0x5283e4,thumbnail:_0x262792,imageRoxy:_0x442ac7,author:_0x5ba28d,icons:_0x2ce3c1}=_0x461892['config'][_0x4ecec8(0x122)],{name:_0x38567d,url:_0x5375aa,duration:_0x358acb,isLive:_0x345dee,user:_0x8095c8,source:_0x13463f}=_0x2e0bfe,{actionRows:_0x4f0627,textChannel:_0x115418,voiceChannel:_0x221c21}=_0x4627bc;_0x4627bc[_0x4ecec8(0x117)+'d']=new EmbedBuilder()['setTimesta'+'mp']()['setColor'](_0x5283e4)['setDescrip'+_0x4ecec8(0x107)]('**['+_0x38567d+']('+_0x5375aa+')\x0a<#'+_0x221c21['id']+'>・'+_0xc1a7f[_0x4ecec8(0x128)](formatTime,_0x358acb,_0x345dee)+'**')['setFooter']({'text':_0x4ecec8(0x125)+'d\x20by\x20'+_0x8095c8['globalName'],'iconURL':_0x8095c8[_0x4ecec8(0x127)]()});const _0x13920b={'youtube':{'thumbnail':_0x262792,'image':_0x2e0bfe[_0x4ecec8(0x11e)],'author':await _0xc1a7f[_0x4ecec8(0x114)](isFit,_0x2e0bfe['thumbnail'])?_0x5ba28d['youtubel']:_0x5ba28d['youtubes'],'icon':_0x2ce3c1['youtube']},'spotify':{'thumbnail':_0x2e0bfe[_0x4ecec8(0x11e)],'image':_0xc1a7f[_0x4ecec8(0x12a)](Math[_0x4ecec8(0x10e)](),0x1698+-0x53*-0x5c+-0x6e*0x7a+0.5)?_0x442ac7[_0x4ecec8(0x10b)]:_0x442ac7['dance'],'author':_0x5ba28d[_0x4ecec8(0x118)],'icon':_0x2ce3c1['spotify']},'soundcloud':{'thumbnail':_0x2e0bfe[_0x4ecec8(0x11e)],'image':Math['random']()<-0x2*-0x3c7+-0x3*-0x8bf+-0x21cb+0.5?_0x442ac7[_0x4ecec8(0x10b)]:_0x442ac7[_0x4ecec8(0x105)],'author':_0x5ba28d[_0x4ecec8(0x108)],'icon':_0x2ce3c1[_0x4ecec8(0x108)]}}[_0x13463f];_0x4627bc['playerEmbe'+'d']['setThumbna'+'il'](_0x13920b[_0x4ecec8(0x11e)])[_0x4ecec8(0x119)](_0x13920b['image'])[_0x4ecec8(0x120)]({'name':_0x13920b['author'],'iconURL':_0x13920b[_0x4ecec8(0x11d)]}),_0x4627bc[_0x4ecec8(0x113)+_0x4ecec8(0x10d)]=await _0x115418[_0x4ecec8(0x112)]({'embeds':[_0x4627bc[_0x4ecec8(0x117)+'d']],'components':_0x4f0627}),_0x4627bc[_0x4ecec8(0x110)]=_0x4627bc[_0x4ecec8(0x113)+_0x4ecec8(0x10d)]['createMess'+'ageCompone'+_0x4ecec8(0x121)+'r'](),_0x4627bc[_0x4ecec8(0x110)]['on'](_0x4ecec8(0x129),async _0x3f46e1=>{const _0x279f93=_0x4ecec8;if(_0x3f46e1['customId']!=='playerAdd')await _0x3f46e1[_0x279f93(0x10f)+'e']();if(!_0xc1a7f[_0x279f93(0x114)](auth,_0x3f46e1))return await reject(_0x3f46e1,-0xb*0xb6+-0x561+-0x14*-0xa9);await _0x461892['buttons']['get'](_0x3f46e1[_0x279f93(0x104)])(_0x3f46e1,_0x4627bc)['catch'](_0x5a7d8f=>console[_0x279f93(0x12d)]('❌\x20\x20✦\x20🥙\x20But'+_0x279f93(0x115),_0x5a7d8f));if(!['playerStop',_0xc1a7f['OnkTW']]['includes'](_0x3f46e1[_0x279f93(0x104)]))await _0xc1a7f[_0x279f93(0x109)](updateEmbed,_0x4627bc);});}catch(_0x2a5035){console['log']('❌\x20\x20\x20✦\x20🥝\x20Pl'+'aySong\x20Err'+'or\x0a',_0x2a5035);}};
+const { EmbedBuilder } = require('discord.js')
+const { formatTime, updateEmbed, auth, reject, isFit } = require('../../Functions')
+
+module.exports = async (client, queue, song) => {
+   try {
+      const { color, thumbnail, imageRoxy, author, icons } = client.config.embed
+      const { name, url, duration, isLive, user, source } = song
+      const { actionRows, textChannel, voiceChannel } = queue
+
+      queue.playerEmbed = new EmbedBuilder()
+         .setTimestamp()
+         .setColor(color)
+         .setDescription(`**[${name}](${url})\n<#${voiceChannel.id}>・${formatTime(duration, isLive)}**`)
+         .setFooter({ text: `🧩 Requested by ${user.globalName}`, iconURL: user.avatarURL() })
+
+      const options = {
+         youtube: {
+            thumbnail,
+            image: song.thumbnail,
+            author: (await isFit(song.thumbnail)) ? author.youtubel : author.youtubes,
+            icon: icons.youtube,
+         },
+         spotify: {
+            thumbnail: song.thumbnail,
+            image: Math.random() < 0.5 ? imageRoxy.high : imageRoxy.dance,
+            author: author.spotify,
+            icon: icons.spotify,
+         },
+         soundcloud: {
+            thumbnail: song.thumbnail,
+            image: Math.random() < 0.5 ? imageRoxy.high : imageRoxy.dance,
+            author: author.soundcloud,
+            icon: icons.soundcloud,
+         },
+      }[source]
+
+      queue.playerEmbed.setThumbnail(options.thumbnail).setImage(options.image).setAuthor({ name: options.author, iconURL: options.icon })
+      queue.playerMessage = await textChannel.send({ embeds: [queue.playerEmbed], components: actionRows })
+
+      queue.listener = queue.playerMessage.createMessageComponentCollector()
+      queue.listener.on('collect', async (interaction) => {
+         if (interaction.customId !== 'playerAdd') await interaction.deferUpdate()
+         if (!auth(interaction)) return await reject(interaction, 1)
+
+         await client.buttons.get(interaction.customId)(interaction, queue).catch((e) => console.log('❌  ✦ 🥙 Button Error\n', e))
+         if (!['playerStop', 'playerAdd'].includes(interaction.customId)) await updateEmbed(queue)
+      })
+   } catch (error) {
+      console.log('❌   ✦ 🥝 PlaySong Error\n', error)
+   }
+}

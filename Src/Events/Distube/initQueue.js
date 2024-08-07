@@ -1,1 +1,31 @@
-function _0x30a6(_0x33a304,_0x5ede12){const _0x2dd70d=_0xfc74();return _0x30a6=function(_0x5b8f89,_0x534ca1){_0x5b8f89=_0x5b8f89-(-0x94+0x3*0x7b1+-0x160a);let _0x24df1d=_0x2dd70d[_0x5b8f89];return _0x24df1d;},_0x30a6(_0x33a304,_0x5ede12);}const _0x31e3c0=_0x30a6;(function(_0x4f8bae,_0x5e6b8f){const _0x5f3566=_0x30a6,_0x2a57b9=_0x4f8bae();while(!![]){try{const _0x2a8527=parseInt(_0x5f3566(0x8e))/(-0x247c+-0x137a+0x37f7)*(-parseInt(_0x5f3566(0x92))/(-0x1*-0xe4b+0x1a74*-0x1+0xc2b))+-parseInt(_0x5f3566(0x84))/(-0x89*0x13+0x187b+-0xe4d)+parseInt(_0x5f3566(0x80))/(0xae8*-0x2+0xdbf+0x815)+parseInt(_0x5f3566(0x8c))/(-0x3*-0xbf1+-0x198e+-0x52*0x20)+-parseInt(_0x5f3566(0x7b))/(0x33*0x47+0x10fb+-0x6*0x52f)+-parseInt(_0x5f3566(0x8f))/(-0xa9a+-0xa7d+0x151e)*(-parseInt(_0x5f3566(0x90))/(0x10bd+-0x11a2+0xed))+-parseInt(_0x5f3566(0x75))/(0x150f+0x74f*0x1+-0x1*0x1c55)*(-parseInt(_0x5f3566(0x8d))/(0x1d7b+0x1cc+0x1*-0x1f3d));if(_0x2a8527===_0x5e6b8f)break;else _0x2a57b9['push'](_0x2a57b9['shift']());}catch(_0x142996){_0x2a57b9['push'](_0x2a57b9['shift']());}}}(_0xfc74,-0xa293a+0x5291f*0x1+0x137bc5));const {ActionRowBuilder,ButtonBuilder}=require(_0x31e3c0(0x81)),{deleteMessage,isMainGuild}=require('../../Func'+_0x31e3c0(0x7d));module['exports']=async(_0x31e047,_0x39ff81)=>{const _0x5ea853=_0x31e3c0,_0xaf561b={'asGHS':'playerLoop','GaHAs':'playerPaus'+'e'};try{if(isMainGuild(_0x39ff81[_0x5ea853(0x87)+'l']['guild']['id'],_0x31e047))await _0x39ff81['voice'][_0x5ea853(0x86)+'f'](![]);await _0x39ff81['setRepeatM'+'ode'](0x1f7b+-0xef4*-0x2+-0x3d61),await _0x39ff81['setVolume'](-0x23b*0xa+0x2*-0x10fd+0x1*0x38ab),_0x39ff81[_0x5ea853(0x91)]=[new ActionRowBuilder()['addCompone'+'nts'](new ButtonBuilder({'custom_id':'playerShuf','style':0x2,'emoji':_0x31e047['config']['buttons']['shuf']}),new ButtonBuilder({'custom_id':_0x5ea853(0x85),'style':0x2,'emoji':_0x31e047['config']['buttons']['prev']}),new ButtonBuilder({'custom_id':'playerStop','style':0x4,'emoji':_0x31e047[_0x5ea853(0x8a)][_0x5ea853(0x83)][_0x5ea853(0x7c)]}),new ButtonBuilder({'custom_id':_0x5ea853(0x8b),'style':0x2,'emoji':_0x31e047[_0x5ea853(0x8a)]['buttons'][_0x5ea853(0x82)]}),new ButtonBuilder({'custom_id':_0xaf561b['asGHS'],'style':0x2,'emoji':_0x31e047['config'][_0x5ea853(0x83)][_0x5ea853(0x79)]})),new ActionRowBuilder()[_0x5ea853(0x89)+'nts'](new ButtonBuilder({'custom_id':_0x5ea853(0x7f)+'e','style':0x2,'emoji':_0x31e047[_0x5ea853(0x8a)]['buttons'][_0x5ea853(0x77)]}),new ButtonBuilder({'custom_id':_0x5ea853(0x78),'style':0x2,'emoji':_0x31e047['config']['buttons'][_0x5ea853(0x76)]}),new ButtonBuilder({'custom_id':_0xaf561b['GaHAs'],'style':0x2,'emoji':_0x31e047['config'][_0x5ea853(0x83)]['pause']}),new ButtonBuilder({'custom_id':'playerGrab','style':0x2,'emoji':_0x31e047[_0x5ea853(0x8a)]['buttons']['grab']}),new ButtonBuilder({'custom_id':'playerClea'+'r','style':0x2,'emoji':_0x31e047[_0x5ea853(0x8a)]['buttons'][_0x5ea853(0x88)]}))],deleteMessage(await _0x39ff81[_0x5ea853(0x87)+'l']['send']({'embeds':[_0x31e047['greeting'][-0x10*0x139+0x35*0x88+-0x6e*0x14]],'components':[_0x31e047['greeting'][0x10db+0x14*-0x1f3+0x1622*0x1]]}),0x1*0x1205+0x51d5*-0x3+-0x10dfd*-0x2);}catch(_0x214c52){console[_0x5ea853(0x7e)]('❌\x20\x20\x20✦\x20🥝\x20In'+'itQueue\x20Er'+_0x5ea853(0x7a),_0x214c52);}};function _0xfc74(){const _0x1e8ad2=['6162215RPEWKv','530odBSel','4365lpzhmI','2747507fqubTc','8mLGRAW','actionRows','802eUHkbY','387666lSDeHW','add','queue','playerAdd','loop','ror\x0a','2661900fmBdCt','stop','tions','log','playerQueu','4029164PYgxoT','discord.js','skip','buttons','5315940CcIJLv','playerPrev','setSelfDea','textChanne','clear','addCompone','config','playerSkip'];_0xfc74=function(){return _0x1e8ad2;};return _0xfc74();}
+const { ActionRowBuilder, ButtonBuilder } = require('discord.js')
+const { deleteMessage, isMainGuild } = require('../../Functions')
+
+module.exports = async (client, queue) => {
+   try {
+      if(isMainGuild(queue.textChannel.guild.id, client.config.guild.id)) await queue.voice.setSelfDeaf(false)
+      await queue.setRepeatMode(2)
+      await queue.setVolume(99)
+
+      queue.actionRows = [
+         new ActionRowBuilder().addComponents(
+            new ButtonBuilder({ custom_id: 'playerShuf', style: 2, emoji: client.config.buttons.shuf }),
+            new ButtonBuilder({ custom_id: 'playerPrev', style: 2, emoji: client.config.buttons.prev }),
+            new ButtonBuilder({ custom_id: 'playerStop', style: 4, emoji: client.config.buttons.stop }),
+            new ButtonBuilder({ custom_id: 'playerSkip', style: 2, emoji: client.config.buttons.skip }),
+            new ButtonBuilder({ custom_id: 'playerLoop', style: 2, emoji: client.config.buttons.loop }),
+         ),
+         new ActionRowBuilder().addComponents(
+            new ButtonBuilder({ custom_id: 'playerQueue', style: 2, emoji: client.config.buttons.queue }),
+            new ButtonBuilder({ custom_id: 'playerAdd',   style: 2, emoji: client.config.buttons.add }),
+            new ButtonBuilder({ custom_id: 'playerPause', style: 2, emoji: client.config.buttons.pause }),
+            new ButtonBuilder({ custom_id: 'playerGrab',  style: 2, emoji: client.config.buttons.grab }),
+            new ButtonBuilder({ custom_id: 'playerClear', style: 2, emoji: client.config.buttons.clear }),
+         ),
+      ]
+
+      deleteMessage(await queue.textChannel.send({ embeds: [client.greeting[0]], components: [client.greeting[1]] }), 80000)
+   } catch (error) {
+      console.log('❌   ✦ 🥝 InitQueue Error\n', error)
+   }
+}
