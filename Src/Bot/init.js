@@ -28,7 +28,9 @@ const loadFiles = async (path, callback) => {
 
 const loadEvents = async (client, path) => {
    const emitter = path.includes('Client') ? client : client.player
-   await loadFiles(path, async (event) => emitter.on(event.name, event.run.bind(null, client)))
+   await loadFiles(path, async (event) => {
+      emitter.on(event.name, event.run.bind(null, client))
+   })
 }
 
 const loadCommands = async (client, path) => {
@@ -41,5 +43,7 @@ const loadCommands = async (client, path) => {
 }
 
 const loadButtons = async (client, path) => {
-   await loadFiles(path, async (button) => client.buttons.set(button.name, button.run))
+   await loadFiles(path, async (button) => {
+      client.buttons.set(button.name, button.run)
+   })
 }

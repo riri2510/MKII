@@ -63,8 +63,7 @@ module.exports = {
          embed.setDescription(`Sent message to <#${channel.id}>: ${messageContent}`)
          deleteMessage(await interaction.editReply({ embeds: [embed] }), 20000)
       } catch (error) {
-         sendErrorEmbed(interaction, embed)
          console.log('❌  ✦ Send Message Error', error)
       }
-   },
+   }
 }

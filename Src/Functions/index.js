@@ -167,7 +167,7 @@ async function playMusic(interaction, name, position) {
       //await playSong(interaction, cachedItem, position)
    //} else {
       if (isMix) {
-         const playList = await getMix(name,interaction.client.config.key, interaction.client.player.handler)
+         const playList = await getMix(name,interaction.client.config.api, interaction.client.player.handler)
          name = playList
          //interaction.client.cache.addMix(name, playList)
       } 
@@ -190,13 +190,13 @@ async function playSong(interaction, name, position) {
          printData('❌   ✦ 🍕 Play Error\n', error)
       })
 }
-async function getMix(url, key, handler) {
+async function getMix(url, api, handler) {
    try {
       const response = await google.youtube('v3').playlistItems.list({
          part: 'snippet',
          playlistId: url.match(/list=([a-zA-Z0-9_-]+)/)[1],
          maxResults: 21,
-         key: key,
+         key: api,
       })
 
       const urls = response.data.items.map((item) => `https://www.youtube.com/watch?v=${item.snippet.resourceId.videoId}`)
