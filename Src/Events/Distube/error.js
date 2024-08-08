@@ -1,3 +1,6 @@
-module.exports = async (client, error) => {
-   console.log('❌   ✦ 🥝 Distube Error\n', error)
+module.exports = {
+   name: 'error',
+   run: async (client, error) => {
+      console.log('❌   ✦ 🥝 Distube Error\n', error)
+   }
 }

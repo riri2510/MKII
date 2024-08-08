@@ -1,9 +1,10 @@
 const { SoundCloudPlugin } = require('@distube/soundcloud')
 const { SpotifyPlugin } = require('@distube/spotify')
 const { YouTubePlugin } = require('@distube/youtube')
+require('dotenv').config()
 
 const cookies = require('./cookies')
-require('dotenv').config()
+
 
 module.exports = {
    token: process.env.token,

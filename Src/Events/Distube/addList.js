@@ -1,9 +1,12 @@
 const { getAddListEmbed } = require('../../Functions')
 
-module.exports = async (client, queue, list) => {
-   try {
-      queue.textChannel.send({ embeds: [getAddListEmbed(client, list)] }).catch(() => {})
-   } catch (error) {
-      console.log('❌   ✦ 🥝 AddList Error\n', error)
+module.exports = {
+   name: 'addList',
+   run: async (client, queue, list) => {
+      try {
+      } catch (error) {
+         queue.textChannel.send({ embeds: [getAddListEmbed(client, list)] }).catch(() => {})
+         console.log('❌   ✦ 🥝 AddList Error\n', error)
+      }
    }
 }
