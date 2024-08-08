@@ -3,7 +3,7 @@ const { deleteMessage, isOwner, isAdmin, strict, sendErrorEmbed } = require('../
 
 const settingsOptions = {
    'admin-id': (value, interaction) => isOwner(interaction) && (interaction.client.config.admin.id = value),
-   api: (value, interaction) => (interaction.client.config.api = value),
+   'api': (value, interaction) => (interaction.client.config.api = value),
    'dj-role': (value, interaction) => (interaction.client.config.users.roles = value.split(' ')),
    'embed-color': (value, interaction) => (interaction.client.config.embed.color = value),
    'embed-thumbnail': (value, interaction) => (interaction.client.config.embed.thumbnail = value),
