@@ -1,5 +1,6 @@
 module.exports = async (client) => {
    client.login(client.config.token).catch(() => {
+      console.log('❌    ✦ 🍕 Reconnecting...')
       client.login(client.config.token)
    })
    

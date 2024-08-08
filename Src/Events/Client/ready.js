@@ -4,8 +4,8 @@ module.exports = {
    name: 'ready',
    run: async (client) => {
       try {
-         console.log('\x1b[35m%s\x1b[0m', '✔️   ✦ 💖 From Pooba Saga With Luv')
-         console.log('\x1b[35m%s\x1b[0m', '✔️   ✦ 🪐 Logged in as -- ' + client.user.username)
+         console.log('✔️    ✦ 💖 From Pooba Saga With Luv')
+         console.log('✔️    ✦ 🪐 Logged in as -- ' + client.user.username)
 
          const { guild, global } = client.config.test.status
             ? { guild: client.interface.flat(), global: [] }
@@ -20,11 +20,9 @@ module.exports = {
                .setThumbnail(client.config.embed.thumbnail)
                .setDescription(
                   '✦ Wish you a happy music time, moah moah\n' +
-                     '✦ Click buttons below for more info\n' +
-                     '✦ From Pooba Saga with luv\n' +
-                     '✦ ' +
-                     client.user.username +
-                     ' :3'
+                  '✦ Click buttons below for more info\n' +
+                  '✦ From Pooba Saga with luv\n' +
+                  '✦ ' + client.user.username + ' :3'
                ),
 
             new ActionRowBuilder().addComponents(

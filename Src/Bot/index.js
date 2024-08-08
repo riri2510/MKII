@@ -1,15 +1,17 @@
 const { Client, GatewayIntentBits} = require('discord.js')
 
 module.exports = class MeowBot {
-   constructor(config) {
-      this.client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildVoiceStates] })
-      this.client.config = config
+   #client
 
-      require('./init')(this.client)
-      require('./login')(this.client)
+   constructor(config) {
+      this.#client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildVoiceStates] })
+      this.#client.config = config
+
+      require('./init')(this.#client)
+      require('./login')(this.#client)
    }
 
-   server() {
+   arise() {
       require('express')().get('/', (_, res) => res.send('🪐')).listen(4000)
    }
 }
