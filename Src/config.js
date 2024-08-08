@@ -9,6 +9,7 @@ const cookies = require('./cookies')
 module.exports = {
    token: process.env.token,
    key: process.env.key || '',
+   shard: Boolean(process.env.shard),
    autoJoin: Boolean(process.env.autoJoin),
    plugins: { plugins: [new YouTubePlugin(cookies), new SpotifyPlugin(), new SoundCloudPlugin()] },
 
